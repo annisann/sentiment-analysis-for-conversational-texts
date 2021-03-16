@@ -3,7 +3,7 @@ timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
 28/9/20,dosen,"Waalaikumsalam, ya mbak ",-1,-1
 28/9/20,mahasiswa,"Maaf Bapak, untuk vidio P0 dan melakukan bimbingan kepada Bapak dikirim melalui apa ya Pak? ",1,-1
 29/9/20,mahasiswa,"Assalamualaikum Wr Wb, mohon maaf mengganggu waktunya Pak [DOSEN]. Saya [MHS] ingin bertanya untuk pengiriman vidio P0 dan melakukan bimbingan kepada Bapak melalui media apa ya Pak? Terima kasih banyak Bapak atas waktunya. Wassalamualaikum Wr. Wb. ",1,-1
-2/10/20,mahasiswa,<Media omitted>,1,1
+2/10/20,mahasiswa,<DOC>,1,1
 2/10/20,mahasiswa,"Assalamualaikum Wr Wb, mohon maaf mengganggu waktunya Pak [DOSEN]. Saya [MHS] dari angkatan 2017 ingin melakukan bimbingan skripsi. Berikut saya lampirkan proposal skripsi saya. Terima kasih banyak atas waktunya. Wassalamualaikum Wr. Wb. ",1,1
 2/10/20,dosen,"Ya mbak, sy bacanya dulu ",1,1
 2/10/20,mahasiswa,Baik Bapak,1,1
@@ -28,20 +28,20 @@ timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
 13/10/20,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Ingin bertanya apakah Bapak ada waktu untuk melakukan bimbingan Pak? Terima kasih banyak atas waktunya Pak [DOSEN] ",1,1
 13/10/20,dosen,"Untuk jadwal bimbingan sy alokasikan Senin jam 13.00, dan  Rabu jam 10.00 ",1,1
 13/10/20,mahasiswa,Baik Bapak terima kasih banyak atas informasinya,1,1
-14/10/20,mahasiswa,<Media omitted>,1,-1
+14/10/20,mahasiswa,<DOC>,1,-1
 14/10/20,mahasiswa,"Assalamualaikum Wr Wb, selamat pagi Pak [DOSEN]. Ingin bertanya terkait dokumen proposal skripsi saya apakah ada saran dan masukan Pak?dokumen proposal skripsi berikut saya lampirkan, dan ingin bertanya untuk mekanisme P0 daring kepada Bapak bagaimana ya Pak? Dikarenakan saya sudah melaksanakan P0 dengan dosen 1 saya yakni Pak [DOSEN] melalui vidio e-mail. Terima kasih banyak Bapak. ",1,-1
 14/10/20,dosen,"Waalaikumsalam, untuk pustakanya, apa ada yg terindeks scopus ? ",1,-1
 14/10/20,mahasiswa,"Untuk yang terideks scopus ada 6 pak berikut judul-judulnya 1. Internet Traffic Detection using Naïve Bayes and K-Nearest Neighbors (KNN) algorithm 2.  Distributed Denial of Service Attack Detection using Naïve Bayes and K-Nearest Neighbor for Network Forensics 3.  An Ensemble-Based Feature Selection and Classification of Gene Expression using Support Vector Machine, K-Nearest Neighbor, Decision Tree  4. Comparison between K-Nearest Neighbor and Support Vector Machine Algorithms for PPG Biometric Identification 5. Sentiment analysis on Twitter posts: An analysis of positive or negative opinion on GoJek 6. Network intrusion detection using feature selection and Decision tree classifier ",1,-1
 19/10/20,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Saya [MHS] dari TIF 17. Pada Filkom apps untuk verifikasi proposal dan logbook bimbingan menunggu dari persetujuan Bapak, sekiranya apakah Bapak bersedia untuk validasi? Terima kasih banyak Bapak ",1,1
-19/10/20,dosen,<Media omitted>,1,1
+19/10/20,dosen,<DOC>,1,1
 19/10/20,mahasiswa,Baik Bapak terima kasih banyak,1,1
-21/10/20,mahasiswa,<Media omitted>,1,-1
+21/10/20,mahasiswa,<DOC>,1,-1
 21/10/20,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Saya ingin melakukan bimbingan skripsi BAB 4, berikut dokumen skripsi saya lampirkan. Terima kasih banyak atas waktunya Pak [DOSEN] ",1,-1
 23/10/20,dosen,"ya mbak, sy bacanya dulu ",1,1
 23/10/20,mahasiswa,Baik Bapak,1,1
 26/10/20,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Untuk dokumen skripsi BAB 4 yang saya kirimkan hari rabu minggu lalu apakah ada masukan pak? Terima kasih banyak atas waktunya Bapak ",1,-1
 2/11/20,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Ingin melakukan bimbingan BAB 4, apakah ada masukan untuk skripsi saya Pak? Berikut dokumen saya lampirkan. Terima kasih banyak atas waktunya Bapak ",1,-1
-2/11/20,mahasiswa,<Media omitted>,1,-1
+2/11/20,mahasiswa,<DOC>,1,-1
 4/11/20,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Ingin bertanya apakah Bapak ada waktu untuk melakukan bimbingan Pak? Terima kasih banyak atas waktunya Pak [DOSEN] ",1,-1
 9/11/20,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Untuk dokumen skripsi BAB 4 yang saya kirimkan hari senin minggu lalu apakah ada masukan pak? Terima kasih banyak atas waktunya Bapak ",1,-1
 16/11/20,dosen,Ya mbak,-1,-1
@@ -54,18 +54,18 @@ timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
 14/1/21,mahasiswa,Assalamualaikum Wr Wb Pak [DOSEN]. Saya [MHS] dari TIF 17. Ingin meminta verifikasi  evaluasi pada filkom apps. Terina kasih banyak Bapak,1,-1
 15/1/21,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Saya [MHS] dari TIF 17. Pada filkom apps untuk verifikasi hasil evaluasi menunggu dari persetujuan Bapak selaku dosen pembimbing 2, sekiranya apakah Bapak bersedia untuk validasi? Dikarenakan deadline untuk evaluasi adalah tanggal 15 Januari. Terima kasih banyak Bapak ",1,-1
 15/1/21,dosen,Wass. Ada perkembangan apa skripsinya ?,-1,-1
-15/1/21,mahasiswa,<Media omitted>,1,-1
+15/1/21,mahasiswa,<DOC>,1,-1
 15/1/21,mahasiswa,"Berikut bapak dokumennya, namun untuk lampiran belum saya masukan dikarenakan masih mencoba untuk menambahkan akurasi dan merubah-rubah data Pak ",1,-1
 15/1/21,mahasiswa,"Assalamualaikum Pak [DOSEN], mohon maaf Bapak untuk filkom apps saya menunggu persetujuan dari dosen pembimbing 2 apakah Bapak bersedia untuk validasi perpanjangan surat tugas? Terima kasih banyak Bapak sebelumnya ",1,-1
 16/1/21,dosen,"Waalaikumsalam, di apps kok gak ada info ya mbak ? ",1,-1
 16/1/21,mahasiswa,Info apa ya Pak? Di saya bersisa menunggu verifikasi Bapak saja pak,1,-1
 16/1/21,mahasiswa,"Assalamualaikum Wr Wb Pak [DOSEN], dari Pak [DOSEN] mengatakan untuk approve dari Filkom apps pak apakah bisa? Dan Pak [DOSEN] bilang kalau ada notifikasinya pak, namun untuk deadlinenya kemarin pak. Terima kasih banyak Bapak sebelumnya ",1,-1
 16/1/21,dosen,Kok gak ada notifikasinya ya,1,-1
-16/1/21,mahasiswa,<Media omitted>,1,-1
-16/1/21,mahasiswa,<Media omitted>,1,-1
+16/1/21,mahasiswa,<DOC>,1,-1
+16/1/21,mahasiswa,<DOC>,1,-1
 16/1/21,mahasiswa,"Ada pak, ini dari Pak [DOSEN] ",1,-1
 18/1/21,mahasiswa,"Assalamualaikum Wr Wb, mohon maaf mengganggu waktunya Pak [DOSEN]. Untuk Filkom apps saya membutuhkan verifikasi Bapak, apakah Bapak bersedia? Terima kasih banyak sebelumnya ",1,-1
-15/2/21,mahasiswa,<Media omitted>,1,1
+15/2/21,mahasiswa,<DOC>,1,1
 15/2/21,mahasiswa,"Assalamualaikum Wr Wb, mohon maaf mengganggu waktunya. Saya [MHS] dengan NIM 175150207111002. Ingin melakukan bimbingan, berikut untuk dokumen saya lampirkan dan progress saya sudah selesai hingga abstrak. Terima kasih banyak Bapak atas waktunya ",1,1
 15/2/21,dosen,"Waalaikumsalam, ya mbak, sy baca"" dulu ",1,1
 15/2/21,mahasiswa,"Baik Bapak, terima kasih banyak ",1,1
