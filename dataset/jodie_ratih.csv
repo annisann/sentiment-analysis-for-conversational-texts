@@ -1,0 +1,47 @@
+timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
+23/05/19,dosen,[MHS] judulmu apa ada perubahan?,1,1
+23/05/19,mahasiswa,Tidak ada bu. Jadi yg location based service,1,1
+23/05/19,mahasiswa,Asal ada pendukungnya kata pak Komang ngga apa2. Pendukungnya sudah saya masukkan jg ke bab 2,1,1
+23/05/19,dosen,Ok,1,1
+23/05/19,dosen,[MHS] saya blm bs masukin p2 soalnya logbookmu masih kurang,1,1
+23/05/19,mahasiswa,Yg pak komang belum masuk ya bu?,1,1
+23/05/19,mahasiswa,"Perlu saya hubungi pak Komang, bu? ",1,1
+23/05/19,dosen,Iya pak komang kurang 1,1,1
+23/05/19,mahasiswa,Belum diacc bu logbook saya dgn pak Komang,1,1
+23/05/19,dosen,Iya gpp masi sampe besok batas p2nya,1,1
+23/05/19,mahasiswa,Ooo oke bu. Saya hubungi pak Komang ya?,1,1
+23/05/19,dosen,Iya,1,1
+23/05/19,mahasiswa,Baik bu,1,1
+01/07/19,dosen,[MHS] gmn tmnmu ada yg minat ngoding?,1,1
+01/07/19,mahasiswa,"Sbtr bu, nanti sore teman saya memberi kabar ",1,1
+01/07/19,mahasiswa,"Assalamuaikum bu [DOSEN], selamat sore, maaf teman saya katanya ragu Bu jd sepertinya menolak. Mohon maaf bu ",1,1
+01/07/19,dosen,Wass. Iya gpp,1,1
+01/07/19,mahasiswa,Baik bu,1,1
+03/07/19,mahasiswa,"Selamat sore bu [DOSEN], berhubung saya ingin tangan persrtujuan skripsi, apa besok ibu ada di kampus? Kalau ada, jam berapa ya bu? ",1,-1
+03/07/19,mahasiswa,Minta tanda tangan*,1,-1
+03/07/19,mahasiswa,Maaf bu typo,1,-1
+04/07/19,dosen,Jam set 1 y,1,1
+04/07/19,mahasiswa,"Baik bu, terima kasih ",1,1
+16/07/19,mahasiswa,"Assalamualaikum, selamat pagi bu [DOSEN]. Hari ini saya mau memberikan undangan utk sidang saya hari Kamis pagi, bu. Kalau boleh tau, ibu bisa ditemui jam berapa ya bu untuk hari ini? Terima kasih bu, mohon maaf mengganggu ",1,1
+16/07/19,dosen,Wass. Jam 12 sj,1,1
+16/07/19,mahasiswa,Baik bu terima kasih,1,1
+16/07/19,mahasiswa,"Selamat siang, bu [DOSEN], mohon maaf bu, ternyata dari akademik baru selesai proses undangannya jam 2 siang nanti ",1,1
+16/07/19,dosen,Ya nanti tlg ditaruh meja saya,1,1
+16/07/19,mahasiswa,Baik bu terima kasih,1,1
+18/07/19,mahasiswa,"Assalamualaikum, selamat pagi bu [DOSEN], mohon maaf, untuk kedua pengujinya sudah datang bu. Di ruang F4.5 ",1,1
+18/07/19,dosen,Ok saya jlm,1,1
+02/08/19,mahasiswa,"Selamat pagi bu [DOSEN], apa nanti sore sekitar jam 2 atau 3 masih ada di ruangan? Saya masih menunggu ttd dr pak Tri bu, jd mungkin setelah solat Jumat baru bisa diambil lembar pengesahannya. Ingin sekalian mengumpulkan artefak & ttd form revisi kalau misal ibu ms ada di ruangan. Terima kasih bu ",1,1
+02/08/19,dosen,Iya gpp,1,1
+02/08/19,mahasiswa,Baik bu terima kasih,1,1
+14/02/20,dosen,"[MHS], apa kabar? ",1,-1
+14/02/20,dosen,Makasi ya oleh2nya yg disampein sama faishal,1,-1
+15/02/20,mahasiswa,"Baik bu [DOSEN], alhamdulillah ",1,1
+15/02/20,mahasiswa,Iya bu sedikit terima kasih dr saya dan faisal hehehe semoga bermanfaat,1,1
+15/02/20,dosen,Iyaa..,1,1
+15/02/20,dosen,Sukses terus ya [MHS],1,1
+15/02/20,mahasiswa,"Ya bu terima kasih , ibu juga. Nitip heru sm hezki, marahin aja bu si hezki kalo males2 ",1,1
+15/02/20,dosen,Wkwkwkwk...iya beres..,1,1
+21/02/20,mahasiswa,"Bu [DOSEN], kemaren sudah saya terima flashdrivenya . Terima kasih ya bu. Semoga bermanfaat buat saya ",1,-1
+21/02/20,dosen,Iya [MHS]..sama2 ya,1,-1
+21/02/20,dosen,Mudah2an dipake jg. .,1,-1
+21/02/20,dosen,Faishal langsung balik ya abis wisuda?,1,-1

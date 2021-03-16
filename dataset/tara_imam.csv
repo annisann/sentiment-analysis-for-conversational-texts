@@ -1,0 +1,125 @@
+timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
+05/09/19,mahasiswa,"Assalamualaikum wr wb. Selamat sore pak, mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika Filkom angkatan 2016, ingin mengajukan topik skripsi. Kira-kira kapan saya bisa menemui bapak ? Terima kasih pak. Wassalamualaikum Wr.Wb.",1,1
+05/09/19,dosen,Wa'alaikumsalam wr wb. In Syaa Allah hari selasa jam 12.30.,1,1
+05/09/19,mahasiswa,"Baik pak [MHS], terimakasih pak",1,1
+16/09/19,dosen,"Assalamu'alaikum wr wb. [MHS], apakah ada request untuk calon dosbing dosen ke-2 anda?",1,-1
+16/09/19,mahasiswa,"Wa'alaikumsalam wr wb Ada pak yaitu pak [DOSEN]. Tapi kalau dari menurut bapak ada saran yang lebih baik , boleh disarankan ke saya pak. Terimakasih pak.",1,-1
+16/09/19,dosen,Tlg beri saya alternatif ke-2 selain beliau?,1,-1
+16/09/19,mahasiswa,"Jadi saya ada 3 alternatif dosen pak yang saya request yaitu bu [DOSEN], pak [DOSEN], dan pak [DOSEN].",1,-1
+17/09/19,dosen,Noted. 👍,1,1
+19/12/19,mahasiswa,"Assalamualaikum wr wb. Selamat sore pak, mohon maaf mengganggu waktunya dan mohon maaf saya menghubungi bapak di luar jam kerja. Saya [MHS] mahasiswa Teknik Informatika Filkom angkatan 2016, ingin berkonsultasi mengenai topik skripsi. Kira-kira kapan saya bisa menemui bapak ? Terima kasih pak. Wassalamualaikum Wr.Wb.",1,1
+19/12/19,dosen,Wa'alaikumsalam wr wb. In Syaa Allah saya ada waktu besok senin jam 13.00.,1,1
+19/12/19,mahasiswa,"Baik pak [DOSEN], terima kasih pak 🙏🏻",1,1
+26/12/19,mahasiswa,"Assalamualaikum wr wb. Selamat sore pak, mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika Filkom angkatan 2016, ingin berkonsultasi mengenai topik skripsi. Kemarin senin saya sudah menunggu di ruangan tp bapak tidak ada. Kira-kira kapan saya bisa menemui bapak ? Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb.",1,1
+26/12/19,dosen,Wa'alaikumsalam wr wb. In Syaa Allah saya ada waktu besok jam 10.00.,1,1
+26/12/19,mahasiswa,"Baik pak , terima kasih pak 🙏🏻",1,1
+09/01/20,mahasiswa,"Assalamualaikum wr wb. Selamat sore pak, mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika Filkom angkatan 2016, ingin berkonsultasi mengenai topik skripsi. Apakah saya bisa menemui bapak besok pada hari Jum'at? Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb.",1,1
+09/01/20,dosen,Wa'alaikumsalam wr wb. In Syaa Allah besok jam 3 sore.,1,1
+09/01/20,mahasiswa,"Baik pak, terima kasih pak 🙏🏻",1,1
+10/01/20,dosen,"Assalamu'alaikum wr wb. [MHS], In Syaa Allah jadwal bimbingannya saya reschedule menjadi jam 9 pagi hari ini. 🙏",1,1
+10/01/20,mahasiswa,Waalaikumsalam wr wb. Mohon maaf Pak [DOSEN]. Saya habis jatuh di kamar mandi waktu siap-siap mau ke kampus tadi. Untuk sekarang saya belum bisa ke kampus pak. Apakah untuk bimbingannya bisa diganti hari pada hari senin pak? Terima kasih pak🙏🏻,1,1
+10/01/20,dosen,In Syaa Allah besok senin jam 10 pagi.,1,1
+10/01/20,mahasiswa,"Baik pak, terima kasih banyak pak 🙏🏻",1,1
+27/02/20,mahasiswa,"Assalamualaikum wr wb. Selamat sore pak, mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika Filkom angkatan 2016, ingin melakukan bimbingan skripsi. Apakah saya bisa menemui bapak besok pada hari Jum'at? Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb.",1,1
+27/02/20,dosen,Wa'alaikumsalam wr wb. In Syaa Allah saya ada waktu besok jam 14.30.,1,1
+27/02/20,mahasiswa,"Baik pak, terima kasih pak 🙏🏻",1,1
+05/03/20,mahasiswa,"Assalamualaikum wr wb. Selamat siang pak, mohon maaf menganggu waktunya. Saya [MHS] Informatika 2016. Saya ingin konsultasi mengenai topik skripsi saya pak. Jadi kemarin skripsi saya mengenai ""Implementasi Metode Kalman Filter Untuk Prediksi Harga Bahan Pokok di Jawa Timur Berdasarkan Scraping Data Web Siskaperbapo"" namun saya mendapat beberapa kendala pak. Datanya terlalu banyak, akan mendapatkan hasil yang tidak bagus pak karena perubahan data tiap indikator beda beda. Untuk saat ini saya ingin memfokuskan pada 1 objek pak. Sejauh ini saya sudah mengerjakan skripsi dengan judul ""Implementasi Metode Backpropagation Untuk Prediksi Harga Pasar Cabai Keriting di Kota Malang"" Alasan saya memilih cabai karena pada saat ini cabai yang mengalami perubahan harga yang tidak stabil. Apakah di perbolehkan saya mengganti topik skripsi pak? Terimakasih pak sebelumnya 🙏🏻. Wassalamualaikum wr wb.",1,1
+05/03/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], saya ijinkan ganti judul. Mohon mengirimkan base judul yg baru by wa/grup ini utk saya P0 lebih awal sebelum tgl 6 Maret 2020 (Shg pelaksanaan P0 bisa lebih longgar, misal dengan dosbing ke-2 atau tetap mandiri ke msg"" dosbing, meskipun melebihi tgl tersebut): Nama: .. Objek: ... Permasalahan: .. Metodologi: .. Plan tgl P1: .. Plan tgl P2: .. ==================== 1. Nama: [MHS] Objek: Optimasi Penyusunan Barang Dalam Bidang Dua Dimensi Menggunakan Algoritme Genetika Permasalahan: Selama ini Penyusunan Barang dilakukan secara manual, Waktu Penyusunan yang cukup lama, Banyaknya Pesanan Barang sedangkan SDM terbatas Metodologi: Studi Pustaka, Pengumpulan Data, Analisis Kebutuhan, Analisis Perancangan, Implementasi Sistem, Pengujian Sistem (Pengujian Akurasi), Kesimpulan dan Saran (buat standar sama seperti ini tdk apa"") Plan tgl P1: 1 April 2020 (range filkomApp: Mar 02, 2020 - Apr 10 2020) Plan tgl P2: 29 April 2020 (range filkomApp: Mar 30, 2020 - May 29, 2020) 2. .... Monggo dilanjutkan. Terimakasih. 🤓🙏",1,1
+05/03/20,mahasiswa,"Nama : [MHS] Objek : Implementasi Metode Jaringan Syaraf Tiruan Backpropagation Untuk Prediksi Harga Cabai Keriting di Kota Malang Permasalahan : konsumsi cabai keriting di kota malang sangatlah tinggi sedangkan harga cabai keriting selalu mengalami perubahan yang fluktuatif setiap hari. perubahan harga cabai keriting ini juga menyebabkan inflasi di kota malang. saat harga cabai terlalu tinggi maka akan ada perubahan dalam jumlah pembelian, sehingga menyebabkan petani cabai keriting juga mengalami kerugian karena tidak bisa mengembalikan modal mereka. Metodologi : tipe penelitian, strategi penelitian, teknik pengumpulan data, data penelitian, teknik analisis data, implementasi algoritme, pengujian dan analisis, kesimpulan dan saran Plan tgl p1 : 7 april 2020 Plan tgl p2 : 20 mei 2020",1,1
+09/03/20,mahasiswa,"Assalamualaikum wr wb. Selamat sore pak, mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika Filkom angkatan 2016, ingin melakukan bimbingan skripsi. Apakah saya bisa menemui bapak besok pada hari Selasa? Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb.",1,1
+09/03/20,dosen,Wa'alaikumsalam Wr. Wb. In Syaa Allah besok jam 15.30.,1,1
+09/03/20,mahasiswa,"Baik pak, terima kasih pak 🙏🏻",1,1
+24/06/20,mahasiswa,"Assalamualaikum Wr.Wb.Pak. Selamat siang dan mohon maaf mengganggu waktu Bapak. Saya mau menanyakan perihal bimbingan saya Pak, sebelumnya saya sudah mengirim email kepada Bapak. Sekiranya Bapak bisa memeriksa terlebih dahulu. Terima kasih Pak. Wassalamualaikum Wr.Wb.",1,1
+24/06/20,dosen,Wa'alaikumsalam Wr. Wb. Mohon ditunggu. 🙏,1,1
+24/06/20,mahasiswa,"baik pak, terimakasih 🙏🏻",1,1
+26/06/20,dosen,"Assalamu'alaikum Wr. Wb. [MHS], apakah bisa mengisi logbook minimal 3 kali ke dosbing ke-2?",1,1
+26/06/20,dosen,supaya bisa segera saya P1. Terimakasih.,1,1
+26/06/20,mahasiswa,Waalaikumsalam Wr.Wb. Baik pak akan saya follow up lagi ke bu [DOSEN]. Karena saya sudah mengirim email namun belum dibalas balas juga pak.,1,1
+28/07/20,mahasiswa,"Assalamualaikum Wr.Wb.Pak. Selamat sore dan mohon maaf mengganggu waktu Bapak. Saya mau menanyakan perihal p1 saya Pak. Saya sudah bimbingan dengan bu dosen sebanyak 3kali. Apakah saya bisa p1 , Pak ? Terima kasih Pak. Wassalamualaikum Wr.Wb.",1,-1
+28/07/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], apakah hasil run koding sama dengan nilai Fitness dari Gbest akhir pada excel manualisasi? Jika sudah sama, silahkan membuat video presentasi P1 (durasi minimal 15 menit, maks 20 menit), upload ke google drive Anda, lalu share link public-nya ke email saya dan dosbing ke-2 dgn subject ""Video Presentasi P1 Daring utk dosbing 1 dan 2"". Pastikan Audio ter-record dengan baik, dan untuk wajah (tidak wajib terlihat). Tools: Camtasia/ Screen-O-Matic atau lainnya.",1,-1
+28/07/20,mahasiswa,"Mohon maaf Bapak untuk codingan masihh belum 100% selesai pak. Dan untuk presentasi P1 apakah berbeda dengan PPT yang pernah saya kirim ke email bapak yaitu berisi bab 1 hingga bab 4 Pak ? Lalu saya ingin bertanya pak mengenai batas skripsi semester ini kan tanggal 30 juli dan informasi yang saya dapat dengan minimal sudah melakukan p1 bisa melanjutkan skripsi di semester berikutnya. Jika codingan saya insyaAllah minggu depan saya konsultasikan ke Bapak, apakah saya masih bisa melanjutkan skripsi saya di semester berikutnya pak? Terimakasih Pak  🙏🏻",1,-1
+29/07/20,dosen,Sama dengan PPT yg dikirimkan ke saya sebelumnya:,1,-1
+29/07/20,dosen,"Terkait P1, minimal sampai di manualisasi, dan maksimal dapat menunjukkan bahwa hasil manual di excel sama dgn yg di koding. Saya ijinkan hanya sampai di manual dulu, tidak apa"". Tetapi ini saya cek di approve log book-nya bu dosen, blm diapprove sama sekali sama beliau (moon ditanyakan ke beliau), mengingat syarat P1 minimal approve 3x logbook masing"" dosbing.",1,-1
+29/07/20,dosen,"*Jadi coba  fokus dulu untuk meminta approve ke beliau (Bu [DOSEN]), setelah diappove, tlg segera WA saya untuk segera saya ajukan akses terbatas ke jurusan utk penilaian P1. Terimakasih",1,-1
+29/07/20,mahasiswa,Baik Pak  akan saya konfirmasi lagi ke Bu dosen. Terimakasih Pak 🙏🏻,1,-1
+29/07/20,mahasiswa,"Assalamualaikum Wr.Wb Pak [DOSEN], mohon maaf saya menghubungi bapak di malam hari. Saya mau menginfokan bahwa logbook saya sudah di setujui oleh Bu dosen. Wassalamualaikum Wr.Wb",1,-1
+30/07/20,dosen,"Wa'alaikumsalam Wr. Wb. [MHS], ini saya cek di FilkomApp nya belum muncul tombol ""Penilaian P1"". Apakah  dulu sudah upload hasil revisi proposal, setelah P0, dulu?",1,1
+30/07/20,mahasiswa,"Mohon maaf Pak baru saja saya kirim. Saya mendapatkan informasi yang salah kemarin, saya sempat menanyakan ttng hal itu ke teman saya namun katanya tidak perlu mengirim. Terimakasih Pak 🙏🏻",1,1
+30/07/20,dosen,"[MHS], baru saya saya approve dokumen upload proposalnya. Tinggal menunggu approve dari dosbing ke-2, coba dihubungi beliau",1,1
+30/07/20,mahasiswa,"Baik Pak  [DOSEN], terima kasih 🙏🏻",1,1
+30/07/20,mahasiswa,Assalamualaikum Wr.Wb Pak [DOSEN] Saya ingin konfirmasi bahwa proposal setelah P0 saya sudah di approve oleh Bu [DOSEN]. Terimakasih Pak🙏🏻,1,1
+30/07/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], sdh saya ajukan ke Jurusan akses terbatas utk p1-nya, Ini menunggu diapprove.",1,1
+30/07/20,mahasiswa,"Baik Pak , terima kasih 🙏🏻🙏🏻",1,1
+30/07/20,mahasiswa,"Mohon maaf Pak, saya ingin menanyakan perihal approve dari jurusan. Jika sampai jam 4 ternyata belum diproses, itu artinya skripsi saya mengulang pada semester depan atau bagaimana ya Pak? Terima kasih Pak🙏",1,1
+30/07/20,dosen,"Benar [MHS], kembali ke Pra Proposal Lagi. Upload seperti awal dulu. *Tidak apa"", disemester depan In Syaa Allah bisa saya bantu percepat ke-P0 P1 dst. Karena dari bahan judul yg sama saya kira lebih byk yg sudah  siapkan.",1,1
+30/07/20,mahasiswa,"Berarti saya masih bisa pakai judul skripsi yang sekarang ya pak. Alhamdulillah, terima kasih banyak Pak [DOSEN] 🙏🏻🙏🏻 Insya Allah saya akan lebih giat lagi dalam pengerjaan skripsi",1,1
+03/08/20,mahasiswa,<image omitted>,1,1
+03/08/20,dosen,"Wa'alaikumsalam Wr. Wb. Sedang saya ajukan akses khusus kembali, mudah-mudahan segera di-approve oleh jurusan.",1,1
+03/08/20,mahasiswa,"Baik Pak [DOSEN], terima kasih 🙏🏻🙏🏻",1,1
+21/09/20,mahasiswa,"Assalamualaikum Wr. Wb Pak [DOSEN], mohon maaf mengganggu waktu bapak. Saya ingin bertanya pak, untuk dosen pembimbing 2 saya nanti tetap Bu [DOSEN] atau bagaimana ya pak? Dan untuk pelaksanaan p0 dengan Pak  nanti saya mengumpulkan power point bab 1 sampai bab 3 seperti kemarin ya pak ? Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb.",1,1
+21/09/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], In Syaa Allah saya ganti dgn Pak [DOSEN]. Dan utk pelaksanaan P0 (bab 1 sampai bab 3). Buat video presentasi P0 yang mempresentasikan PPT diatas (durasi minimal 10 menit, maks 20 menit), upload ke google drive Anda, lalu share link public-nya ke email saya. Pastikan Audio ter-record dengan baik, dan untuk wajah (tidak wajib terlihat). Tools: Camtasia/ Screen-O-Matic atau lainnya, untuk saya jadikan sebagian pertimbangan nilai P0 Anda.",1,1
+21/09/20,mahasiswa,"Baik Pak , terima kasih Pak🙏🏻🙏🏻",1,1
+02/10/20,mahasiswa,"Assalamualaikum Wr. Wb Pak [DOSEN], mohon maaf mengganggu waktu bapak. Saya ingin menginformasikan bahwa saya sudah mengupload video presentasi p0 dan sudah saya share ke email bapak. Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb.",1,1
+02/10/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], In Syaa Allah segera saya review. Mohon ditunggu. 🙏",1,1
+02/10/20,mahasiswa,"Baik Pak [DOSEN], terima kasih Pak🙏🏻🙏🏻",1,1
+02/10/20,mahasiswa,"Assalamualaikum Wr. Wb Pak [DOSEN], mohon maaf mengganggu waktu bapak. Saya ingin menginformasikan bahwa saya telah mengirimkan email ke pak  pada tgl 19 november untuk konsultasi manualisasi saya. Dan pada tanggal 30 november saya sudah mengupload video presentasi p1 saya pak. Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb.",1,1
+02/10/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], Mohon ditunggu. 🙏🙏",1,1
+02/10/20,mahasiswa,"Baik Pak [DOSEN], terima kasih Pak🙏🏻🙏🏻",1,1
+04/12/20,dosen,"Assalamu'alaikum Wr. Wb. [MHS], mohon mengisi logbook, minimal 3 logbook utk msg"" dosbing.",1,1
+04/12/20,dosen,*Karena utk syarat P1 Anda. Terimakasih.,1,1
+04/12/20,mahasiswa,"Pak untuk yang saya konsul manualisasi di email tetapi masih belum bapak review , apakah boleh saya masukkan di logbook ?",1,1
+04/12/20,dosen,"Baik [MHS], sambil menunggu review dari saya. Saya ijinkan.",1,1
+04/12/20,mahasiswa,"Baik Pak  [DOSEN], terimakasih🙏🏻",1,1
+11/12/20,mahasiswa,"Assalamualaikum Wr. Wb Pak [DOSEN], mohon maaf mengganggu waktu bapak. Saya ingin menginformasikan bahwa status skripsi saya masih menunggu verifikasi dari pembimbing 1 pak untuk rekomendasi P1. Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb.",1,1
+11/12/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], terimakasih sdh diingatkan, sdh saya approve, sambil menunggu review dari saya, saya ijinkan untuk melanjutkan dulu mengerjakan draft bab 5 dan 6 utk persiapan P2. 🙏",1,1
+11/12/20,mahasiswa,"Baik Pak [DOSEN], terimakasih Pak🙏🏻",1,1
+17/12/20,mahasiswa,"Assalamualaikum Wr. Wb Pak [DOSEN], mohon maaf mengganggu waktu bapak. Saya ingin bertanya terkait beberapa hal Pak, yaitu : 1. Saya ingin berkonsultasi mengenai program saya pak. Untuk perhitungan inverse di metode ELM , saya menggunakan library np.linalg.inv() apakah boleh ya Pak ? 3. Saya ingin menanyakan partikel dan populasi pada PSO pak karena terdapat 2 jurnal yg berbeda. Apakah benar partikel itu merupakan nilai tiap individu didalam suatu populasi ya Pak? 4. Mohon maaf Pak, saya kurang mengetahui jadwal uas induksi riset Pak, saya baru tahu dari atika kemarin malam Pak . Untuk sekarang apakah saya masih bisa mengumpulkan ya Pak ? Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb",1,1
+17/12/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik , 1. Saya ingin berkonsultasi mengenai program saya pak. Untuk perhitungan inverse di metode ELM , saya menggunakan library np.linalg.inv() apakah boleh ya Pak ? --> sebaiknya koding mandiri, karena merupakan alg. utama 3. Saya ingin menanyakan partikel dan populasi pada PSO pak karena terdapat 2 jurnal yg berbeda. Apakah benar partikel itu merupakan nilai tiap individu didalam suatu populasi ya Pak? --> Partikel atau Individu itu se, kumpulan dari Partikel disebut Populasi 4. Mohon maaf Pak, saya kurang mengetahui jadwal uas induksi riset Pak, saya baru tahu dari atika kemarin malam Pak . Untuk sekarang apakah saya masih bisa mengumpulkan ya Pak ? --> Baik saya ijinkan, maks. pengumpulannya sampai hari ini jam 16.30.",1,1
+17/12/20,mahasiswa,Baik Pak akan saya perbaiki codingan saya,1,1
+17/12/20,mahasiswa,‎You deleted this message.,-1,1
+17/12/20,dosen,Apakah sudah login ke gmail Anda?,1,1
+17/12/20,dosen,Tidak saya kunci,1,1
+17/12/20,mahasiswa,Sudah saya upload di google drive pak,1,1
+18/12/20,mahasiswa,"Assalamualaikum Wr.Wb Pak  Pak , saya ingin bertanya. Apakah bisa mata kuliah induksi riset saya di drop ya pak? Dikarenakan saya ada tangguhan pembayar UKT sebesar 50% Pak. Terimakasih Pak . Wasaalamualaikum Wr.Wb.",1,1
+18/12/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik , In Syaa Allah bisa, monggo jika mau di-drop, silahkan diajukan ke akademik.",1,1
+18/12/20,mahasiswa,Berarti saya langsung menghubungi akademik ya pak ? Dan saya ingin bertanya pak. Untuk P2 itu harus sampai bab 7 atau bab 6 ya pak ?,1,1
+18/12/20,dosen,Berarti saya langsung menghubungi akademik ya pak ? --> benar Dan saya ingin bertanya pak. Untuk P2 itu harus sampai bab 7 atau bab 6 ya pak ? --> min. bab 6,1,1
+18/12/20,mahasiswa,"Baik Pak [DOSEN], akan saya selesaikan. Progres skripsi saya sampai bab 5 pak. akan segera saya kumpulkan hasil screenshot program.",1,1
+21/12/20,mahasiswa,"Assalamualaikum Wr. Wb Pak [DOSEN], mohon maaf mengganggu waktu bapak. Saya ingin bertanya terkait beberapa hal Pak, yaitu : 1. Saya ingin menginformasikan bahwa saya telah mengirimkan hasil screenshot program dan pengujian di email bapak. Belum saya lampirkan skripsi saya bab 1-4 dikarenakan masih pembenaran flowchart. Besok akan saya kirimkan skripsi saya Pak. 2. Pada update kecepatan PSO diberikan nilai batas. Nilai batas v didapat dari presentase dari nilai x. contoh 60%x berarti -0.6 untuk vmin. dan 0,6 vmax. Apakah perlu saya masukkan didalam pengujian saya ya pak dengan nama ""Pengujian Pengaruh Nilai Batas Pada Kecepatan"" ? 3. Jika saya ingin melakukan P2 bagaimana ya Pak? Agar skripsi saya bisa dilanjut semester depan. Saya pesimis bisa semhas di semester ini Pak karena deadline daftar semhas tanggal 23 besok. Terima kasih pak sebelumnya. Wassalamualaikum Wr.Wb",1,-1
+22/12/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], 1. Saya ingin menginformasikan bahwa saya telah mengirimkan hasil screenshot program dan pengujian di email bapak. Belum saya lampirkan skripsi saya bab 1-4 dikarenakan masih pembenaran flowchart. Besok akan saya kirimkan skripsi saya Pak. --> sudah saya reply, mohon dilampirkan juga excel, silahkan utk dok.-nya menyusul 2. Pada update kecepatan PSO diberikan nilai batas. Nilai batas v didapat dari presentase dari nilai x. contoh 60%x berarti -0.6 untuk vmin. dan 0,6 vmax. Apakah perlu saya masukkan didalam pengujian saya ya pak dengan nama ""Pengujian Pengaruh Nilai Batas Pada Kecepatan"" ? --> Baik, saya ijinkan, paling tidak minimal ada pengujian di keduanya metode yg digunakan, terutama pengujian konvergensi di PSO wajib ada 3. Jika saya ingin melakukan P2 bagaimana ya Pak? Agar skripsi saya bisa dilanjut semester depan. Saya pesimis bisa semhas di semester ini Pak karena deadline daftar semhas tanggal 23 besok. --> In Syaa Allh dari P1 sudah cukup untuk lanjut P2 disemester berikutnya, untuk syarat P2, paling tidak sudah sampai bab 6 dan minimal ada 1 skenario pengujian yg sudah diselesaikan dan disertai analisis yg mendalam.",1,1
+22/12/20,mahasiswa,"Baik Pak [DOSEN], sudah saya kirimkan dokumen skripsi saya dan manualisasi excel saya ke email Bapak.",1,1
+22/12/20,dosen,"Baik [MHS], noted. In Syaa Allah segera saya review.",1,1
+22/12/20,mahasiswa,Terimakasih Pak  🙏🏻,1,1
+24/12/20,mahasiswa,"Assalamualaikum Wr. Wb Pak [DOSEN], mohon maaf mengganggu waktu Bapak dan mohon maaf menghubungi Bapak diluar jam kerja. Saya ingin bertanya, jadi saya ingin mengejar semhas disemester ini Pak dikarenakan deadline daftar semhas diperpanjang sampai tanggal 30 desember. Apa boleh ya Pak ? Terimakasih Pak. Wassalamualaikum Wr.Wb.",1,1
+24/12/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], saya ijinkan, sambil menunggu review dari saya, jika ada progress dok., silahkan langsung dikirimkan ke email saya.",1,1
+24/12/20,mahasiswa,"Baik Pak [DOSEN], terimakasih Pak 🙏🏻",1,1
+29/12/20,dosen,"Assalamu'alaikum Wr. Wb. , saya ijinkan untuk mengusahakan segera daftar semhas/sidang. Terimakasih.",1,1
+29/12/20,mahasiswa,Baik Pak [DOSEN] terimakasih banyak🙏🏻 Terkait revisi dari Pak  juga sudah saya perbaiki. Kurang membuat jurnal saja Pak,1,1
+30/12/20,mahasiswa,Assalamualaikum Wr. Wb Pak [DOSEN] Saya sudah mengajukan semhas Pak . menunggu diverifikasi. Mohon maaf saya terlalu lama mengajukannya Pak dikarenakan ada kendala administrasi. Terimakasih Pak  Wassalamualaikum Wr.Wb,1,1
+30/12/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik , apakah hasil cek plagiasinya bisa dikirimkan ke email saya?",1,1
+30/12/20,mahasiswa,"Pak [DOSEN] sepertinya saya jadi pengajuan semhas , dikarenakan beberapa maslaah: 1. Saya menunggu kabar dari keuangan terkait UKT saya ternyata tidak mendapatkan kabar juga. 2. Lalu saya ingin melakukan pembayaran tidak bisa pak melalui transfer namun follow up keuangan juga tidak dijawab pak",-1,1
+30/12/20,mahasiswa,Saya bingung harus bagaimana Pak,1,1
+30/12/20,mahasiswa,Apakah untuk pengumpulan persyaratan bisa menyusul ya Pak?,1,1
+30/12/20,dosen,Sudah menghubungi siapa saja?,1,1
+30/12/20,dosen,persyaratan apa yg belum disiapkan?,1,1
+30/12/20,mahasiswa,"WA Center UKT, Keuangan, karena dari advokesma cuma memberi CP itu saja Pak. Dan baru saja saya menanyakan kepada mas keuangan tapi belum dibalas",1,1
+30/12/20,mahasiswa,Kurang bukti bebas tangguhan UKT saja Pak,1,1
+30/12/20,mahasiswa,Setau saya kalau mau menbayar UKT harus bilang dulu ke keuangan agar di buka. Namu saya mulai tadi pagi chat keuangan belom dibalas juga Pak,1,1
+30/12/20,mahasiswa,Pak [DOSEN] baru saja saya ditelpon oleh Pak kaprodi. Oleh beliau sudah diberikan solusi terkait UKT saya Pak. Saat ini disarankan agar menyelesaikan yang ada di filkom apps terlebih dahulu Pak,1,1
+30/12/20,dosen,"Alhamdulillah, apakah bisa dicapture bukti telp. dari Pak Kaprodi diatas untuk dikirim ke WA saya.",1,1
+30/12/20,dosen,Untuk pengajuan daftar semhas sudah saya approve dan dosbing ke-2 approve,1,1
+30/12/20,mahasiswa,<image omitted>,1,1
+30/12/20,mahasiswa,Terimakasih banyak Pak 🙏🏻🙏🏻,1,1
+30/12/20,dosen,Alhamdulillah. Terimakasih . 🙏🙏,1,1
+30/12/20,mahasiswa,"Baik Pak , sama sama ya Pak",1,1
+08/01/21,mahasiswa,"Assalamualaikum Wr.Wb. Pak  Selamat siang dan mohon maaf mengganggu waktu Bapak. Saya ingin menginformasikan mengenai pelakasanaan ujian skripsi saya yang akan dilaksanaan pada hari Senin, 11 Januari 2021 pukul 08.00-09.15 WIB. Saya mengharap konfirmasi Bapak selaku Dosen Pembimbing pada pelaksanaan sidang skripsi saya. Terima kasih sebelumnya Pak🙏🏻 Wassalamualaikum Wr.Wb.",1,1
+08/01/21,dosen,"Wa'alaikumsalam Wr Wb. Alhamdulillah, baik [MHS], In Syaa Allah saya bisa hadir.",1,1
+08/01/21,mahasiswa,"Baik Pak , terimakasih Pak 🙏🏻",1,1
+11/01/21,dosen,"Assalamu'alaikum Wr. Wb. [MHS], apakah sudah request link G-Meet/Zoom ke dosen penguji ke-1?",1,1
+11/01/21,mahasiswa,"Sudah Pak [MHS], namun belum dibalas oleh Pak [DOSEN]",1,1
+11/01/21,dosen,"Baik [MHS], ditunggu dulu. Jika sudah dapat linknya, tlg share ke dosbing dan penguji ke-2. Terimakasih.",1,1
+11/01/21,mahasiswa,Baik Pak ,1,1
+11/01/21,mahasiswa,Berikut link dari Pak [DOSEN]: https://meet.google.com/lookup/g6bes7hvte?authuser=0&hs=179,1,1
+11/01/21,mahasiswa,"Pak [DOSEN] izin menginformasikan bahwa Pak [DOSEN], Pak [DOSEN], dan Pak [DOSEN] sudah join Gmeet. Terimakasih Pak",1,1
+11/01/21,dosen,PPT-nya  tolong share screen,1,1
+11/01/21,dosen,Silahkan join lagi,1,1
