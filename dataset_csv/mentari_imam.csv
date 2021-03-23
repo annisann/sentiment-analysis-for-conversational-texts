@@ -93,7 +93,7 @@ timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
 23/05/20,dosen,<DOC>,1,1
 23/05/20,dosen,"*perbaiki juga yg berhubungan dengannya. In Syaa Allah itu revisi dari saya, yang lainya sudah cukup bagus. ",1,1
 23/05/20,dosen,tambahan,1,1
-23/05/20,dosen,image omitted,1,1
+23/05/20,dosen,<DOC>,1,1
 23/05/20,mahasiswa,terima kasih pakk segera saya perbaiki,1,1
 24/05/20,mahasiswa,"Assalamualaikum Wr. Wb Minal ‘aidin wal faizin, mohon maaf lahir dan bathin yaa pak Selamat hari raya idul fitri pak.. ",1,1
 24/05/20,dosen,Wa'alaikumsalam Wr. Wb. *Selamat Hari Raya Idul Fitri 1 Syawal 1441 Hijriah. Mohon Maaf Lahir & Batin atas segala kesalahan dan kekhilafan.* *تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُمْ صِيَامَنَا وَصِيَامَكُمْ تَقَبَّلْ يَا كَرِيْمَ* *_Taqabbalallahu Minna wa Minkum shiyaamanaa washiyaamakum taqabbal Yaa Kariim_* Semoga amal ibadah dan shaum kita diterima Allah  ﷻ . *آَمِـــــــــــــيّـٍـِـنْ يَآرَبْ آلٌعَآلَمِِيِن * *وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُه* [DOSEN] & Klg Barokallah. Aamiin Yaa Robbal 'Alamiin.,1,1
@@ -112,7 +112,7 @@ timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
 01/07/20,dosen,"Jika ingin menambahkan, tlg nanti di bab 2 ditambahkan 1 paper atau referensi dari sumber selain paper yang membahas ""Time Series Nested Cross-Validation"". Misal bisa dibaca dari link berikut towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9 *In Syaa Allah sangat sederhana ",1,1
 01/07/20,dosen,Nested CV Methods for a Time Series 1. Predict Second Half 2. Day Forward-Chaining,1,1
 01/07/20,dosen,"Citations dari towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9 ada dibagian paling bawah C. Bergmeir and J. M. Benítez. On the use of cross-validation for time series predictor evaluation. Inf. Sci., 191 192–213, May 2012. ISSN 0020–0255. doi 10.1016/j.ins.2011.12.028. URL dx.doi.org/10.1016/j.ins.2011.12.028. L. J. Tashman. Out-of-sample tests of forecasting accuracy an analysis and review. International Journal of Forecasting, 16(4) 437–450, 2000. URL ideas.repec.org/a/eee/intfor/v16y2000i4p437-450.html. S. Varma and R. Simon. Bias in error estimation when using cross-validation for model selection. BMC Bioinformatics, 7(1) 91, Feb 2006. ISSN 1471–2105. doi 10.1186/1471–2105- 7–91. ",1,1
-01/07/20,mahasiswa,baik pakk terima kasih untuk masukannyaa☺️,1,1
+01/07/20,mahasiswa,baik pakk terima kasih untuk masukannyaa,1,1
 06/07/20,mahasiswa,"Assalamualaikum pak, mohon maaf mengganggu waktunya. Saya ingin bertanya terkait pelaksanaan P2 skripsi pak.. Apakah penilaian P2 masih bisa dilaksanakan pada minggu ini pakk? Dan apakah skripsi saya boleh dilanjutkan untuk semester depan bersama bapak? Terimakasih pakk sebelumnya.. Wassalamualaikum Wr. Wb ",1,1
 06/07/20,dosen,"Wa'alaikumsalam Wr. Wb. Baik [MHS], In Syaa Allah keduanya bisa. Ini saya coba berikan nilai P2 dulu dari pertimbangan saya dari dokumen progress sebelumnya, utk video presentasi P2 bisa disusulkan.  ",1,1
 06/07/20,dosen,<DOC>,1,1
