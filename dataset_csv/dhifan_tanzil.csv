@@ -1,0 +1,34 @@
+timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
+10/13/20 ,mahasiswa,"Assalamualaikum Wr. Wb. Pak, selamat pagi, mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika angkatan 2017 ingin memberikan informasi bahwasanya saya mendapat bimbingan skripsi dengan Bapak selaku dosen pembimbing 2. Perihal surat tugasnya pun sudah terbit pada tanggal 9 Oktober lalu. Adapun yang ingin saya tanyakan Pak, untuk berkomunikasi lebih lanjut dengan Bapak terkait pengerjaan skripsi dapat dilakukan melalui media apa ya Pak? Mohon maaf bila ada salah kata Pak, terima kasih, Wassalamualaikum Wr. Wb. 🙏",1,1
+10/13/20 ,dosen,Wa'alaykumsalam. Via wa ini sj ya,1,1
+10/13/20 ,mahasiswa,"Baik Pak. Perihal waktu bimbingannya sendiri, apakah terdapat ketentuan pada hari dan jam tertentu?",1,1
+10/13/20 ,dosen,Biasanya hari Kamis atau Jumat,1,1
+10/13/20 ,mahasiswa,"Baik Pak. Lalu untuk pelaksanaan P0, apakah terdapat waktu tertentu atau nanti akan ditentukan dan dibahas setelah melakukan bimbingan terlebih dahulu ya Pak?",1,1
+10/13/20 ,dosen,Pembimbing 1 nya siapa?,1,1
+10/13/20 ,mahasiswa,"Pembimbing 1 saya [DOSEN], Pak",1,1
+10/13/20 ,dosen,"Ok, bs langsung P0",1,1
+10/13/20 ,mahasiswa,"Baik pak , nanti akan saya persiapkan untuk P0-nya pada hari Kamis. Terima kasih banyak Pak, mohon maaf mengganggu waktunya. 🙏",1,1
+10/15/20 ,mahasiswa,"Assalamualaikum Wr. Wb., Pak. Mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika angkatan 2017, dengan pak [DOSEN] sebagai dosen pembimbing 2 saya. Mohon izin bertanya Pak, perihal bimbingan dan P0 pada hari ini akan dilaksanakan dengan mekanisme seperti apa ya Pak? Apakah melalui video conference? Dan untuk waktunya kira-kira dilaksanakan pukul berapa ya Pak? Mohon maaf bila ada salah kata Pak, terima kasih, Wassalamualaikum Wr. Wb. 🙏",1,1
+10/15/20 ,dosen,"Wa'alaykumsalam. Pakai Zoom sj, nnt sore jam 4 ya",1,1
+10/15/20 ,mahasiswa,"Baik pak , terima kasih Pak. 🙏",1,1
+10/15/20 ,dosen,"[DOSEN] is inviting you to a scheduled Zoom meeting. Topic: P0 Skripsi Time: Oct 16, 2020 04:00 PM Jakarta Join Zoom Meeting https://us02web.zoom.us/j/83665459864?pwd=RnRqTWVpSHlQRTJHQVkyaUxFUW1Sdz09 Meeting ID: 836 6545 9864 Passcode: 572621",1,1
+10/15/20 ,mahasiswa,"Baik pak , terima kasih. 🙏",1,1
+10/23/20 ,mahasiswa,"Assalamualaikum Wr. Wb., Pak. Mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika angkatan 2017, dengan pak [DOSEN] sebagai dosen pembimbing 2 saya. Mohon izin Pak untuk memberikan progres skripsi saya dan bimbingan pada hari ini. Saya sudah memperbaiki dokumen proposal saya setelah terdapat saran dan masukan dari Bapak. Saya sudah memperbaiki rumusan masalah yang sebelumnya perhitungan akurasi menjadi kualitas clustering. Dan pada tabel interpretasi silhouette coefficient pun sudah saya tambahkan sitasi sumbernya. Disini juga saya ingin bertanya Pak, perihal saran Bapak terkait justifikasi kata-kata yang tidak termasuk dalam positif maupun negatif yang langsung saya masukan kedalam netral. Sebenarnya saya masih belum menemukan sumber justifikasi tersebut, namun jika nanti saya sudah menemukan sumber justifikasinya, apakah harus saya tambahkan kepada dokumen proposal atau tidak ya Pak? Berikut dokumen proposal setelah P0 saya lampirkan. Mohon maaf bila ada salah kata Pak, terima kasih, Wassalamualaikum Wr. Wb. 🙏",1,-1
+10/23/20 ,mahasiswa,<DOC>,1,-1
+11/3/20,dosen,"Ok, silahkan nnt jk sudah dapat justifikasinya bisa ditambahkan",1,-1
+11/4/20,mahasiswa,"Baik Pak, terima kasih pak  🙏",1,-1
+11/6/20,mahasiswa,"Assalamualaikum Wr. Wb., Pak. Mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika angkatan 2017, dengan pak [DOSEN] sebagai dosen pembimbing 2 saya. Mohon izin Pak untuk menginformasikan progres skripsi saya dan bimbingan pada hari ini. Saya sudah menambahkan justifikasi pada ekspresi sentimen netral yang diambil dari ekspresi selain positif dan negatif. Justifikasi tersebut saya tempatkan pada bagian 2.7 Feature Vector Extraction, karena kamus ekspresi sentimen digunakan pada tahapan tersebut. Saya pun menambahkan beberapa penjelasan perihal kondisi yang akan saya lakukan pada penelitian di bagian tersebut. Berikut dokumen proposal saya lampirkan. Mohon maaf bila ada salah kata Pak, terima kasih, Wassalamualaikum Wr. Wb. 🙏",1,-1
+11/6/20,mahasiswa,<DOC>,1,-1
+11/13/20 ,mahasiswa,"Assalamualaikum Wr. Wb., Pak. Mohon maaf mengganggu waktunya. Saya  mahasiswa Teknik Informatika angkatan 2017, dengan pak  sebagai dosen pembimbing 2 saya. Mohon izin Pak untuk menginformasikan progres skripsi saya dan bimbingan pada hari ini. Pada saat hari Selasa lalu, saya telah berkonsultasi kepada bu Yuita perihal judul skripsi. Dan menurut beliau, dikarenakan skripsi saya cenderung ke arah clustering atau pengelompokan, alangkah baiknya jika judulnya diubah menjadi ""Pengelompokkan Opini Masyarakat pada Twitter terhadap Karantina selama Covid-19 menggunakan Metode Improved K-Means (K-DENCLUE)"". Barangkali menurut Bapak terdapat saran dan masukan terkait judul skripsi saya. Mohon maaf bila ada salah kata Pak, terima kasih, Wassalamualaikum Wr. Wb. 🙏",1,1
+11/13/20 ,dosen,Ok silahkan bisa lanjut. Jika mmg datanya tidak ada atribut kelasnya bisa pakai clustering,1,1
+11/13/20 ,mahasiswa,"Baik pak , terima kasih banyak Pak. 🙏",1,1
+11/20/20 ,mahasiswa,"Assalamualaikum Wr. Wb., Pak. Mohon maaf mengganggu waktunya. Saya [MHS] mahasiswa Teknik Informatika angkatan 2017, dengan pak [DOSEN] sebagai dosen pembimbing 2 saya. Mohon izin Pak untuk menyampaikan pengerjaan skripsi saya dan bimbingan pada hari ini. Perihal dokumen skripsi, saya sudah menyelesaikannya hingga BAB 4 Pak, untuk pengecekan terkait penulisan apakah boleh saya kirimkan skripsi saya ke Bapak? Mohon maaf bila ada salah kata Pak, terima kasih, Wassalamualaikum Wr. Wb. 🙏",1,-1
+12/4/20,mahasiswa,"Assalamualaikum Wr. Wb., Pak. Mohon maaf mengganggu waktunya. Saya  mahasiswa Teknik Informatika angkatan 2017, dengan pak  sebagai dosen pembimbing 2 saya. Mohon izin untuk menginformasikan pengerjaan skripsi saya dan bimbingan pada hari ini. Pada saat ini saya sudah mengerjakan dokumen skripsi hingga bab 4 dan untuk kodingnya saya baru mengerjakan hingga tahapan ekstraksi fitur. Barangkali terdapat saran maupun masukan dari Bapak perihal penulisan dokumen skripsi, mohon izin untuk melampirkan dokumen skripsi saya Pak. Berikut dokumen skripsi saya lampirkan. Mohon maaf bila ada salah kata Pak, terima kasih, Wassalamualaikum Wr. Wb. 🙏",1,-1
+12/4/20,mahasiswa,<DOC>,1,-1
+12/21/20 ,dosen,Sy bisa dikirimi lg dokumen skripsinya?,-1,-1
+12/21/20 ,mahasiswa,"Baik Pak, berikut dokumen skripsi saya lampirkan.",1,-1
+12/21/20 ,mahasiswa,<DOC>,1,-1
+12/21/20 ,dosen,<DOC>,1,-1
+12/21/20 ,mahasiswa,"Mungkin saya coba kirimkan dengan format pdf-nya Pak, berikut saya lampirkan kembali dengan format pdf.",1,-1
+12/21/20 ,mahasiswa,<DOC>,1,-1
+,,,1,-1

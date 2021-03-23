@@ -1,0 +1,150 @@
+timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
+13/02/20,mahasiswa,"Assalamualaikum pak, Selamat pagi, maaf mengganggu waktunya, saya [MHS], mahasiswa Informatika angkatan 2016 ingin bertanya, untuk hari ini, bapak ada waktu kosong pada jam berapa? Saya ingin melakukan bimbingan konsul terkait proposal Skripsi saya, Terimakasih",1,1
+13/02/20,dosen,"Waalaikumussalam wrwb, insyaAllah jumat jam 13.30",1,1
+13/02/20,mahasiswa,"Baik pak, terimakasih untuk informasinya",1,1
+24/02/20,mahasiswa,"Assalamualaikum pak, Selamat pagi, maaf mengganggu waktunya, saya [MHS], mahasiswa Informatika angkatan 2016 ingin bertanya, bapak ada waktu kosong pada hari dan jam berapa? Saya ingin melakukan bimbingan konsul terkait Skripsi saya, Terimakasih",1,1
+24/02/20,dosen,"Waalaikumussalam wrwb, insyaAllah besok sktr jam 14.30",1,1
+24/02/20,mahasiswa,Baik pak terimakasih untuk informasinya,1,1
+02/03/20,mahasiswa,"Assalamualaikum pak, Selamat pagi, maaf mengganggu waktunya, saya [MHS], mahasiswa Informatika angkatan 2016 ingin bertanya, bapak ada waktu kosong pada hari dan jam berapa? Saya ingin melakukan bimbingan konsul terkait Skripsi saya, Terimakasih",1,1
+02/03/20,dosen,"Waalaikumussalam wrwb, saya di ruangan sampai jam 9.30",1,1
+02/03/20,mahasiswa,Baik pak,1,1
+02/03/20,mahasiswa,Terimakasih untuk informasinya,1,1
+03/03/20,dosen,Konsultasi skripsi dg saya rata-rata: Selasa 14.30-15.30 Rabu 09.00-10.30 Jumat 13.30-15.00,1,1
+03/03/20,mahasiswa,"Baik pak, terimakasih untuk informasinya",1,1
+20/03/20,mahasiswa,"Assalamualaikum pak, Selamat sore, maaf mengganggu waktunya, saya [MHS], mahasiswa Informatika angkatan 2016 ingin bertanya, dalam menu upload proposal Skripsi pada Filkom Apps, saya harus memasukkan judul skripsi saya, untuk judulnya apakah mengikuti judulnya yang lama, atau memakai judul yang baru, yaitu ""Pengembangan Domain Specific Language untuk Aplikasi CRUD berbasis Web""? Terimakasih",1,1
+20/03/20,dosen,"Waalaikumussalam wrwb, menggunakan judul baru",1,1
+20/03/20,mahasiswa,"Baik pak, terimakasih",1,1
+31/03/20,mahasiswa,"Assalamuailaikum pak, Selamat sore, maaf menganggu waktunya, saya [MHS], mahasiswa Informatika angkatan 2016, ingin bertanya, pada bab 4 mengenai Analisis Domain, apakah bisa saya menerapkan isi analisisnya yang memakai Feature Diagram, dengan mengikuti dari jurnal seperti ini ya pak?",1,1
+31/03/20,mahasiswa,<DOC>,1,1
+31/03/20,dosen,"Waalaikumussalam wrwb, iya boleh",1,1
+31/03/20,mahasiswa,"baik pak, terimakasih",1,1
+15/04/20,mahasiswa,<DOC>,1,1
+15/04/20,mahasiswa,"Assalamualaikum pak, Selamat Pagi, maaf menganggu waktunya, saya [MHS], mahasiswa Informatika angkatan 2016, ingin menyampaikan, bahwa saya sudah membuat analisis domain pada bab 4, berikut ini saya lampirkan file pdf, agar bisa bapak koreksi, dan bisa memberi tambahan, untuk grammar DSL, masih saya kerjakan saat ini, terimakasih",1,1
+15/04/20,dosen,"Waalaikumussalam wrwb, utk bimbingan via email email@ub.ac.id dg menyertakan dokumen format docx",1,1
+15/04/20,mahasiswa,"baik pak, mohon maaf, akan saya kirimkan melalui email, terimakasih",1,1
+22/05/20,mahasiswa,"Assalamualaikum pak, selamat sore, maaf mengganggu, saya, mahasiswa bimbingan skripsi yang bapak bimbing, saya ingin bertanya, untuk perancangan DSL, dalam penulisannya di skripsi, dibagi ke dalam tiap fitur atau tiap halaman, seperti halaman daftar, halaman tambah data, seperti itu ya pak?",1,1
+22/05/20,dosen,"Waalaikumussalam wrwb, tidak perfitur/perhalaman, tetapi cukup rancangan satu grammar saja.",1,1
+22/05/20,dosen,Dalam satu grammar tersebut mencakup semua atribut deklaratif untuk men-generate aplikasi.,1,1
+22/05/20,dosen,"Jika butuh judul halaman, maka pada grammar bisa ditambahkan atribut ""judul"" misalnya.",1,1
+22/05/20,dosen,"Untuk perancangan code generator-nya, bisa kalau mau dipisah perfitur/perhalaman",1,1
+22/05/20,mahasiswa,"baik pak, terimakasih untuk informasinya",1,1
+30/06/20,mahasiswa,"Assalamualaikum pak, selamat sore, maaf mengganggu waktunya, boleh minta waktunya untuk saya telepon pak? Saya ingin bertanya terkait sks skripsi saya pak, terimakasih",1,1
+30/06/20,dosen,"Waalaikumussalam wrwb, via message saja",1,1
+30/06/20,dosen,Ada apa dg sksnya?,1,1
+30/06/20,mahasiswa,"Begini pak, jadi beberapa saat lalu, saya hendak ingin mengajukan permintaan transkrip akademik, namun pada saat saya sedang menghitung sks wajib dan peminatan, total sks saya ternyata 141 sks, hal ini terjadi, karena saya pada saat smstr 7 kemarin, mengulang mata kuliah Pengenalan Pola, sehingga 3 sks saya pada semester 5 kemarin menjadi hilang, apakah dengan 141 sks ini cukup bisa untuk menyelesaikan skripsi ya pak?",1,1
+30/06/20,dosen,141 sks sudah termasuk skripsi atau belum?,1,1
+30/06/20,mahasiswa,"kalau termasuk skripsi, sks saya totalnya menjadi 147 pak",1,1
+30/06/20,dosen,Berarti sudah kelebihan,1,1
+30/06/20,dosen,Karena utk S1 cukup 144sks,1,1
+30/06/20,mahasiswa,"Berarti syarat lulus 144 sks itu, sudah termasuk skripsi 6 sks ya pak?",1,1
+30/06/20,dosen,Iya,1,1
+30/06/20,dosen,144 sks utk jadi sarjana,1,1
+30/06/20,mahasiswa,"Baik pak, terimakasih untuk informasinya",1,1
+17/07/20,mahasiswa,"Assalamualaikun pak, selamat sore, maaf mengganggu, saya [MHS], ingin menyampaikan, bahwa code generator untuk DSLnya sudah saya selesaikan, dan sudah saya lampirkan dalam dokumen skripsi, file nya sudah saya kirim ke email bapak, mungkin apabila masih ada kurang dan salah, bapak bisa menambahkan, terimakasih",1,1
+17/07/20,dosen,"Waalaikumussalam wrwb, baik akan saya cek dulu",1,1
+17/07/20,mahasiswa,"Baik pak, terimakasih",1,1
+21/07/20,dosen,Jumlah logbook masih kurang untuk P2,1,1
+21/07/20,mahasiswa,Baik pak akan saya tambahkan,1,1
+21/07/20,dosen,"Saya belum cek pastinya, apakah kurang di pembimbing 1 atau 2.",1,1
+21/07/20,dosen,Tolong diperiksa lagi,1,1
+21/07/20,mahasiswa,"Baik pak, sepertinya kurang pada pembimbing 2",1,1
+21/07/20,mahasiswa,"Assalamualaikum pak, Selamat sore, maaf mengganggu, saya ingin bertanya, dalam pengujiannya, untuk teknik pengujiannya, memakai whitebox dan blackbox, atau hanya blackbox saja pak?",1,1
+21/07/20,dosen,Whitebox,1,1
+21/07/20,mahasiswa,"Untuk whitebox nya, berarti memakai basis path testing didalamnya ya pak?",1,1
+21/07/20,dosen,Iya,1,1
+21/07/20,dosen,Basis path testing untuk code generator,1,1
+21/07/20,dosen,Utk file xtend,1,1
+21/07/20,mahasiswa,"baik pak, berarti untuk kasus uji yang bapak sampaikan di email, itu berarti masuknya kedalam blackbox ya pak?",1,1
+21/07/20,dosen,"Yg di email jk sudah tercover melalui kasus uji pada whitebox, maka tidak perlu",1,1
+21/07/20,dosen,Bisa terlihat dari kasus uji pada masing2 jalur independen,1,1
+21/07/20,mahasiswa,"Baik pak, terimakasih untuk informasinya",1,1
+23/07/20,mahasiswa,"Assalamualaikum pak, Selamat siang, maaf mengganggu waktunya, jumlah logbook untuk pembimbing 2 sudah mencukupi, apakah bisa untuk P2 pak? Terima kasih",1,1
+23/07/20,dosen,"Waalaikumussalam, bisa. Akan saya isikan ke Filkom Apps",1,1
+23/07/20,mahasiswa,"Baik pak, terimakasih",1,1
+30/07/20,mahasiswa,"Assalamualaikum pak, selamat sore, maaf menganggu waktunya, terkait status skripsi saya yang sudah mencapai P2, apakah untuk proses pengerjaan skripsinya bisa dilanjutkan ke semester depan ya pak? Terimakasih",1,1
+30/07/20,dosen,"Waalaikumussalam wrwb, biasanya otomatis lanjut",1,1
+30/07/20,mahasiswa,"baik pak, untuk konsultasi skripsi selama jeda semester nanti, apakah tetap berjalan seperti biasa ya pak?",1,1
+30/07/20,dosen,Silahkan seperti biasa saja,1,1
+30/07/20,mahasiswa,"Baik pak, terimakasih untuk informasinya",1,1
+04/08/20,mahasiswa,"Assalamualaikum pak, selamat sore, maaf mengganggu, saya , ingin menyampaikan, bahwa pengujian whitebox untuk Code Generator sudah saya selesaikan, dan sudah saya lampirkan dalam dokumen skripsi, file nya sudah saya kirim ke email bapak, mungkin apabila masih ada kurang dan salah, bapak bisa menambahkan, terimakasih",1,1
+04/08/20,dosen,"Waalaikumussalam wrwb, dokumen masih belum saya periksa",1,1
+04/08/20,mahasiswa,Baik pak,1,1
+07/08/20,mahasiswa,"Assalamualaikum pak, selamat siang, maaf menganggu, saya ingin bertanya, untuk pengujian Blackbox nya, memakai kasus uji yang bapak email waktu itu ya pak?",1,1
+07/08/20,dosen,"Waalaikumussalam wrwb, tolong diperiksa kembali, jika kasus uji sudah tercover pada whitebox, maka sudah tidak perlu.",1,1
+07/08/20,dosen,Mungkin untuk pengujian blackbox bisa diisi untuk menguji aplikasi yg di-generate,1,1
+07/08/20,mahasiswa,"Baik pak, terima kasih",1,1
+08/09/20,mahasiswa,"Assalamualaikum pak, selamat pagi, maaf mengganggu, saya [MHS], ingin menyampaikan, bahwa pengujian whitebox untuk Code Generator, blackbox dan bab 7 kesimpulan/saran sudah saya selesaikan, dan sudah saya lampirkan dalam dokumen skripsi, file nya sudah saya kirim ke email bapak, mungkin apabila masih ada kurang dan salah, bapak bisa menambahkan, terima kasih.",1,1
+08/09/20,dosen,"Waalaikumussalam wrwb, iya maaf mungkin masih slow response.",1,1
+08/09/20,mahasiswa,"Baik pak, terima kasih",1,1
+10/09/20,dosen,"Michael, untuk fungsi search, export, list, pagination apakah juga diimplementasikan?",1,1
+10/09/20,mahasiswa,Tidak pak,1,1
+10/09/20,dosen,Oke,1,1
+25/09/20,mahasiswa,"Assalamualaikum pak, selamat pagi, maaf mengganggu waktunya, saya ingin menyampaikan suatu kendala, jadi untuk tahap P2, sampai saat ini dari dosen pembimbing 2, belum melakukan verifikasi penilaian, saya sendiri sudah menghubungi Pak [DOSEN], selaku dosen pembimbing 2, dari beberapa waktu yang lalu melalui chat via WA, namun sampai saat ini belum ada respon dari beliau, lalu untuk tahap P2 ini, lalu apakah saya bisa melanjutkan ke tahap selanjutnya ya pak?",1,1
+25/09/20,dosen,"Waalaikumussalam wrwb, sambil menunggu dari pak [DOSEN] bisa mulai menyusun jurnal",1,1
+25/09/20,mahasiswa,"Baik pak, akan saya kerjakan, terima kasih",1,1
+30/09/20,mahasiswa,"assalamualaikum pak, selamat pagi, maaf mengganggu, saya ingin bertanya, dalam pembuatan abstrak, apakah dapat memakai ringkasan dari latar belakang?",1,1
+30/09/20,dosen,"Abstrak berisi ringkasan pendahuluan, metode, hasil, hingga kesimpulan",1,1
+30/09/20,mahasiswa,"baik pak, terima kasih",1,1
+15/10/20,mahasiswa,"Assalamualaikum pak, selamat pagi, maaf mengganggu, saya ingin menyampaikan, bahwa jurnal terkait skripsi saya, sudah saya kirim ke email bapak, mungkin apabila masih ada kurang dan salah, bapak bisa memberikan koreksi, terima kasih.",1,1
+15/10/20,dosen,"Waalaikumussalam wrwb, baik, mohon ditunggu balasannya, mungkin masih akan slow response karena bergantian dengan mahasiswa lain dan banyak yang P0.",1,1
+15/10/20,mahasiswa,"Baik pak, terima kasih",1,1
+19/10/20,mahasiswa,"Assalamualaikum pak, selamat pagi, maaf mengganggu, saya ingin bertanya, setelah jurnal selesai, apakah sudah bisa untuk mendaftar semhas ya pak? Atau harus melakukan cek plagiasi terlebih dahulu?",1,1
+19/10/20,dosen,"Waalaikumussalam wrwb, cek plagiasi dulu",1,1
+19/10/20,mahasiswa,"Baik pak, terimakasih",1,1
+19/10/20,mahasiswa,Untuk cek plagiasi memakai dokumen skripsi dan jurnal ya pak?,1,1
+19/10/20,dosen,"Untuk skripsi, bab 1 s/d bab kesimpulan saja (tanpa cover, daftar isi, abstrak, kata pengantar, daftar pustaka, lampiran, dll)",1,1
+19/10/20,dosen,Class ID: 23180582 Enrollment Key: skripsi1,1,1
+19/10/20,dosen,Ada utk skripsi dan jptiik,1,1
+19/10/20,mahasiswa,"Baik pak, untuk pengujiannya berapa kali kesempatan ya pak? Apabila melebih presentase plagiasinya",1,1
+19/10/20,dosen,"Kalau tidak salah, maksimal 3x perhari",1,1
+19/10/20,mahasiswa,"Baik pak, terima kasih",1,1
+19/10/20,mahasiswa,"Selamat siang, pak, maaf mengganggu, saya ingin memberi informasi bahwa pak [DOSEN] sudah memberikan verifikasi P2, namun di filkom apps, masih menunggu verifikasi dari bapak",1,1
+19/10/20,mahasiswa,<DOC>,1,1
+19/10/20,dosen,"Baik, nanti saya cek kembali di Apps",1,1
+19/10/20,mahasiswa,"baik pak, terima kasih",1,1
+21/10/20,mahasiswa,"Assalamualaikum pak, selamat sore, maaf menganggu, ingin menyampaikan bahwa saya sudah melakukan uji plagiasi file skripsi saya pada turnitin, dan hasilnya sudah 24%, apakah sudah bisa untuk mendaftar seminar hasil kah pak?",1,-1
+22/10/20,dosen,"Waalaikumussalam wrwb, silahkan",1,1
+22/10/20,mahasiswa,"Baik pak, terima kasih",1,1
+22/10/20,mahasiswa,"Assalamualaikum pak, selamat siang, maaf menganggu, saya ingin meminta tandatangan bapak untuk logbook skripsi saya, untuk bisa dilampirkan dalam berkas pendaftaran semhas, terima kasih",1,1
+22/10/20,mahasiswa,<DOC>,1,1
+22/10/20,dosen,<DOC>,1,1
+22/10/20,dosen,Waalaikumussalam wr. wb.,1,1
+22/10/20,mahasiswa,"Baik pak, terima kasih",1,1
+26/10/20,mahasiswa,"Assalamualaikum pak, Selamat siang, maaf mengganggu waktunya, saya ingin meminta persetujuan dari bapak dalam Filkom Apps terkait dengan Pendaftaran untuk memasuki Seminar Hasil dan Ujian, terima kasih",1,1
+26/10/20,dosen,Waalaikumussalam wr. wb. Sudah saya approve.,1,1
+26/10/20,mahasiswa,"Baik pak, terima kasih",1,1
+18/11/20,mahasiswa,"Assalamualaikum wr wb, Selamat siang pak, maaf mengganggu waktunya, Saya ingin menginformasikan pada bapak, bahwa saya akan menjalani ujian Skripsi pada tanggal: Hari : Jumat, 20 November 2020 Jam : 12.45 - 14.00 WIB Diharapkan bapak bisa hadir dalam ujian skripsi ini, berikut ini juga saya lampirkan undangan dari Filkom Apps.",1,-1
+18/11/20,mahasiswa,<DOC>,1,-1
+19/11/20,dosen,Waalaikumussalam wrwb. InsyaAllah saya hadir.,1,1
+19/11/20,dosen,Silahkan dipersiapkan semaksimal mungkin. Semoga sidang berjalan lancar dengan hasil yang terbaik.,1,1
+19/11/20,mahasiswa,"Baik pak, terima kasih banyak",1,1
+20/11/20,mahasiswa,"Assalamualaikum pak, terima kasih sudah membimbing saya sampai di tahap ujian ini, mohon maaf apabila pada ujian tadi, masih belum maksimal dari jawaban saya, saya akan perbaiki skripsi saya sesuai dengan yang sudah diminta ",1,1
+20/11/20,dosen,"Waalaikumussalam wrwb, selamat... Silahkan segera diselesaikan revisinya.",1,1
+20/11/20,mahasiswa,"Terima kasih pak, akan saya selesaikan revisinya, mohon bimbingannya ya pak ",1,1
+04/12/20,mahasiswa,"Assalamualaikum pak, selamat sore, maaf menganggu waktunya, saya ingin menyampaikan bahwa saya sudah mengirimkan dokumen skripsi yang sudah saya revisi menurut form dari dosen penguji, ke email bapak, mohon koreksi dan masukannya apabila ada salah dan kurang dalam revisi yang sudah saya kerjakan, Terima kasih.",1,-1
+08/12/20,mahasiswa,"Assalamualaikum pak , selamat siang, maaf mengganggu waktunya, saya ingin menyampaikan bahwa saya sudah mengirimkan dokumen skripsi yang sudah saya revisi menurut form dari dosen penguji, ke email bapak, mohon koreksi dan masukannya, mengingat batas revisi saya adalah 20 Desember ini, agar saya bisa mencetak hardcopynya dan segera menyerahkan berkas tersebut ke akademik tepat waktu, mohon bantuan dan bimbingannya pak, terima kasih ",1,1
+08/12/20,dosen,"Waalaikumussalam wrwb, silahkan ditunggu email balasannya, masih dalam antrian.",1,1
+08/12/20,mahasiswa,"Baik pak, terima kasih atas informasinya",1,1
+10/12/20,mahasiswa,"Assalamualaikum pak , selamat pagi, maaf mengganggu waktunya, terkait dengan revisi skripsi saya, saya ingin meminta bapak untuk memberikan tanda tangan pada lembar pengesahan dalam dokumen skripsi saya, agar saya dapat melanjutkan ke tahap proses pencetakan dokumen. Terima kasih.",1,1
+10/12/20,mahasiswa,<DOC>,1,1
+10/12/20,dosen,Waalaikumussalam wr.wb.,1,1
+10/12/20,dosen,<DOC>,1,1
+10/12/20,mahasiswa,"Terima kasih pak, untuk tanda tangannya",1,1
+17/12/20,mahasiswa,"Assalamualaikum pak [DOSEN], selamat sore, maaf menganggu waktunya, saya ingin menyampaikan bahwa saya sudah melakukan upload file dokumen akhir skripsi pada filkom apps, dan saya ingin meminta bapak untuk memberikan persetujuan dalam apps tersebut, terima kasih.",1,-1
+18/12/20,dosen,Waalaikumussalam wrwb,1,1
+18/12/20,mahasiswa,"Selamat siang pak , maaf mengganggu waktunya, saya ingin meminta tandatangan bapak untuk form S2-16 dan SC2-17, untuk keperluan yudisium dan persetujuan unggah makalah skripsi, terima kasih.",1,1
+18/12/20,mahasiswa,<DOC>,1,1
+18/12/20,mahasiswa,<DOC>,1,1
+18/12/20,dosen,<DOC>,1,1
+18/12/20,dosen,<DOC>,1,1
+20/12/20,mahasiswa,"Baik pak, terimakasih untuk tanda tangannya",1,1
+21/12/20,mahasiswa,"Selamat siang pak, maaf mengganggu waktunya, saya ingin bertanya terkait dokumen skripsi dan artefaknya, apakah perlu diserahkan kepada bapak? Terimakasih",1,-1
+21/12/20,dosen,Diunggah di FILKOM Apps saja,1,-1
+21/12/20,mahasiswa,"Baik pak, sudah saya unggah di FILKOM Apps, terkait dengan dokumen skripsinya",1,-1
+21/12/20,mahasiswa,"Terkait untuk pendaftaran yudisium, saya juga ingin meminta tanda tangan bapak untuk form SC 2-18, pada nomor 3a, dan 4a, terimakasih",1,-1
+21/12/20,mahasiswa,<DOC>,1,-1
+22/12/20,mahasiswa,"Selamat siang pak , maaf menganggu waktunya, saya ingin meminta tanda tangan bapak, pada form SC2-18, untuk nomor 3a dan 4a, untuk keperluan pendaftaran yudisium, terimakasih.",1,1
+22/12/20,mahasiswa,<DOC>,1,1
+22/12/20,dosen,<DOC>,1,1
+22/12/20,mahasiswa,"Baik pak, terimakasih untuk tandatangannya",1,1
+22/12/20,dosen,Sama2,1,1
