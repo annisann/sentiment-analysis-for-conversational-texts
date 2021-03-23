@@ -1,0 +1,9 @@
+mahasiswa|Selamat pagi pak. Mohon maaf menggangu. Berikut link pertemuan P0 pukul 10.00 WIB: https://meet.google.com/kmg-wxfo-uci.|1
+dosen|Baik mahasiswa, noted. Terimakasih.|1
+mahasiswa|Baik pak. Terima kasih kembali.|1
+dosen|mahasiswa, tolong share screen Anda, dan siapkan ppt Anda, klik Present Now|1
+mahasiswa|Permisi pak, berhubung sudah pukul 10.25 dan saya sudah mencoba menghubungi Pak Putra namun belum ada balasan dari beliau. Jadi, pertemuan ini bagaimana ya pak?|1
+dosen|Baik, tidak apa-apa, kita gunakan opsi ke-b|1
+mahasiswa|Terima kasih atas saran yang telah diberikan. Akan segera saya tambahkan poin-poin yang diberikan tadi.|1
+dosen|Sama-sama mahasiswa, coba ngebut utk pengerjaannya dan tetap terukur. Mudah-mudahan lulus semester ini dgn hasil yg optimal. Aamiin.|1
+mahasiswa|Baik pak.|1

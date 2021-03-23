@@ -1,0 +1,24 @@
+mahasiswa|Assalamualaikum Wr.Wb Bu . Saya mau bertanya mengenai bimbingan skripsi bagaimana ya Bu? Dan saya jg mau melaporkan progress skripsi saya sudah sampai pengujian. Terima kasih Bu. Maaf mengganggu waktunya🙏|1
+dosen|Waalaikumsalam wr wb. Baik . Via online saja ya. Di samping saya masih cuti, kondisi di kampus juga sedang tidak kondusif terkait dengan pandemic covid-19. update progress via WA ya. discreenshoot dan kita diskusikan bersama. Jika misalnya ada kesulitan nanti bisa via online.. |1
+mahasiswa|oiya baik bu. ini saya screenshot kan hasil programnya ya bu berarti?|1
+dosen|iya |1
+mahasiswa|itu untuk data latih dan data uji ada 20 bu|1
+dosen|data latih 20? data uji 20? berapa kelas yang negatif dan berapa yang positif ? |1
+mahasiswa|iyaa benar bu 10 positif 10 negatif bu |1
+dosen|ini untuk perhitungan manual ya ? buat data latihnya lebih banyak dari data ujinya |1
+mahasiswa|kalau perhitungan manual saya pakai hanya 4 data latih dan 1 data uji bu|1
+dosen|bisa memakai perbandingan 10:90 --- 10 data uji 90 data latih, 20:80, 30:70 dst oke jadi itu masih bisa ditambah lagi ya datanya . Kalau bisa ratusan |1
+mahasiswa|iyaa bu. saya juga sudah mencoba untuk 100 data latih dan 100 data uji juga. akurasinya jadi 83 bu berarti saya ganti perbandingannya ya Bu? karena di programnya saya pakainya 50:50 |1
+dosen|oke, kalau ada waktu cb ditambah, agar tahu kira-kira semakin baik atau bagaimana pengaruhnya ha. boleh 50:50, kemudian ditambah saja. jadi bisa digunakan untuk beberapa skenario pengujian. nanti hasilnya bisa dianalisis lagi oh ya ini yg pakai seleksi fitur kah? |1
+mahasiswa|oh iya baik bu iya bu sudah pakai seleksi fitur |1
+dosen|oke nanti pengujiannya juga bs membandingkan antara yang pakai seleksi fitur dan tidak pakai seleksi fitur|1
+mahasiswa|baik bu. terima kasih🙏 mohon maaf bu, kalau boleh tahu bu  cuti sampai kapan ya kira-kira? |1
+dosen|Sama-sama mbak , terus update ya. Sampai 16 Mei, hanya saja prosedur ujian online nampaknya akan berlangsung. Ini mekanismenya masih diperbincangkan. Nanti saya dikabari saja ya in case butuh ttd, nanti gampang |1
+mahasiswa|oh iya baik bu kalau begitu dan selamat juga atas kelahiran putrinya bu semoga menjadi anak yang berbakti kepada orang tua |1
+dosen|iya ini semua dosen Work From Home 😁|1
+mahasiswa|Iya bu. jadi ini data latih dan data uji saya tambah lagi saja agar bisa digunakan untuk beberapa skenario pengujian ya Bu. apakah ada tambahan lagi yang perlu saya perbaiki bu?|1
+dosen|Sementara itu dulu. nanti setelah hasil pengujiannya keluar kita diskusikan kembali nanti hasil penngujiannya  letakkan di excel ya |1
+mahasiswa|iya siap bu. kalau untuk logbook di filkom apps saya cantumkan hari ini ya bu? |1
+dosen|iya cantumin saja 💪 |1
+mahasiswa|Baik bu. Terima kasih😊|1
+dosen|sama-sama|1

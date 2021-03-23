@@ -1,0 +1,10 @@
+mahasiswa|Assalamualaikum Wr.Wb.Bu. Selamat siang, mohon maaf mengganggu waktu Ibu. Sebelumnya dokumen skripsi saya sudah diperiksa oleh Pak dosen dan sudah disetujui beliau. Untuk itu, saya mohon tanda tangan digital dari Ibu selaku dosen pembimbing 1 saya pada skripsi saya agar saya bisa melanjutkan ke proses berikutnya Bu. Berikut saya lampirkan dokumen skripsi saya. Terima kasih🙏 Wassalamualaikum Wr.Wb.|1
+dosen|Waalaikumsalam wr wb , yang pernyataan orisinalitasnya, kamu tanda tangan dulu ya |1
+mahasiswa|Oh begitu. Iya baik Bu. <document omitted> Berikut Bu yg sudah saya tanda tangan. |1
+dosen|Baik, sebentar ya mbak |1
+mahasiswa|Baik Bu.|1
+dosen| mohon maaf, itu harus ada materainya dahulu baru ditandatangani  di atas materai. kemudian discan kemudian ditempelkan kembali |1
+mahasiswa|Baik Bu. Saya perbaiki dahulu. Berikut sudah saya berikan materai dan tanda tangan saya Bu.  |1
+dosen|<document omitted> baik,  ini sudah saya ttd ya |1
+mahasiswa|Baik Bu. Terima kasih🙏|1
+dosen|Sama-sama |1

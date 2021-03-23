@@ -1,0 +1,12 @@
+mahasiswa|Assalamualaikum Wr.Wb.Bu. Selamat siang, mohon maaf mengganggu waktu Ibu. Terkait revisi skripsi saya setelah sidang, berikut saya lampirkan hasil revisi saya. Sekiranya Ibu bersedia memeriksa terlebih dahulu. Terima kasih Bu🙏Wassalamualaikum Wr.Wb. <document omitted> |1
+dosen|Waalaikumsalam wr wb. Baik , sebentar ya |1
+mahasiswa|Baik Bu🙏|1
+dosen| saya minta lampiran dari penguji juga ya.😀|1
+mahasiswa|Oh iya baik Bu sebentar. Ini lampiran revisi yg ada nilainya Bu? <document omitted> |1
+dosen|Baik  maaf saya baru selesai kelas 😀 |1
+mahasiswa|Iya Bu tidak apa-apa😊|1
+dosen|, tampaknya revisinya banyak di bagian latar belakang kalau dari penguji ya. Kemarin  sudah mencoba mencari metode klasifikasi-klasifikasi apa belum? misal Naive Bayes dengan KNN yang hasilnya Naive Bayes lebih tinggi? Itu bisa buat referensi |1
+mahasiswa|Belum Bu untuk perbandingan metode Naive Bayes dengan KNN. Ini saya tambahkan pada bagian latar belakang ya Bu? |1
+dosen|iya . Dicoba dulu saja dicari referensinya ya. Nanti ditambahkan dulu.|1
+mahasiswa|Baik Bu kalau begitu. Terima kasih🙏|1
+dosen|Sama-sama |1

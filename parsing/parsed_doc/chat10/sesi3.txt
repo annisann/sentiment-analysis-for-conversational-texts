@@ -1,0 +1,6 @@
+dosen|Waalaikumsalam wr wb, maaf pesannya tenggelam. besok-besok saya diingatkan kalau sampai 24 jam belum membalas sudah bagus hasilnya, tinggal analisisnya berarti ya ini nanti diperdalam dan didukung contoh ya.. |1
+mahasiswa|Oh iya Bu. Soalnya saya pikir ibu sedang sibuk, jadi saya ngga berani mengingatkan😬|1
+dosen|iya tak apa 😀, soalnya terlalu banyak, jadinya saya khawatir ada yang terlewat.|1
+mahasiswa|Baik bu. Analisis saya sementara itu terjadi karena ada banyak fitur yang hanya mewakili 1dokumen saja, jadi kalau diberikan seleksi fitur sepenuhnya ada kemungkinan tidak mempengaruhi hasil akurasi bu.|1
+dosen|iya, nanti coba dilist kata penting dan tidak penting yang memengaruhi atau tidaknya dengan atau tanpa seleksi fitur ya. atau boleh langsung dimasukkan ke dalam dokumen ya nanti kita evaluasi lagi bersama |1
+mahasiswa|Baik Bu. Terima kasih🙏|1

@@ -1,0 +1,7 @@
+mahasiswa|Assalamu'alaikum pak . Saya ingin menanyakan mengenai mekanisme p0 bagaimana ya pak? Terima kasih atas waktunya, mohon maaf mengganggu|1
+dosen|Wa'alaykumsalam. Oya, blm sy isikan P0 nya ya.. Nnt sy inputkan|1
+mahasiswa|Okay baik pak, terima kasih banyak|1
+dosen|Sudah bimbingan ke Pak dosen?|1
+mahasiswa|Mohon maaf pak, saya dengan pak dosen. Saya belum bimbingan dikarenakan belum dibalas email saya dari minggu lalu |1
+dosen|Oh, pak dosen ya.. Ok, nnt cb sy cek proposalnya stelah P0|1
+mahasiswa|Okay baik pak|1

@@ -1,0 +1,18 @@
+mahasiswa|You deleted this message Selamat siang pak. Mohon maaf menggangu sebelumnya. Saya mahasiswa, salah satu mahasiswa bimbingan bapak.  Saya ingin memberi kabar bahwa saya sudah mengirimkan file skripsi dan jurnal beserta cek plagiasi dari kedua file tersebut ke email bapak.  Saya juga baru saja melakukan bimbingan kepada Pak Putra dan ditemukan beberapa kesalahan penulisan yang akan ingin saya ganti sekarang.  Jika saya ingin melakukan pendaftaran semhas hari ini, apakah masih sempat pak?  Sekian yang ingin saya sampaikan. Jika ada salah kata, mohon maaf.  Salam, mahasiswa |1
+dosen|Baik mahasiswa, silahkan diperbaiki dari masukan Pak Putra. Berikut review dari saya: >> Pada Jurnal: + tambahkan kalimat penjelasan untuk meminimalkan space kosong. <Media omitted>. + pada chart line, selain warna, juga gunakan pattern yg berbeda, misal dgn "line ..."atau "line --". <Media omitted>. <Media omitted>. <Media omitted>. <Media omitted>. menjadi: <Media omitted>. Jika saya ingin melakukan pendaftaran semhas hari ini, apakah masih sempat pak? --> In Syaa Allah masih bisa, jika revisi dari saya dan Pak Putra terlalu banyak, saya ijinkan  di-skip dulu tidak apa", karena minor, saran saya, lalukan pendaftaran sebelum jam 15.30, dan siapkan segera syarat"nya. Karena saya cek dari progress Anda di email dan hasil cek plagiasi sudah memnuhi semuanya. |1
+mahasiswa|Mohon maaf ingin bertanya. Apakah memang pendaftarannya terakhir 15.30 pak? Dan juga saat mengirimkan email saya baru saja memasukkan logbook untuk bapak. Untuk mendaftarkan diperlukan juga file logbook. Apakah sekiranya logbook tersebut bisa disetujui agar bisa dimasukkan ke dalam logbook yang dicetak. Mohon maaf jika kurang berkenan. |1
+dosen|Biasanya 16.00, utk jaga" saya agar tidak terlalu mendadak. Meskipun worse case bisa sampai jam 23.59. Baik, sudah saya approve Silahkan segera dicetak kartu kendali Anda dari logbook, minimal sdh memenuhi 8 logbook utk msg" dosbing. |1
+mahasiswa|Sebelumnya saya sempat menanyakan kepada Pak Yusron, untuk lembar persetujuan dan dokumen lainnya tidak wajib ada tanda tangan pembimbing. Jika begitu apakah saya perlu meminta tanda tangan bapak untuk lembar-lembar tersebut untuk maju ke tahap semhas? <Media omitted> |1
+dosen|Baik mahasiswa, ikuti petunjuk dari Mas Yusron. Baik mahasiswa, tidak perlu ada ttd dulu. Ikuti petunjuk dari Mas Yusron. |1
+mahasiswa|Baik pak, kalau begitu saya ingin meminta tanda tangan bapak untuk dokumen perubahan judul saja pak. <Media omitted> |1
+dosen|<Media omitted> Baik mahasiswa, di atas file yg sdh saya ttd digital. |1
+mahasiswa|Baik pak, terima kasih banyak pak. Permisi pak. Saya ingin bertanya. Apakah dokumen yang sudah disubmit tidak bisa diubah (minor), seperti miliki saya yang kesalahan penulisan, bukan mengubah isi? |1
+dosen|disubmit kemana ini turnitin/filkomApp?|1
+mahasiswa|FilkomApps pak.|1
+dosen|Bisa, nanti ketika sudah daftar semhas, saya tolak dulu, lalu upload kembali dgn dok revisi yg benar, baru saya approve. Saran saya jika minor, sebaiknya di-skip dulu, sebaiknya diupload dulu saja agar segera saya approve |1
+mahasiswa|Baik pak kalau begitu akan segera saya upload terlebih dahulu.|1
+dosen|Baik mahasiswa.|1
+mahasiswa|Permisi pak. Mohon maaf menggunggu di waktu saat ini. Saya ingin memberi kabar bahwa saya sudah mengajukan pendaftaran semhas ke FilkomApps. Untuk revisi yang diberikan apakah saya perbaiki sekarang atau bersamaan dengan revisi dari semhas dan sidang nanti ya pak? Terima kasih atas perhatiannya.  Salam, mahasiswa|1
+dosen|Baik mahasiswa, sudah saya approve, saya ijinkan untuk revisinya diperbaiki mulai sekarang sampai setelah semhas, sebelum sidang. Dan revisi setelah sidang.|1
+mahasiswa|Baik pak, terima kasih banyak.|1
+dosen|Baik mahasiswa. Sama".|1

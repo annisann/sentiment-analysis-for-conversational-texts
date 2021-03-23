@@ -1,0 +1,9 @@
+mahasiswa|Assalamualaikum pak, selamat pagi, maaf mengganggu, saya ingin bertanya, setelah jurnal selesai, apakah sudah bisa untuk mendaftar semhas ya pak? Atau harus melakukan cek plagiasi terlebih dahulu?|1
+dosen|Waalaikumussalam wrwb, cek plagiasi dulu|1
+mahasiswa|Baik pak, terimakasih Untuk cek plagiasi memakai dokumen skripsi dan jurnal ya pak? |1
+dosen|Untuk skripsi, bab 1 s/d bab kesimpulan saja (tanpa cover, daftar isi, abstrak, kata pengantar, daftar pustaka, lampiran, dll). Class ID: 23180582 Enrollment Key: skripsi1 Ada utk skripsi dan jptiik |1
+mahasiswa|Baik pak, untuk pengujiannya berapa kali kesempatan ya pak? Apabila melebih presentase plagiasinya|1
+dosen|Kalau tidak salah, maksimal 3x perhari|1
+mahasiswa|Baik pak, terima kasih. Selamat siang, pak, maaf mengganggu, saya ingin memberi informasi bahwa pak dosen sudah memberikan verifikasi P2, namun di filkom apps, masih menunggu verifikasi dari bapak <Media tidak disertakan> |1
+dosen|Baik, nanti saya cek kembali di Apps|1
+mahasiswa|baik pak, terima kasih|1

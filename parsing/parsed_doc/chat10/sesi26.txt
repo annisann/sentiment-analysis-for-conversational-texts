@@ -1,0 +1,7 @@
+mahasiswa|Assalamualaikum Wr.Wb.Bu. Selamat pagi, mohon maaf mengganggu waktu Ibu. Perihal jurnal saya di SIET, saya mau mengingatkan Ibu untuk mengecek kembali jurnal saya. Terima kasih Bu🙏 Wassalamualaikum Wr.Wb.|1
+dosen|Waalaikumsalam wr wb. Terima kasih , InsyaAllah hari ini saya selesaikan agar bisa segera disubmit .|1
+mahasiswa|Baik Bu. Terima kasih🙏 |1
+dosen|<document omitted> , ini sudah saya cek ya, tolong tambahkan penomoran rumus untuk yang akurasi, recall dan precission |1
+mahasiswa|Iya Bu. Terima kasih🙏|1
+dosen|Sama-sama. dibetulkan dahulu, kalau sudah silakan disubmit ya Saya dan pak dosen ditambahkan sebagai co-author saat submission nanti |1
+mahasiswa|Iya baik Bu.|1

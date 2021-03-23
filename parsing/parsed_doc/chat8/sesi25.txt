@@ -1,0 +1,4 @@
+dosen|Wa'alaykumsalam. Sy ajukan pembukaan akses terbatas dl ke kajur|1
+mahasiswa|Baik terima kasih banyak pak Pak , pada implementasi saya kebingungan pada invers matriks. Apakah saya boleh menggunakan library? Sudah 3 hari saya gabisa bisa pak |1
+dosen|Ok silahkan|1
+mahasiswa|Baik terima kasih banyaak|1

@@ -1,0 +1,1 @@
+mahasiswa|Assalamu’alaikum pak , berikut saya lampirkan dokumen skripsi saya yang sudah saya revisi dan pengerjaan bab 5. <document omitted> Saya ingin menanyakan mengenai pengujian. Apakah jika saya ingin membandingkan antara metode relm dengan metode elm biasa pada bagian flowchart maupun implementasi harus menampilkan metode elm juga pak? Terima kasih |-1

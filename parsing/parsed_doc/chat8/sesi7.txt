@@ -1,0 +1,3 @@
+mahasiswa|Assalamu’alaikum pak, saya sudah submit praproposal pada filkom apps atas nama . Saat ini progres saya sudah mengerjakan bab 4. Insyaallah besok akan saya lampirkan dokumennya. Terima kasih banyak atas waktunya Pak  Saya ingin menanyakan juga perihal flowchart, apkah harus detail atau gambaran umumnya saja pak? Terima kasih |1
+dosen|Flowchart bisa digambarkan alur program scr umum lalu bisa didetailkan|1
+mahasiswa|Baik pak terimakasish banyak|1

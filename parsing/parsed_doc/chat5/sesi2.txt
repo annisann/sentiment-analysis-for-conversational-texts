@@ -1,0 +1,3 @@
+mahasiswa|Assalamualaikum, Selamat siang pak, maaf menganggu, saya , mahasiswa Teknik Informatika angkatan 2016, apakah bapak pada hari ini ada waktu kosong? Saya ingin melakukan konsultasi terkait proposal Skripsi yang sudah saya berikan ke bapak pada hari Selasa siang kemarin, untuk bisa verifikasi P0, Terimakasih|1
+dosen|sdh sy verifikasi, silakan di cek|1
+mahasiswa|Baik pak sudah terverifikasi, terima kasih banyak|1
