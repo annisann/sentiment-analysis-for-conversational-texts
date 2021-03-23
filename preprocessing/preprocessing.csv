@@ -1,0 +1,1005 @@
+messages,sentiment
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'informasi', 'bimbing', 'skripsi', 'dosen', 'bimbing', 'perihal', 'surat', 'tugas', 'terbit', 'tanggal', 'oktober', 'komunikasi', 'kait', 'kerja', 'skripsi', 'media', 'iya', 'mohon', 'maaf', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'alaykumsalam', 'via', 'whatsapp', 'iya']",1
+"['perihal', 'bimbing', 'tentu', 'jam']",1
+"['kamis', 'jumat']",1
+"['laksana', 'p0', 'tentu', 'bahas', 'bimbing', 'iya']",1
+['bimbing'],1
+['bimbing'],1
+"['oke', 'p0']",1
+"['p0', 'kamis', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']",1
+"['mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'dosen', 'bimbing', 'mohon', 'izin', 'perihal', 'bimbing', 'p0', 'laksana', 'mekanisme', 'iya', 'video', 'conference', 'laksana', 'iya', 'mohon', 'maaf', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'alaykumsalam', 'pakai', 'zoom', 'sore', 'jam', 'iya']",1
+"['terima', 'kasih']",1
+"['inviting', 'you', 'scheduled', 'zoom', 'meeting', 'topik', 'p0', 'skripsi', 'time', 'oktober', 'pm', 'jakarta', 'join', 'zoom', 'meeting', 'meeting', 'passcode']",1
+"['terima', 'kasih']",1
+"['mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'dosen', 'bimbing', 'mohon', 'izin', 'progres', 'skripsi', 'bimbing', 'baik', 'dokumen', 'proposal', 'saran', 'masuk', 'baik', 'rumus', 'hitung', 'akurasi', 'kualitas', 'clustering', 'tabel', 'interpretasi', 'silhouette', 'coefficient', 'sitasi', 'sumber', 'perihal', 'saran', 'kait', 'justifikasi', 'positif', 'negatif', 'masuk', 'dalam', 'netral', 'temu', 'sumber', 'justifikasi', 'temu', 'sumber', 'justifikasi', 'dokumen', 'proposal', 'iya', 'dokumen', 'proposal', 'p0', 'lampir', 'mohon', 'maaf', 'terima', 'kasih', 'wassalamualaikum', 'media', 'omitted']",-1
+"['oke', 'silah', 'justifikasi']",-1
+"['terima', 'kasih']",-1
+"['mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'dosen', 'bimbing', 'mohon', 'izin', 'informasi', 'progres', 'skripsi', 'bimbing', 'justifikasi', 'ekspresi', 'sentimen', 'netral', 'ambil', 'ekspresi', 'positif', 'negatif', 'justifikasi', 'tempat', 'feature', 'vector', 'extraction', 'kamus', 'ekspresi', 'sentimen', 'tahap', 'jelas', 'perihal', 'kondisi', 'teliti', 'dokumen', 'proposal', 'lampir', 'mohon', 'maaf', 'terima', 'kasih', 'wassalamualaikum', 'media', 'omitted']",-1
+"['mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'dosen', 'bimbing', 'mohon', 'izin', 'informasi', 'progres', 'skripsi', 'bimbing', 'selasa', 'konsultasi', 'perihal', 'judul', 'skripsi', 'beliau', 'skripsi', 'cenderung', 'arah', 'clustering', 'kelompok', 'alangkah', 'judul', 'ubah', 'kelompok', 'opini', 'masyarakat', 'twitter', 'karantina', 'covid', 'metode', 'improved', 'means', 'denclue', 'barangkali', 'saran', 'masuk', 'kait', 'judul', 'skripsi', 'mohon', 'maaf', 'terima', 'kasih', 'wassalamualaikum']",1
+"['oke', 'silah', 'mmg', 'data', 'atribut', 'kelas', 'pakai', 'clustering']",1
+"['terima', 'kasih']",1
+"['mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'dosen', 'bimbing', 'mohon', 'izin', 'kerja', 'skripsi', 'bimbing', 'perihal', 'dokumen', 'skripsi', 'selesai', 'kece', 'kait', 'tulis', 'kirim', 'skripsi', 'mohon', 'maaf', 'terima', 'kasih', 'wassalamualaikum']",-1
+"['mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'dosen', 'bimbing', 'mohon', 'izin', 'informasi', 'kerja', 'skripsi', 'bimbing', 'dokumen', 'skripsi', 'kodingnya', 'tahap', 'ekstraksi', 'fitur', 'barangkali', 'saran', 'masuk', 'perihal', 'tulis', 'dokumen', 'skripsi', 'mohon', 'izin', 'lampir', 'dokumen', 'skripsi', 'dokumen', 'skripsi', 'lampir', 'mohon', 'maaf', 'terima', 'kasih', 'wassalamualaikum', 'media', 'omitted']",-1
+"['kirim', 'dokumen', 'skripsi']",-1
+"['dokumen', 'skripsi', 'lampir', 'media', 'omitted']",1
+"['media', 'omitted']",1
+"['coba', 'kirim', 'format', 'pdf', 'lampir', 'format', 'pdf', 'media', 'omitted']",-1
+"['permisi', 'mohon', 'maaf', 'ganggu', 'kenal', 'mahasiswi', 'teknik', 'informatika', 'filkom', 'rencana', 'semester', 'ganjil', 'ambil', 'kuliah', 'induksi', 'riset', 'buka', 'kelas', 'induksi', 'riset', 'iya', 'kelas', 'rencana', 'kelas', 'terima kasih', 'wassalamualaikum']",-1
+"['buka', 'kelas', 'induksi', 'riset', 'kuota', 'penuh', 'temu', 'tatap', 'muka', 'kait', 'topik', 'usul', 'sesuai']",1
+"['kenan', 'mana', 'iya', 'temu', 'konsultasi', 'topik', 'terima', 'kasih']",1
+"['rapat', 'sore', 'besok', 'jam', 'iya']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'perihal', 'skripsi', 'kemarin', 'coba', 'program', 'sadar', 'parameter', 'inputkan', 'hasil', 'oleh', 'hasil', 'skripsi', 'hasil', 'oleh', 'pola', 'hasil', 'angka', 'beda', 'analisis', 'hasil', 'pola', 'besok', 'sidang', 'skripsi', 'baik', 'skripsi', 'unggah', 'filkomapps', 'terima', 'kasih', 'wassalamualaikum', 'lampir', 'skripsi', 'ubah', 'hasil', 'uji', 'document', 'omitted']",1
+"['tampil', 'baru', 'bilang', 'terang', 'kemarin', 'update']",1
+"['sidang', 'beritahu', 'baru']",1
+"['baru', 'hasil', 'iya', 'hasil']",1
+"['iyaa', 'hasil', 'terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'laksana', 'sidang', 'skripsi', 'jumat', 'tanggal', 'juni', 'info', 'link', 'laksana', 'sidang', 'besok', 'ketua', 'majelis', 'uji', 'terima', 'kasih', 'wassalamualaikum']",1
+"['mbak', 'terima', 'kasih', 'informasi', 'sukses', 'iya']",1
+"['iya', 'terima', 'kasih']",1
+[],-1
+"['hubung', 'dosen', 'kemarin', 'beliau', 'merespon']",1
+"['iya', 'barusan', 'hubung', 'dosen']",1
+"['tunggu', 'beliau']",1
+"['kemarin', 'konfirmasi', 'linknya']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'skripsi', 'sidang', 'lampir', 'hasil', 'revisi', 'sedia', 'periksa', 'terima', 'kasih', 'wassalamualaikum', 'document', 'omitted']",1
+"['sebentar', 'iya']",1
+[],1
+"['lampir', 'uji', 'iya']",1
+"['iya', 'sebentar', 'lampir', 'revisi', 'nilai', 'document', 'omitted']",1
+"['maaf', 'selesai', 'kelas']",1
+['iya'],1
+"['revisi', 'latar', 'uji', 'iya', 'kemarin', 'coba', 'cari', 'metode', 'klasifikasi', 'klasifikasi', 'naive', 'bayes', 'knn', 'hasil', 'naive', 'bayes', 'referensi']",1
+"['banding', 'metode', 'naive', 'bayes', 'knn', 'latar', 'iya']",1
+"['iya', 'coba', 'cari', 'referensi', 'iya']",1
+"['terima', 'kasih']",1
+[],1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'lampir', 'revisi', 'skripsi', 'banding', 'metode', 'terima', 'kasih', 'wassalamualaikum', 'document', 'omitted']",1
+"['waalaijumsalam', 'sore', 'cek', 'iya', 'maaf', 'merespon', 'hari', 'full', 'pagi', 'rapat']",1
+['iya'],1
+"['cek', 'sila', 'proses', 'tahap', 'iya', 'iya', 'dosen', 'revisi']",1
+"['iya', 'iya', 'perihal', 'turnitin', 'enroll', 'code', 'expired']",1
+"['turnitin', 'pakai', 'class', 'enrollment', 'key', 'coba', 'iya']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'dokumen', 'skripsi', 'periksa', 'dosen', 'tuju', 'beliau', 'mohon', 'digital', 'dosen', 'bimbing', 'skripsi', 'lanjut', 'proses', 'lampir', 'dokumen', 'skripsi', 'terima', 'kasih', 'wassalamualaikum']",1
+"['nyata', 'orisinalitas', 'iya']",1
+"['iya', 'document', 'omitted']",1
+"['sebentar', 'iya', 'mbak']",1
+[],1
+"['mohon', 'maaf', 'materainya', 'ditandatangani', 'materai', 'discan', 'tempel']",1
+"['baik', 'materai']",1
+"['document', 'omitted', 'tanda tangan', 'iya']",1
+"['terima', 'kasih']",1
+[],1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kemarin', 'coba', 'turnitin', 'jurnal', 'enroll', 'class', 'hasil', 'kena', 'skripsi', 'dahulu', 'analisis', 'full', 'kena', 'plagiasi', 'iya', 'baik', 'turnitin', 'jurnal', 'terima', 'kasih', 'wassalamualaikum']",1
+"['exclude', 'iya', 'sebentar', 'iya', 'giat']",1
+"['terima', 'kasih', 'iya']",1
+"['turnitin', 'exclude', 'sumber', 'milik', 'iya', 'sila', 'cek', 'mohon', 'maaf', 'periksa']",1
+"['iya', 'terima', 'kasih']",1
+[],1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mohon', 'tuju', 'dosen', 'bimbing', 'lanjut', 'proses', 'daftar', 'yudisium', 'harap', 'tandatangan', 'digital', 'form', 'sc2', 'sc2', 'sc2', 'poin', '3a', '4a', 'terima', 'kasih', 'wassalamualaikum']",-1
+"['fitur', 'ekstraksi', 'hasil', 'seleksi', 'fitur', 'banyak', 'fitur', 'fitur', 'coba', 'batas', 'fitur', 'atas', 'seleksi', 'fitur', 'atas', 'hasil', 'akurasi', 'seleksi', 'fitur', 'tabel', 'uji', 'lampir', 'mohon', 'maaf', 'ganggu', 'terima', 'kasih']",-1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'hubung', 'proses', 'unggah', 'makalah', 'skripsi', 'daftar', 'yudisium', 'mohon', 'tuju', 'dosen', 'bimbing', 'menandatangani', 'form', 'sc2', 'form', 'tuju', 'revisi', 'sc2', 'form', 'tuju', 'unggah', 'makalah', 'skripsi', 'sc2', 'poin', '3a', '4a', 'form', 'syarat', 'yudisium', 'lampir', 'form', 'terima', 'kasih', 'wassalamualaikum', 'document', 'omitted']",1
+"['astagfirullah', 'sebentar', 'iya']",1
+['iya'],1
+"['masuk', 'siet', 'sanggup', 'tinggal', 'terjemah', 'bantu', 'cek']",1
+"['jurnal', 'bentuk', 'bahasa', 'inggris', 'iya']",1
+"['konferensi', 'internasional', 'ada', 'filkom', 'iya', 'bentuk', 'bahasa', 'inggris']",1
+"['iya', 'sanggup']",1
+"['tangan', 'siet', 'iya', 'bantu', 'cek', 'tulis']",1
+['iya'],1
+"['disubmit', 'siet', 'cek', 'iya']",1
+"['iya', 'terima', 'kasih']",1
+[],1
+"['draft', 'siet', 'ready']",1
+"['mohon', 'maaf', 'isi', 'pindah', 'contoh', 'siet', 'contoh', 'jptiik']",1
+"['pindah', 'iya', 'terjemah', 'benah', 'koreksi', 'deadlinenya', 'agustus']",1
+"['iya', 'pindah', 'lampir', 'draft', 'siet', 'document', 'omitted', 'mohon', 'maaf', 'tunggu']",1
+"['besok', 'cek', 'ulang', 'iya', 'agustus', 'terima', 'kasih', 'iya']",1
+"['iya', 'terima', 'kasih']",1
+[],1
+"['selamat', 'pagi', 'mohon', 'maaf', 'butuh', 'ngecek', 'minggu', 'kemarin', 'padat', 'betul', 'iya', 'komen', 'tulis', 'sitasinya', 'sesuai', 'contoh', 'tulis', 'sitasi', 'bentuk', '', '', 'dan terus', 'daftar', 'referensi', 'tulis', 'dasar', 'abjad', 'muncul', 'angka']",1
+"['iya', 'baik', 'terima', 'kasih']",1
+['sip'],1
+[],-1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'perihal', 'jurnal', 'siet', 'kemarin', 'revisi', 'lampir', 'hasil', 'revisi', 'periksa', 'terima', 'kasih', 'wassalamualaikum', 'document', 'omitted']",1
+"['cek', 'iya']",1
+"['terima', 'kasih']",1
+"['mohon', 'maaf', 'besok', 'pagi', 'tolong', 'selesai', 'koreksi', 'paper', 'iya', 'kemarin']",1
+"['iya', 'besok']",1
+"['terima', 'kasih']",1
+['iya'],1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'perihal', 'jurnal', 'siet', 'ecek', 'jurnal', 'terima', 'kasih', 'wassalamualaikum']",1
+"['terima', 'kasih', 'selesai', 'disubmit']",1
+"['terima', 'kasih']",1
+"['document', 'omitted', 'cek', 'iya', 'tolong', 'nomor', 'rumus', 'akurasi', 'recall', 'precission']",1
+"['iya', 'terima', 'kasih']",1
+"['betul', 'sila', 'disubmit', 'iya', 'dosen', 'co', 'author', 'submission']",1
+['iya'],1
+"['document', 'omitted', 'media', 'omitted']",1
+"['iya', 'unggah', 'kemarin', 'failed', 'unggah', 'filenya', 'coba', 'terima', 'kasih']",1
+"['masalah', 'iya', 'tempe']",1
+"['iya', 'hehe', 'coba', 'unggah', 'dokumen', 'siet', 'error', 'tulis', 'minimal', 'halaman', 'isi', 'halaman', 'baca', 'halaman', 'iya', 'terima', 'kasih']",1
+"['coba', 'kirim', 'dokumen', 'baru', 'word', 'iya', 'coba', 'unggah']",1
+[],1
+"['maaf', 'ganggu', 'pekan', 'kemarin', 'coba', 'utak', 'atik', 'aneh', 'aneh', 'dokumen', 'page', 'break', 'section', 'breaknya', 'coba', 'utak', 'atik', 'mentok', 'deteksi', 'halaman', 'alternatif', 'coba', 'copy', 'paste', 'contoh', 'iya', 'ctrl', 'copy', 'paste', 'section', 'iya', 'coba', 'betul', 'iya']",1
+"['iya', 'betul']",1
+"['iya', 'coba', 'unggah', 'hasil', 'iya']",1
+"['coba', 'baik', 'copy', 'paste', 'section', 'contoh', 'coba', 'unggah', 'errornya', 'baca', 'halaman']",1
+"['aneh', 'iya', 'unggah', 'paper', 'pakai', 'word', 'coba', 'iya', 'uji', 'masuk', 'buku', 'iya']",1
+"['masuk', 'halaman', 'isi', 'iya', 'baca', 'halaman']",1
+['seharunsya'],1
+"['iya', 'coba', 'baik', 'ulang', 'error']",1
+"['coba', 'solusi', 'halaman', 'coba', 'referensi', 'kait', 'preprocessing', 'tata', 'contoh', 'contoh', 'masuk', 'tabel']",1
+"['iya', 'baik']",1
+['iya'],1
+"['tabel', 'halaman', 'bawah', 'tulis', 'error', 'unggah', 'dokumen', 'baca', '3halaman']",1
+"['sungguh', 'aneh', 'coba', 'kirim', 'baru', 'iya', 'filenya']",1
+['sebentar'],1
+"['besok', 'intip', 'iya', 'insyallah']",1
+"['iya', 'terima', 'kasih']",1
+"['mentok', 'filenya', 'tambah', 'halaman', 'kirim', 'filenya', 'panitia', 'tolong', 'bantu', 'tunggu', 'respons', 'internal', 'tunggu', 'tanggal', 'panitia', 'respons', 'barangkali', 'utek', 'utek', 'sila', 'iya']",1
+"['terima', 'kasih', 'coba', 'utek', 'utek', 'maaf', 'iya', 'repot', 'coba', 'coba', 'unggah', 'tunggu', 'respon', 'panitia']",1
+"['paralel', 'hasil']",1
+"['informasi', 'jurnal', 'hasil', 'diupload', 'terima', 'kasih', 'bantu', 'mohon', 'maaf', 'repot', 'ganggu']",1
+"['lho', 'iya', 'alhamdulillah', 'apa', 'dokumen']",1
+"['iya', 'dokumen', 'rapihkan', 'edit', 'tipo', 'tipo']",1
+"['oke', 'alhamdulillah', 'iya']",1
+"['iya', 'alhamdulillah', 'hehe', 'terima', 'kasih', 'iya', 'bantu', 'bingung']",1
+['alhamdulillah'],1
+['iya'],1
+"['maaf', 'pesan', 'tenggelam', 'besok', 'besok', 'jam', 'balas', 'bagus', 'hasil', 'tinggal', 'analisis', 'iya', 'dalam', 'dukung', 'contoh', 'iya']",1
+"['iya', 'pikir', 'sibuk', 'berani']",1
+"['iya', 'khawatir', 'lewat']",1
+"['analisis', 'fitur', 'wakil', '1dokumen', 'seleksi', 'fitur', 'sepenuh', 'pengaruh', 'hasil', 'akurasi']",1
+"['iya', 'coba', 'dilist', 'pengaruh', 'seleksi', 'fitur', 'iya', 'masuk', 'dokumen', 'iya', 'evaluasi']",1
+"['terima', 'kasih']",1
+"['siet', 'umum', 'iya', 'terima', 'dear', 'microsoft', 'karina', 'unfortunately', 'we', 'regret', 'inform', 'you', 'that', 'your', 'paper', 'sentiment', 'analysis', 'of', 'food', 'ulas', 'using', 'naive', 'bayes', 'pearson', 'correlation', 'coefficient', 'feature', 'selection', 'for', 'siet', 'has', 'not', 'been', 'accepted', 'for', 'publication', 'we', 'hope', 'that', 'you', 'will', 'find', 'the', 'reviews', 'useful', 'when', 'revising', 'your', 'paper', 'we', 'would', 'like', 'thank', 'you', 'for', 'your', 'support', 'the', 'conference', 'baik', 'coba', 'masuk', 'iya']",1
+"['waalaikumsaam', 'iya', 'coba', 'masuk', 'kesini']",1
+"['oke', 'semangat']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'jurnal', 'juita', 'unggah', 'jurnal', 'bentuk', 'bahasa', 'inggris', 'iya', 'sesuai', 'contoh', 'jurnal', 'juita', 'unggah', 'terima', 'kasih']",1
+"['atur', 'submissionnya', 'bahasa', 'indonesia', 'bahasa', 'inggris', 'iya', 'iya', 'coba', 'kemarin', 'reviewer', 'rasa']",1
+"['iya', 'terima', 'kasih']",1
+"['sulit', 'bilang', 'iya']",1
+['iya'],1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'jurnal', 'coba', 'publish', 'juita', 'mohon', 'maaf', 'jurnal', 'sesuai', 'kualifikasi', 'juita', 'tunggu', 'dipublish', 'jptiik', 'terima', 'kasih', 'wassalamualaikum']",1
+"['informasi', 'tolak', 'iya', 'iya', 'tunggu', 'dipublish', 'jptiik']",1
+"['email', 'media', 'omitted', 'terima', 'kasih']",1
+['oke'],1
+"['maaf', 'izin', 'lambat', 'bimbing', 'skripsi', 'sama', 'bimbing', 'pkl', 'terima kasih', 'maaf', 'ganggu']",-1
+"['maaf', 'izin', 'bimbing', 'badan', 'terima kasih', 'maaf', 'ganggu']",1
+"['moga', 'lekas', 'sehat', 'iya', 'mbak', 'terima', 'kasih']",1
+"['terima', 'kasih']",1
+"['perihal', 'p2', 'filkom', 'apps', 'proses', 'minggu', 'p2', 'bimbing', 'filkom', 'apps', 'proses', 'iya', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['proses', 'iya', 'mohon', 'maaf', 'lupa', 'terima', 'kasih']",1
+"['terima', 'kasih', 'maaf', 'ganggu']",1
+"['perhati', 'logbook', 'verifikasi', 'nilai', 'maju', 'p2', 'mahasiswa', 'isi', 'logbook', 'verifikasi', 'bimbing', 'minimum', 'logbook', 'bimbing', 'log', 'booknya', 'input', 'p2', 'coba', 'cek', 'log', 'booknya', 'iya']",1
+"['logbook', 'penuh', 'logbook', 'dosen', 'hubung', 'terima', 'kasih']",1
+"['kabar', 'iya']",1
+"['terima', 'kasih', 'maaf', 'ganggu']",1
+"['saama', 'no', 'worries']",1
+"['maaf', 'ngabarin', 'logbook', 'penuh', 'diapprove', 'dosen']",1
+[],1
+"['terima', 'kasih']",1
+"['bimbing', 'skripsi', 'iya', 'lapor', 'progres', 'skripsi', 'uji', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['via', 'online', 'iya', 'samping', 'cuti', 'kondisi', 'kampus', 'kondusif', 'kait', 'pandemic', 'covid', 'update', 'progres', 'via', 'whatsapp', 'iya', 'discreenshoot', 'diskusi', 'sulit', 'via', 'online']",1
+"['oiya', 'screenshot', 'hasil', 'program', 'iya']",1
+['iya'],1
+"['latih', 'uji']",1
+"['latih', 'uji', 'kelas', 'negatif', 'positif']",1
+"['iyaa', 'positif', 'negatif']",1
+"['hitung', 'manual', 'iya', 'latih', 'uji']",1
+"['hitung', 'manual', 'pakai', 'latih', 'uji']",1
+"['pakai', 'banding', 'uji', 'latih', 'dan terus', 'oke', 'iya', 'data', 'ratus']",1
+"['iyaa', 'coba', 'latih', 'uji', 'akurasi', 'ganti', 'banding', 'iya', 'program', 'pakai']",1
+"['oke', 'coba', 'pengaruh', 'tertawa', 'skenario', 'uji', 'hasil', 'analis', 'iya', 'pakai', 'seleksi', 'fitur']",1
+"['iya', 'iya', 'pakai', 'seleksi', 'fitur']",1
+"['oke', 'uji', 'banding', 'pakai', 'seleksi', 'fitur', 'pakai', 'seleksi', 'fitur']",1
+"['terima', 'kasih', 'mohon', 'maaf', 'cuti', 'iya']",1
+"['mbak', 'update', 'iya', 'mei', 'prosedur', 'uji', 'online', 'nampaknya', 'mekanisme', 'bincang', 'kabar', 'iya', 'case', 'butuh', 'tanda tangan', 'gampang']",1
+"['iya', 'selamat', 'lahir', 'putri', 'moga', 'bakti', 'tua']",1
+"['iya', 'dosen', 'work', 'from', 'home']",1
+"['iya', 'latih', 'uji', 'skenario', 'uji', 'iya', 'tambah', 'baik']",1
+"['hasil', 'uji', 'diskusi', 'hasil', 'penngujiannya', 'letak', 'excel', 'iya']",1
+"['iya', 'logbook', 'filkom', 'apps', 'cantum', 'iya']",1
+"['iya', 'cantumin']",1
+"['terima', 'kasih']",1
+[],1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'diskus', 'kait', 'bimbing', 'skripsi', 'terima', 'kasih']",1
+"['sila', 'diskusi', 'mbak', 'via', 'online', 'iya', 'sync', 'via', 'google', 'meet', 'skype', 'besok', 'iya', 'tentatif', 'via', 'whatsapp', 'anytime', 'iya']",1
+"['iya', 'via', 'whatsapp', 'iya']",1
+"['sila', 'mbak', 'beberala', 'slow', 'res', 'iya']",1
+"['latih', 'latih', 'uji', 'hasil', 'akurasi', 'dapat', 'program', 'seleksi', 'fitur', 'ubah', 'banding', 'latih', 'uji', 'hasil', 'dapat', 'seleksi', 'fitur', 'seleksi', 'fitur', 'iya', 'ohiya', 'komputasi', 'lumayan', '5menit']",1
+"['justrus', 'rendah', 'iya', 'pakai', 'seleksi', 'fitur', 'sebab', 'tabel', 'uji', 'struktur', 'data']",1
+"['iya', 'ubah', 'ubah', 'latih', 'terkadang', 'hasil', 'latih', 'uji', 'guna', 'seleksi', 'fitur', 'tingkat', 'akurasi', 'tabel', 'uji', 'confusion', 'matriks', 'tentu', 'latih']",-1
+"['maaf', 'merespon', 'karakteristik', 'data', 'pengaruh', 'coba', 'hasil', 'ekstraksi', 'fitur', 'token', 'hasil', 'seleksi', 'fitur', 'potensi', 'fitur', 'kadakteristiknya', 'jenis', 'cek', 'pengaruh', 'kondisi', 'latih', 'uji', 'catat', 'pribadi']",1
+"['iya', 'terima', 'kasih']",1
+"['iya', 'semangat', 'iya']",1
+['iya'],1
+['oke'],1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'diskusi', 'analisis', 'cantum', 'daftar', 'dokumen', 'skripsi', 'analisis', 'fitur', 'wakil', 'dokumen', 'seleksi', 'pengaruh', 'akurasi', 'threshold', 'akurasi', 'optimal', 'threshold', 'fitur', 'wakil', 'dokumen', 'akurasi', 'hasil', 'threshold', 'optimal', 'threshold', 'terima', 'kasih']",1
+"['bagus', 'dokumen', 'milik', 'cenderung', 'fitur', 'dominan', 'lampir', 'iya']",1
+"['iya', 'terima', 'kasih']",1
+"['selesai', 'tulis', 'iya', 'lupa', 'bimbing']",1
+"['iya', 'iya', 'aju', 'ganti', 'judul', 'judul', 'hapus', 'rekomendasi', 'lokasi', 'makan', 'tradisional', 'kemarin', 'judul', 'adaptasi', 'teliti', 'novan', 'teliti', 'skripsi', 'pakai', 'judul', 'relevan']",1
+"['judul', 'rencana', 'ganti']",1
+"['rencana', 'ganti', 'judul', 'analisis', 'sentimen', 'opini', 'konsumen', 'metode', 'naive', 'bayes', 'seleksi', 'fitur', 'pearson', 'correlation', 'coefficient']",1
+"['spesifik', 'rujuk', 'objek']",1
+"['iya', 'terima', 'kasih', 'tulis']",1
+"['iya', 'lanjut', 'tulis', 'uji']",1
+"['terima', 'kasih']",1
+"['assalamaualaikum', 'kelas', 'iya']",1
+"['wassalamualaikum', 'kelas']",1
+['mbak'],1
+['iya'],1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'lampir', 'dokumen', 'skripsi', 'cek', 'dosen', 'beliau', 'saran', 'cek', 'aju', 'seminar hasil', 'terima', 'kasih']",1
+[],1
+"['lampir', 'dokumen', 'document', 'omitted']",1
+"['document', 'omitted', 'revisi', 'revisi', 'iya', 'krusial', 'rumus', 'iya', 'coba', 'informasi', 'kandung', 'sentimen', 'positif', 'kandung', 'sentimen', 'negatif', 'hubung', 'hasil', 'seleksi', 'fitur', 'seleksi', 'fitur', 'golong', 'persen', 'pengaruh', 'sentimen', 'positif', 'persen', 'pengaruhsnya', 'sentimen', 'negatif', 'uji', 'minggu', 'selesai', 'minggu', 'maksimal', 'daftar', 'senin']",1
+"['iya', 'terima', 'kasih']",1
+[],1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'dokumen', 'skripsi', 'lampir', 'dokumen', 'skripsi', 'baik', 'iya', 'tambah', 'sentimen', 'positif', 'negatif', 'letak', 'halaman', 'lampir', 'terima', 'kasih', 'document', 'omitted']",1
+"['tuju', 'sesuai', 'rumus', 'iya', 'sila', 'proses', 'daftar', 'seminar hasil']",1
+"['iya', 'terima', 'kasih']",1
+"['assalamualikum', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'info', 'aju', 'daftar', 'seminar hasil', 'filkomapps', 'mohon', 'tuju', 'verifikasi', 'filkomapps', 'terima', 'kasih']",1
+['proses'],1
+"['terima', 'kasih']",1
+[],1
+"['iya', 'terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'informasi', 'pelakasanaan', 'uji', 'skripsi', 'laksana', 'jumat', 'juni', 'wib', 'harap', 'konfirmasi', 'dosen', 'bimbing', 'laksana', 'sidang', 'skripsi', 'terima', 'kasih', 'wassalamualaikum']",1
+"['alhamdulillah', 'sukses', 'iya']",1
+"['terima', 'kasih']",1
+[],1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'filkom', 'angkat', 'aju', 'topik', 'skripsi', 'temu', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'selasa', 'jam']",1
+['terima kasih'],1
+"['request', 'calon', 'dosen bimbing', 'dosen']",1
+"['whatsapp', 'dosen', 'saran', 'saran', 'terima kasih']",1
+"['tolong', 'alternatif', 'beliau']",1
+"['alternatif', 'dosen', 'request', 'dosen', 'dosen', 'dosen']",-1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'perihal', 'bimbing', 'kirim', 'email', 'periksa', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'mohon', 'tunggu']",1
+['terima kasih'],1
+"['isi', 'logbook', 'minimal', 'dosen bimbing', 'p1', 'terima kasih']",1
+"['follow', 'dosen', 'kirim', 'email', 'balas', 'balas']",1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'perihal', 'p1', 'bimbing', 'dosen', '3kali', 'p1', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'hasil', 'run', 'koding', 'nilai', 'fitness', 'gbest', 'excel', 'manual', 'silah', 'video', 'presentasi', 'p1', 'durasi', 'minimal', 'menit', 'menit', 'unggah', 'google', 'drive', 'link', 'public', 'email', 'dosen bimbing', 'subject', 'video', 'presentasi', 'p1', 'daring', 'dosen bimbing', 'audio', 'record', 'wajah', 'wajib', 'tools', 'camtasia', 'screen', 'matic']",1
+"['mohon', 'maaf', 'codingan', 'masihh', 'selesai', 'presentasi', 'p1', 'beda', 'power point', 'kirim', 'email', 'isi', 'batas', 'skripsi', 'semester', 'tanggal', 'juli', 'informasi', 'minimal', 'p1', 'lanjut', 'skripsi', 'semester', 'codingan', 'minggu', 'konsultasi', 'lanjut', 'skripsi', 'semester', 'terima kasih']",-1
+"['power point', 'kirim', 'kait', 'p1', 'minimal', 'manual', 'maksimal', 'hasil', 'manual', 'excel', 'koding', 'ijinkan', 'manual', 'cek', 'tuju', 'log', 'book', 'dosen', 'diapprove', 'beliau', 'moon', 'beliau', 'syarat', 'p1', 'minimal', 'tuju', '3x', 'logbook', 'dosen bimbing', 'coba', 'fokus', 'tuju', 'beliau', 'dosen', 'diappove', 'tolong', 'whatsapp', 'aju', 'akses', 'batas', 'jurus', 'nilai', 'p1', 'terima kasih']",1
+"['konfirmasi', 'dosen', 'terima kasih', 'mohon', 'maaf', 'hubung', 'malam', 'info', 'logbook', 'tuju', 'dosen', 'wassalamualaikum']",-1
+"['whatsapp', 'cek', 'filkomapp', 'muncul', 'tombol', 'nilai', 'p1', 'unggah', 'hasil', 'revisi', 'proposal', 'p0']",1
+"['mohon', 'maaf', 'kirim', 'informasi', 'kemarin', 'ttng', 'teman', 'kirim', 'terima kasih']",1
+"['tuju', 'dokumen', 'unggah', 'proposal', 'tinggal', 'tunggu', 'tuju', 'dosen bimbing', 'coba', 'hubung', 'beliau']",1
+"['terima', 'kasih', 'konfirmasi', 'proposal', 'p0', 'tuju', 'dosen', 'terima kasih']",1
+"['whatsapp', 'aju', 'jurus', 'akses', 'batas', 'p1', 'tunggu', 'diapprove']",1
+"['terima', 'kasih', 'mohon', 'maaf', 'perihal', 'tuju', 'jurus', 'jam', 'proses', 'skripsi', 'ulang', 'semester', 'iya', 'terima', 'kasih']",1
+"['pra', 'proposal', 'unggah', 'semester', 'bantu', 'cepat', 'p0', 'p1', 'dan terus', 'bahan', 'judul']",1
+"['pakai', 'judul', 'skripsi', 'iya', 'alhamdulillah', 'terima', 'kasih', 'giat', 'kerja', 'skripsi']",1
+"['image', 'omitted']",1
+"['whatsapp', 'aju', 'akses', 'mudah', 'mudah', 'tuju', 'jurus']",1
+"['terima', 'kasih']",1
+"['mohon', 'maaf', 'ganggu', 'dosen', 'bimbing', 'dosen', 'iya', 'laksana', 'p0', 'kumpul', 'power', 'poin', 'kemarin', 'iya', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'ganti', 'edy', 'laksana', 'p0', 'video', 'presentasi', 'p0', 'presentasi', 'power point', 'atas', 'durasi', 'minimal', 'menit', 'menit', 'unggah', 'google', 'drive', 'link', 'public', 'email', 'audio', 'record', 'wajah', 'wajib', 'tools', 'camtasia', 'screen', 'matic', 'jadi', 'timbang', 'nilai', 'p0']",1
+"['terima', 'kasih']",1
+"['mohon', 'maaf', 'ganggu', 'informasi', 'mengupload', 'video', 'presentasi', 'p0', 'email', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'ulas', 'mohon', 'tunggu']",1
+"['terima', 'kasih']",1
+"['mohon', 'maaf', 'ganggu', 'informasi', 'kirim', 'email', 'tanggal', 'november', 'konsultasi', 'manual', 'tanggal', 'november', 'mengupload', 'video', 'presentasi', 'p1', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'mohon', 'tunggu']",1
+"['terima', 'kasih']",1
+"['security', 'code', 'changed', 'mohon', 'isi', 'logbook', 'minimal', 'logbook', 'dosen bimbing', 'syarat', 'p1', 'terima kasih']",1
+"['konsultasi', 'manual', 'email', 'ulas', 'masuk', 'logbook']",1
+"['tunggu', 'ulas', 'ijinkan']",1
+['terima kasih'],1
+['catat'],1
+"['mohon', 'maaf', 'ganggu', 'informasi', 'status', 'skripsi', 'tunggu', 'verifikasi', 'bimbing', 'rekomendasi', 'p1', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'terima kasih', 'tuju', 'tunggu', 'ulas', 'ijinkan', 'lanjut', 'draft', 'siap', 'p2']",1
+['terima kasih'],1
+"['mohon', 'maaf', 'ganggu', 'kait', 'konsultasi', 'program', 'hitung', 'inverse', 'metode', 'elm', 'library', 'now playing', 'linalg', 'inv', 'iya', 'partikel', 'populasi', 'pso', 'jurnal', 'beda', 'partikel', 'nilai', 'individu', 'dalam', 'populasi', 'iya', 'mohon', 'maaf', 'jadwal', 'uji akhir semester', 'induksi', 'riset', 'atika', 'kemarin', 'malam', 'kumpul', 'iya', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'konsultasi', 'program', 'hitung', 'inverse', 'metode', 'elm', 'library', 'now playing', 'linalg', 'inv', 'iya', 'koding', 'mandiri', 'alg', 'partikel', 'populasi', 'pso', 'jurnal', 'beda', 'partikel', 'nilai', 'individu', 'dalam', 'populasi', 'iya', 'partikel', 'individu', 'kumpul', 'partikel', 'populasi', 'mohon', 'maaf', 'jadwal', 'uji akhir semester', 'induksi', 'riset', 'atika', 'kemarin', 'malam', 'kumpul', 'iya', 'ijinkan', 'kumpul', 'jam']",1
+"['baik', 'codingan', 'you', 'deleted', 'this', 'message']",-1
+"['login', 'gmail', 'kunci']",1
+"['unggah', 'google', 'drive']",1
+"['kuliah', 'induksi', 'riset', 'drop', 'iya', 'tangguh', 'bayar', 'ukt', 'terima kasih', 'wasaalamualaikum']",1
+"['whatsapp', 'monggo', 'drop', 'silah', 'aju', 'akademik']",1
+"['hubung', 'akademik', 'iya', 'p2', 'iya']",1
+"['hubung', 'akademik', 'iya', 'p2', 'iya']",1
+"['selesai', 'progres', 'skripsi', 'kumpul', 'hasil', 'screenshot', 'program']",1
+"['mohon', 'maaf', 'ganggu', 'kait', 'informasi', 'kirim', 'hasil', 'screenshot', 'program', 'uji', 'email', 'lampir', 'skripsi', 'benar', 'diagram alir', 'besok', 'kirim', 'skripsi', 'update', 'cepat', 'pso', 'nilai', 'batas', 'nilai', 'batas', 'v', 'presentase', 'nilai', 'x', 'contoh', 'x', 'vmin', 'vmax', 'masuk', 'dalam', 'uji', 'iya', 'nama', 'uji', 'pengaruh', 'nilai', 'batas', 'cepat', 'p2', 'iya', 'skripsi', 'lanjut', 'semester', 'pesimis', 'seminar hasil', 'semester', 'deadline', 'daftar', 'seminar hasil', 'tanggal', 'besok', 'terima', 'kasih', 'wassalamualaikum']",-1
+"['whatsapp', 'informasi', 'kirim', 'hasil', 'screenshot', 'program', 'uji', 'email', 'lampir', 'skripsi', 'benar', 'diagram alir', 'besok', 'kirim', 'skripsi', 'reply', 'mohon', 'lampir', 'excel', 'silah', 'dokumen', 'susul', 'update', 'cepat', 'pso', 'nilai', 'batas', 'nilai', 'batas', 'v', 'presentase', 'nilai', 'x', 'contoh', 'x', 'vmin', 'vmax', 'masuk', 'dalam', 'uji', 'iya', 'nama', 'uji', 'pengaruh', 'nilai', 'batas', 'cepat', 'ijinkan', 'minimal', 'uji', 'metode', 'uji', 'konvergensi', 'pso', 'wajib', 'p2', 'iya', 'skripsi', 'lanjut', 'semester', 'pesimis', 'seminar hasil', 'semester', 'deadline', 'daftar', 'seminar hasil', 'tanggal', 'besok', 'allh', 'p1', 'p2', 'semester', 'syarat', 'p2', 'minimal', 'skenario', 'uji', 'selesai', 'serta', 'analisis', 'dalam']",1
+"['kirim', 'dokumen', 'skripsi', 'manual', 'excel', 'email']",1
+"['catat', 'ulas']",1
+['terima kasih'],1
+"['mohon', 'maaf', 'ganggu', 'mohon', 'maaf', 'hubung', 'luar', 'jam', 'kejar', 'seminar hasil', 'semester', 'deadline', 'daftar', 'seminar hasil', 'panjang', 'tanggal', 'desember', 'iya', 'terima kasih', 'wassalamualaikum']",1
+"['whatsapp', 'ijinkan', 'tunggu', 'ulas', 'progres', 'dokumen', 'silah', 'kirim', 'email']",1
+['terima kasih'],1
+"['ijinkan', 'usaha', 'daftar', 'seminar hasil', 'sidang', 'terima kasih']",1
+"['terima kasih', 'kait', 'revisi', 'baik', 'jurnal']",1
+"['aju', 'seminar hasil', 'tunggu', 'verifikasi', 'mohon', 'maaf', 'aju', 'kendala', 'administrasi', 'terima kasih', 'wassalamualaikum']",1
+"['whatsapp', 'hasil', 'cek', 'plagiasinya', 'kirim', 'email']",1
+"['aju', 'seminar hasil', 'maslaah', 'tunggu', 'kabar', 'uang', 'kait', 'ukt', 'kabar', 'bayar', 'transfer', 'follow', 'uang', 'bingung', 'kumpul', 'syarat', 'susul', 'iya']",1
+"['hubung', 'syarat', 'siap']",1
+"['whatsapp', 'center', 'ukt', 'uang', 'uang', 'advokesma', 'cp', 'uang', 'balas', 'bukti', 'bebas', 'tangguh', 'ukt', 'tau', 'menbayar', 'ukt', 'bilang', 'uang', 'pagi', 'chat', 'uang', 'balas', 'telpon', 'kaprodi', 'beliau', 'solusi', 'kait', 'ukt', 'saran', 'selesai', 'filkom', 'apps']",1
+"['alhamdulillah', 'dicapture', 'bukti', 'telepon', 'kaprodi', 'atas', 'kirim', 'whatsapp', 'aju', 'daftar', 'seminar hasil', 'tuju', 'dosen bimbing', 'tuju']",1
+"['image', 'omitted']",1
+['terima kasih'],1
+"['alhamdulillah', 'terima kasih']",1
+['iya'],1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mohon', 'maaf', 'hubung', 'jam', 'mahasiswa', 'teknik', 'informatika', 'filkom', 'angkat', 'konsultasi', 'topik', 'skripsi', 'temu', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'besok', 'senin', 'jam']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'informasi', 'pelakasanaan', 'uji', 'skripsi', 'laksana', 'senin', 'januari', 'wib', 'harap', 'konfirmasi', 'dosen', 'bimbing', 'laksana', 'sidang', 'skripsi', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'alhamdulillah', 'hadir']",1
+['terima kasih'],1
+"['request', 'link', 'meet', 'zoom', 'dosen', 'uji']",1
+"['balas', 'dosen']",1
+"['tunggu', 'linknya', 'tolong', 'dosen bimbing', 'uji', 'terima kasih']",1
+"['link', 'dosen', 'izin', 'informasi', 'dosen', 'dosen', 'dosen', 'join', 'google meet', 'terima kasih']",1
+"['power point', 'tolong', 'screen', 'silah', 'join']",1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'filkom', 'angkat', 'konsultasi', 'topik', 'skripsi', 'kemarin', 'senin', 'tunggu', 'ruang', 'temu', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'besok', 'jam']",1
+"['terima', 'kasih']",1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'filkom', 'angkat', 'konsultasi', 'topik', 'skripsi', 'temu', 'besok', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'besok', 'jam', 'sore']",1
+"['terima', 'kasih']",1
+"['jadwal', 'bimbing', 'reschedule', 'jam', 'pagi']",1
+"['mohon', 'maaf', 'habis', 'jatuh', 'kamar', 'mandi', 'kampus', 'kampus', 'bimbing', 'ganti', 'senin', 'terima', 'kasih']",1
+"['besok', 'senin', 'jam', 'pagi']",1
+"['terima', 'kasih']",1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'filkom', 'angkat', 'bimbing', 'skripsi', 'temu', 'besok', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'besok', 'jam']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'menganggu', 'informatika', 'konsultasi', 'topik', 'skripsi', 'kemarin', 'skripsi', 'implementasi', 'metode', 'kalman', 'filter', 'prediksi', 'harga', 'bahan', 'pokok', 'timur', 'dasar', 'scraping', 'web', 'siskaperbapo', 'kendala', 'data', 'hasil', 'bagus', 'ubah', 'indikator', 'beda', 'beda', 'fokus', 'objek', 'skripsi', 'judul', 'implementasi', 'metode', 'backpropagation', 'prediksi', 'harga', 'pasar', 'cabai', 'keriting', 'kota', 'malang', 'alas', 'pilih', 'cabai', 'cabai', 'alami', 'ubah', 'harga', 'stabil', 'boleh', 'ganti', 'topik', 'skripsi', 'terima kasih', 'wassalamualaikum']",1
+"['whatsapp', 'ijinkan', 'ganti', 'judul', 'mohon', 'kirim', 'base', 'judul', 'whatsapp', 'grup', 'p0', 'tanggal', 'maret', 'laksana', 'p0', 'longgar', 'dosen bimbing', 'mandiri', 'dosen bimbing', 'lebih', 'tanggal', 'nama', 'objek', 'masalah', 'metodologi', 'plan', 'tanggal', 'p1', 'plan', 'tanggal', 'p2', 'nama', 'aulia', 'nia', 'objek', 'optimasi', 'susun', 'barang', 'bidang', 'dimensi', 'algoritme', 'genetika', 'masalah', 'susun', 'barang', 'manual', 'susun', 'banyak', 'pesan', 'barang', 'sdm', 'batas', 'metodologi', 'studi', 'pustaka', 'kumpul', 'analisis', 'butuh', 'analisis', 'ancang', 'implementasi', 'sistem', 'uji', 'sistem', 'uji', 'akurasi', 'simpul', 'saran', 'standar', 'plan', 'tanggal', 'p1', 'april', 'range', 'filkomapp', 'maret', 'april', 'plan', 'tanggal', 'p2', 'april', 'range', 'filkomapp', 'maret', 'may', 'monggo', 'lanjut', 'terima kasih']",1
+"['nama', 'objek', 'implementasi', 'metode', 'jaring', 'syaraf', 'tiru', 'backpropagation', 'prediksi', 'harga', 'cabai', 'keriting', 'kota', 'malang', 'masalah', 'konsumsi', 'cabai', 'keriting', 'kota', 'malang', 'harga', 'cabai', 'keriting', 'alami', 'ubah', 'fluktuatif', 'ubah', 'harga', 'cabai', 'keriting', 'sebab', 'inflasi', 'kota', 'malang', 'harga', 'cabai', 'ubah', 'beli', 'sebab', 'tani', 'cabai', 'keriting', 'alami', 'rugi', 'kembali', 'modal', 'metodologi', 'tipe', 'teliti', 'strategi', 'teliti', 'teknik', 'kumpul', 'teliti', 'teknik', 'analisis', 'implementasi', 'algoritme', 'uji', 'analisis', 'simpul', 'saran', 'plan', 'tanggal', 'p1', 'april', 'plan', 'tanggal', 'p2', 'mei']",1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'filkom', 'angkat', 'bimbing', 'skripsi', 'temu', 'besok', 'selasa', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'besok', 'jam']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'moga', 'keluarga', 'sehat', 'mohon', 'maaf', 'ganggu', 'kenal', 'nama', 'program', 'studi', 'teknik', 'informatika', 'angkat', 'fokus', 'minat', 'komputasi', 'cerdas', 'mohon', 'maaf', 'izin', 'informasi', 'semester', 'aju', 'proposal', 'skripsi', 'judul', 'analisis', 'sentimen', 'twitter', 'new', 'normal', 'bentuk', 'daftar', 'stopword', 'zipf', 'law', 'bobot', 'emoji', 'dosen', 'bimbing', 'dosen', 'arum', 'sari', 'kom', 'kom', 'dosen', 'bimbing', 'santoso', 'kom', 'mohon', 'bimbing', 'dosen', 'bimbing', 'mohon', 'maaf', 'terima', 'kasih', 'wassalamualaikum']",1
+"['whatsapp', 'oke']",1
+"['terima', 'kasih', 'mohon', 'maaf', 'izin', 'kait', 'sedia', 'jadwal', 'p0', 'p0', 'ada', 'pisah']",1
+"['pisah', 'tidak apa']",1
+"['terima', 'kasih', 'coba', 'konfirmasi', 'dosen', 'dosen', 'bimbing', 'lampir', 'proposal', 'skripsi', 'media', 'omitted', 'saran', 'tambah', 'kait', 'proposal', 'skripsi', 'terima', 'kasih']",-1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'bimbing', 'mohon', 'maaf', 'izin', 'kait', 'proposal', 'kirim', 'kemarin', 'revisi', 'saran', 'kait', 'proposal', 'izin', 'kait', 'jadwal', 'p0', 'sedia', 'p0', 'terima', 'kasih']",1
+"['gambar', 'tabel', 'rujuk', 'kalimat', 'dar', 'tempel', 'contoh', 'tabel', 'dan terus', 'tahap', 'tokenisasi', 'gambar', 'table', 'ubah', 'bahasa', 'indonesia', 'tabel']",1
+"['baik', 'proposal', 'terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'izin', 'informasi', 'tanggal', 'januari', 'alhamdulillah', 'jadwal', 'sidang', 'skripsi', 'jadwal', 'sesuai', 'filkomapps', 'dosen', 'uji', 'putra', 'pandu', 'dosen', 'uji', 'ridok', 'dosen', 'uji', 'mohon', 'maaf', 'izin', 'konfirmasi', 'kait', 'sidang', 'hadir', 'sidang', 'skripsi', 'senin', 'mohon', 'maaf', 'terima', 'kasih']",1
+"['whatsapp', 'oke', 'media', 'omitted']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'izin', 'informasi', 'putra', 'dosen', 'uji', 'link', 'google', 'meet', 'sidang', 'lampir', 'link', 'google', 'meetnya', 'mohon', 'maaf', 'terima', 'kasih', 'selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mohon', 'maaf', 'izin', 'sidang', 'skripsi', 'mohon', 'maaf', 'terima', 'kasih']",-1
+"['umum', 'akademik', 'status', 'mahasiswa', 'skripsi', 'kait', 'status', 'aktif', 'mahasiswa', 'filkom', 'semester', 'genap', 'fakultas', 'ilmu', 'komputer', 'ambil', 'bijak', 'bagai ikut', 'mahasiswa', 'filkom', 'daftar', 'seminar hasil', 'sidang', 'skripsi', 'tanggal', 'januari', 'status', 'akademik', 'set', 'blokir', 'semester', 'genap', 'daftar', 'ulang', 'bayar', 'spp', 'ukt', 'mahasiswa', 'selesai', 'sidang', 'skripsi', 'daftar', 'yudisium', 'lambat', 'tanggal', 'februari', 'status', 'rubah', 'lulus', 'semester', 'ganjil', 'mahasiswa', 'selesai', 'daftar', 'yudisium', 'tanggal', 'februari', 'mahasiswa', 'daftar', 'ulang', 'semester', 'genap', 'bayar', 'ukt', 'spp', 'dekan', 'filkom', 'wakil', 'dekan', 'bidang', 'akademik']",1
+"['terima', 'kasih', 'informasi']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'angkat', 'mohon', 'maaf', 'izin', 'informasi', 'revisi', 'tulis', 'skripsi', 'dasar', 'revisi', 'putra', 'ridok', 'lampir', 'skripsi', 'media', 'omitted', 'saran', 'revisi', 'kait', 'skripsi', 'mohon', 'maaf', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']",1
+"['nyata', 'sesuai', 'tanggal', 'uji', 'tulis', 'gelar', 'singkat', 'spasi', 'contoh', 'nama', 'sc', 'ph', 'ketua', 'jurus', 'titik', 'titik', 'huruf', 'lanjut', 'koma', 'baca']",1
+"['revisi', 'kait', 'tulis', 'sesuai', 'saran', 'terima', 'kasih', 'masuk']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'hubung', 'serah', 'proposal', 'sesuai', 'revisi', 'saran', 'kemarin', 'lampir', 'proposal', 'media', 'omitted', 'proposal', 'mohon', 'bimbing', 'terima kasih']",1
+"['p0', 'pemb1', 'iya', 'manut']",1
+"['konfirmasi', 'dosen', 'kait', 'p0nya', 'terima', 'kasih']",1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mohon', 'maaf', 'izin', 'konfirmasi', 'ulang', 'kait', 'p0', 'presentasi', 'p0', 'serah', 'dosen', 'bimbing', 'sepenuh', 'iya', 'mohon', 'maaf', 'paham', 'mohon', 'maaf']",1
+"['whatsapp', 'iya', 'tuju', 'saran']",1
+"['coba', 'konfirmasi', 'dosen', 'terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'hubung', 'konsultasi', 'kait', 'proposal', 'izin', 'informasi', 'selasa', 'kemarin', 'p0', 'bimbing', 'dosen', 'dosen', 'bimbing', 'rumus', 'proposal', 'dosen', 'saran', 'rumus', 'proposal', 'ganti', 'teliti', 'non', 'implementatif', 'rumus', 'implementasi', 'metode', 'ganti', 'rumus', 'tuju', 'dosen', 'rumus', 'lampir', 'proposal', 'media', 'omitted', 'mohon', 'bimbing', 'saran', 'revisi', 'kait', 'proposal', 'terima', 'kasih']",-1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'hubung', 'konsultasi', 'proposal', 'kirim', 'revisi', 'saran', 'kait', 'proposal', 'mohon', 'maaf', 'izin', 'informasi', 'tanggal', 'oktober', 'unggah', 'proposal', 'verifikasi', 'dosen', 'progres', 'kirim', 'kerja', 'skripsi', '4nya', 'terima', 'kasih', 'mohon', 'maaf']",1
+"['cek', 'bhs', 'inggris', 'cetak', 'italic', 'daftar', 'bhs', 'inggris', 'rujuk', 'tabel', 'gambar', 'sesuai', 'judul', 'tabel', 'gambar', 'huruf', 'contoh', 'gambar', 'tabel']",1
+"['mohon', 'maaf', 'izin', 'kait', 'bentuk', 'diagram', 'alir', 'harus', 'tool', 'shape', 'microsoft', 'word', 'tool', 'luar', 'microsoft', 'word', 'website', 'draw', 'io']",1
+"['mudah', 'edit', 'suka', 'vidio', 'draw', 'io']",1
+"['kek', 'lapor', 'baik', 'sesuai', 'saran', 'revisi', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu', 'mohon', 'maaf']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'hubung', 'progres', 'konsultasi', 'kait', 'lapor', 'skripsi', 'minggu', 'saran', 'revisi', 'kait', 'tulis', 'proposal', 'skripsi', 'baik', 'sesuai', 'saran', 'selesai', 'revisi', 'progres', 'skripsi', 'selesai', 'lampir', 'lapor', 'skripsi', 'media', 'omitted']",1
+"['whatsapp', 'oke', 'cek', 'iya']",1
+"['mohon', 'bimbing', 'kait', 'dokumen', 'lapor', 'skripsi', 'mohon', 'maaf', 'izin', 'kait', 'p1', 'filkomapps', 'lewat', 'p1', 'mana', 'verifikasi', 'dosen', 'dosen', 'bimbing', 'berita', 'acara', 'risi', 'nilai', 'maju', 'p1', 'p1', 'hal', 'presentasi', 'iya', 'mohon', 'maaf', 'terima', 'kasih']",1
+"['tulis', 'halaman', 'kesah', 'revisi', 'abstrak', 'abstrak', 'skripsi', 'muat', 'latar', 'metode', 'hasil', 'mengggambarkan', 'skripsi', 'tahap', 'ancang', 'metode', 'paragraf']",1
+"['alhamdulillah', 'coba', 'susun', 'lembar', 'kesah', 'abstrak', 'mohon', 'maaf', 'izin', 'kait', 'paragraf', 'tahap', 'ancang', 'metode', 'coba', 'abstrak', 'risi', 'latar', 'metode', 'paragraf', 'cicil', 'iya', 'mohon', 'maaf']",1
+"['abstrak', 'hasil', 'metode']",1
+"['coba', 'latar', 'metode', 'masuk', 'abstrak', 'mohon', 'maaf', 'izin', 'kait', 'p1', 'p1nya', 'presentasi', 'pilih', 'p1']",-1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'hubung', 'progres', 'kait', 'skripsi', 'skripsi', 'coba', 'abstrak', 'bahasa', 'indonesia', 'tahap', 'uji', 'cari', 'nilai', 'guna', 'klasifikasi', 'knn', 'mana', 'coba', 'uji', 'nilai', 'cari', 'akurasi', 'baik', 'coba', 'hilang', 'emoji', 'dataset', 'akurasi', 'baik', 'lampir', 'skripsi', 'media', 'omitted', 'mohon', 'bimbing', 'saran', 'revisi', 'lapor', 'skripsi', 'terima', 'kasih']",1
+"['whatsapp', 'oke']",-1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'hubung', 'kait', 'saran', 'revisi', 'kait', 'dokumen', 'skripsi', 'kirim', 'minggu', 'saran', 'revisi', 'kait', 'tulis', 'skripsi', 'mohon', 'maaf', 'rencana', 'daftar', 'seminar hasil', 'semester', 'logbooknya', 'hitung', 'bimbing', 'iya', 'batas', 'daftar', 'seminar hasil', 'besok', 'tanggal', 'desember', 'izin', 'progres', 'skripsi', 'jurnal', 'kirim', 'skripsi', 'jurnal', 'media', 'omitted', 'media', 'omitted', 'mohon', 'bimbing', 'saran', 'revisi', 'kait', 'tulis', 'skripsi', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']",1
+"['tata', 'tulis', 'bagus', 'tanggal', 'lembar', 'kesah', 'kosong', 'orisinalitas', 'tanggal']",1
+"['alhamdulillah', 'coba', 'baik', 'halaman', 'logbook', 'filkomapps', 'isi', 'daftar', 'seminar hasil', 'skripsi', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu', 'mohon', 'maaf', 'izin', 'informasi', 'dosen', 'saran', 'rubah', 'judul', 'skripsi', 'bentuk', 'daftar', 'stopword', 'zipf', 'law', 'bobot', 'emoji', 'analisis', 'sentimen', 'twitter', 'saran', 'revisi', 'kait', 'judul', 'skripsi', 'judul', 'skripsi', 'beda', 'hilang', 'new', 'normal', 'tweet', 'dosen', 'saran', 'judul', 'ganti']",1
+['tidak apa'],1
+"['lampir', 'form', 'ganti', 'judul', 'skripsi', 'tuju', 'dosen', 'bimbing', 'dosen', 'form', 'sb', 'ganti', 'judul', 'pdf', 'dokumen', 'attached', 'form', 'sb', 'ganti', 'judul', 'pdf']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'izin', 'informasi', 'alhamdulillah', 'laksana', 'seminar', 'hasil', 'skripsi', 'tanggal', 'desember', 'dosen', 'fasilitator', 'fariz', 'andri', 'bakhtiar', 'kom', 'tunggu', 'jadwal', 'sidang', 'kirim', 'berkas', 'lengkap', 'transkrip', 'nilai', 'final', 'mohon', 'maaf', 'izin', 'kait', 'form', 'ganti', 'judul', 'skripsi', 'kirim', 'tangan', 'jaga', 'jaga', 'akademik', 'mohon', 'maaf', 'mohon', 'abar', 'kait', 'seminar', 'hasil', 'terima', 'kasih']",1
+"['whatsapp', 'oke']",1
+"['mohon', 'maaf', 'izin', 'konfirmasi', 'form', 'ganti', 'judul', 'kirim']",-1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'teknik', 'informatika', 'mahasiswa', 'bimbing', 'skripsi', 'bimbing', 'jadwal', 'p0', 'p0', 'dosen', 'bimbing', 'pisah', 'dosen', 'p0', 'iya', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['p0', 'p1', 'p2', 'prefer', 'mandiri', 'prive', 'dosen bimbing', 'p0', 'kirim', 'email', 'dokumen', 'power point', 'p0', 'link', 'publik', 'video', 'presentasi', 'p0', 'isi', 'logbook', 'tanggal', 'konsultasi', 'siap', 'p0', 'terima kasih']",1
+"['iya', 'logbook', 'konsultasi', 'p0', 'kirim', 'email', 'terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'bimbing', 'bimbing', 'kirim', 'dokumen', 'presentasi', 'p0', 'email', 'terima', 'kasih']",1
+"['catat', 'tunggu', 'ulas']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'bimbing', 'sedia', 'presentasi', 'p1', 'prosedur', 'presentasi', 'p1', 'presentasi', 'p0', 'prosedur', 'terima', 'kasih']",1
+"['tunggu', 'ulas', 'tolong', 'lanjut', 'siap', 'p1', 'draft', 'dokumen', 'dokumen', 'excel', 'manual', 'dokumen', 'excel', 'pindah', 'dokumen', 'skripsi', 'cicil', 'koding', 'hasil', 'running', 'hasil', 'hitung', 'manual', 'power point', 'p1', 'isi', 'tolong', 'lampir', 'screenshot', 'hasil', 'running', 'kode', 'program', 'hasil', 'hitung', 'manual', 'screenshot', 'kiri', 'hasil', 'koding', 'kanan', 'hasil', 'manual', 'dokumen', 'tanda', 'shape', 'nilai', 'power point', 'p1', 'isi', 'video', 'presentasi', 'power point', 'p1', 'isi', 'log', 'book', 'minimal', 'dosen bimbing', 'ambil', 'tanggal', 'konsultasi', 'email', 'whatsapp', 'urai', 'log', 'book']",1
+"['terima kasih', 'p1', 'kait', 'screenshot', 'hasil', 'koding', 'boleh', 'lengkap', 'tahap', 'kode', 'program', 'tahap', 'proses', 'klasifikasi', 'naive', 'bayes']",1
+['ijinkan'],1
+"['selamat', 'siang', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'bimbing', 'bimbing', 'kirim', 'dokumen', 'presentasi', 'p1', 'serta', 'dokumen', 'manual', 'dokumen', 'power point', 'presentasi', 'dokumen', 'screenshoot', 'koding', 'dokumen', 'dokumen', 'skripsi', 'email', 'terima', 'kasih']",1
+"['whatsapp', 'tunggu', 'ulas']",1
+"['maaf', 'logbook', 'filkomapps', 'tanggal', 'desember', 'siap', 'konsultasi', 'p1', 'sesuai', 'tanggal', 'hubung', 'syarat', 'p1', 'boleh']",-1
+['ijinkan'],-1
+"['selamat', 'siang', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'bimbing', 'bimbing', 'progres', 'kerja', 'skripsi', 'proses', 'kait', 'laksana', 'p2', 'semester', 'lanjut', 'p2', 'semester', 'iya', 'terima', 'kasih']",-1
+"['tolong', 'kirim', 'progres', 'minimal', 'skenario', 'uji', 'analisis', 'hasil', 'uji', 'selesai', 'selesai', 'lanjut', 'semester', 'depan']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'menggangu', 'kirim', 'progres', 'dokumen', 'skripsi', 'p2', 'email', 'maaf', 'kirim', 'minggu', 'kemarin', 'potong', 'libur', 'terima', 'kasih']",1
+"['whatsapp', 'mohon', 'tunggu', 'ulas']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'mahasiswa', 'informatika', 'angkat', 'kosong', 'jam', 'bimbing', 'konsultasi', 'kait', 'proposal', 'skripsi', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'jumat', 'jam']",1
+"['terima kasih', 'informasi']",1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'mahasiswa', 'informatika', 'angkat', 'kosong', 'jam', 'bimbing', 'konsultasi', 'kait', 'skripsi', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'besok', 'jam']",1
+"['terima kasih', 'informasi']",1
+"['logbook', 'p2']",1
+[],1
+"['cek', 'pasti', 'bimbing', 'tolong', 'periksa']",1
+"['bimbing', 'selamat', 'sore', 'maaf', 'ganggu', 'uji', 'teknik', 'uji', 'pakai', 'whitebox', 'blackbox', 'blackbox']",1
+['whitebox'],1
+"['whitebox', 'pakai', 'basis', 'path', 'testing', 'dalam', 'iya']",1
+"['iya', 'basis', 'path', 'testing', 'code', 'generator', 'dokumen', 'xtend']",1
+"['uji', 'email', 'masuk', 'dalam', 'blackbox', 'iya']",1
+"['email', 'tercover', 'uji', 'whitebox', 'uji', 'jalur', 'independen']",1
+"['terima kasih', 'informasi']",1
+"['selamat', 'siang', 'maaf', 'ganggu', 'logbook', 'bimbing', 'cukup', 'p2', 'terima', 'kasih']",1
+"['waalaikumussalam', 'isi', 'filkom', 'apps']",1
+['terima kasih'],1
+"['selamat', 'sore', 'maaf', 'menganggu', 'kait', 'status', 'skripsi', 'capai', 'p2', 'proses', 'kerja', 'skripsi', 'lanjut', 'semester', 'iya', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'otomatis']",1
+"['konsultasi', 'skripsi', 'jeda', 'semester', 'jalan', 'iya']",1
+['silah'],1
+"['terima kasih', 'informasi']",1
+"['selamat', 'sore', 'maaf', 'ganggu', 'uji', 'whitebox', 'code', 'generator', 'selesai', 'lampir', 'dokumen', 'skripsi', 'dokumen', 'kirim', 'email', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'dokumen', 'periksa']",1
+[],1
+"['selamat', 'siang', 'maaf', 'menganggu', 'uji', 'blackbox', 'pakai', 'uji', 'email', 'iya']",1
+"['waalaikumussalam', 'wrwb', 'tolong', 'periksa', 'uji', 'tercover', 'whitebox', 'uji', 'blackbox', 'isi', 'uji', 'aplikasi', 'generate']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'uji', 'whitebox', 'code', 'generator', 'blackbox', 'simpul', 'saran', 'selesai', 'lampir', 'dokumen', 'skripsi', 'dokumen', 'kirim', 'email', 'terima', 'kasih']",1
+"['waalaikumussalam', 'wrwb', 'iya', 'maaf', 'slow', 'response']",1
+"['terima', 'kasih']",1
+"['michael', 'fungsi', 'search', 'export', 'daftar', 'pagination', 'implementasi']",1
+[],1
+['oke'],1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'kendala', 'tahap', 'p2', 'dosen', 'bimbing', 'verifikasi', 'nilai', 'hubung', 'marji', 'dosen', 'bimbing', 'chat', 'via', 'whatsapp', 'respon', 'beliau', 'tahap', 'p2', 'lanjut', 'tahap', 'iya']",1
+"['waalaikumussalam', 'wrwb', 'tunggu', 'dosen', 'susun', 'jurnal']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'buat', 'abstrak', 'pakai', 'ringkas', 'latar']",1
+"['abstrak', 'isi', 'ringkas', 'dahulu', 'metode', 'hasil', 'simpul']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'jurnal', 'kait', 'skripsi', 'kirim', 'email', 'koreksi', 'terima', 'kasih']",1
+"['waalaikumussalam', 'wrwb', 'mohon', 'tunggu', 'balas', 'slow', 'response', 'ganti', 'mahasiswa', 'p0']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'mahasiswa', 'informatika', 'angkat', 'kosong', 'jam', 'bimbing', 'konsultasi', 'kait', 'skripsi', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'ruang', 'jam']",1
+"['terima kasih', 'informasi']",1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'jurnal', 'selesai', 'daftar', 'seminar hasil', 'iya', 'cek', 'plagiasi']",1
+"['waalaikumussalam', 'wrwb', 'cek', 'plagiasi']",1
+"['terima kasih', 'cek', 'plagiasi', 'pakai', 'dokumen', 'skripsi', 'jurnal', 'iya']",1
+"['skripsi', 'simpul', 'cover', 'daftar', 'abstrak', 'antar', 'daftar', 'pustaka', 'lampir', 'dan lain', 'class', 'enrollment', 'key', 'skripsi1', 'skripsi', 'jptiik']",1
+"['uji', 'sempat', 'iya', 'lebih', 'presentase', 'plagiasinya']",1
+"['maksimal', '3x', 'hari']",1
+"['terima', 'kasih', 'selamat', 'siang', 'maaf', 'ganggu', 'informasi', 'dosen', 'verifikasi', 'p2', 'filkom', 'apps', 'tunggu', 'verifikasi', 'media', 'serta']",1
+"['cek', 'apps']",1
+"['terima', 'kasih']",1
+"['selamat', 'sore', 'maaf', 'menganggu', 'uji', 'plagiasi', 'dokumen', 'skripsi', 'turnitin', 'hasil', 'daftar', 'seminar', 'hasil']",-1
+"['waalaikumussalam', 'wrwb', 'silah']",1
+"['terima', 'kasih', 'selamat', 'siang', 'maaf', 'menganggu', 'tandatangan', 'logbook', 'skripsi', 'lampir', 'berkas', 'daftar', 'seminar hasil', 'terima', 'kasih', 'media', 'serta']",1
+"['media', 'serta', 'waalaikumussalam']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'maaf', 'ganggu', 'tuju', 'filkom', 'apps', 'kait', 'daftar', 'pasuk', 'seminar', 'hasil', 'uji', 'terima', 'kasih']",1
+"['waalaikumussalam', 'tuju']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'maaf', 'ganggu', 'informasi', 'jalan', 'uji', 'skripsi', 'tanggal', 'jumat', 'november', 'jam', 'wib', 'harap', 'hadir', 'uji', 'skripsi', 'lampir', 'undang', 'filkom', 'apps', 'media', 'serta']",-1
+"['waalaikumussalam', 'wrwb', 'hadir', 'silah', 'siap', 'maksimal', 'moga', 'sidang', 'jalan', 'lancar', 'hasil', 'baik']",1
+"['terima', 'kasih']",1
+"['terima', 'kasih', 'bimbing', 'tahap', 'uji', 'mohon', 'maaf', 'uji', 'maksimal', 'baik', 'skripsi', 'sesuai']",1
+"['waalaikumussalam', 'wrwb', 'selamat', 'silah', 'selesai', 'revisi']",1
+"['terima', 'kasih', 'selesai', 'revisi', 'mohon', 'bimbing', 'iya']",1
+"['selamat', 'sore', 'maaf', 'menganggu', 'kirim', 'dokumen', 'skripsi', 'revisi', 'form', 'dosen', 'uji', 'email', 'mohon', 'koreksi', 'masuk', 'revisi', 'terima', 'kasih']",-1
+"['selamat', 'siang', 'maaf', 'ganggu', 'kirim', 'dokumen', 'skripsi', 'revisi', 'form', 'dosen', 'uji', 'email', 'mohon', 'koreksi', 'masuk', 'batas', 'revisi', 'desember', 'cetak', 'hardcopynya', 'serah', 'berkas', 'akademik', 'mohon', 'bantu', 'bimbing', 'terima', 'kasih']",1
+"['waalaikumussalam', 'wrwb', 'silah', 'tunggu', 'email', 'balas', 'antri']",1
+"['terima', 'kasih', 'informasi']",1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'kait', 'revisi', 'skripsi', 'lembar', 'kesah', 'dokumen', 'skripsi', 'lanjut', 'tahap', 'proses', 'cetak', 'dokumen', 'terima', 'kasih', 'media', 'serta']",1
+"['waalaikumussalam', 'media', 'serta']",1
+"['terima', 'kasih', 'tangan']",1
+"['konsultasi', 'skripsi', 'selasa', 'rabu', 'jumat']",1
+"['terima kasih', 'informasi']",1
+"['selamat', 'sore', 'maaf', 'menganggu', 'unggah', 'dokumen', 'dokumen', 'skripsi', 'filkom', 'apps', 'tuju', 'apps', 'terima', 'kasih']",-1
+"['waalaikumussalam', 'wrwb']",1
+"['selamat', 'siang', 'maaf', 'ganggu', 'tandatangan', 'form', 's2', 'sc2', 'perlu', 'yudisium', 'tuju', 'unggah', 'makalah', 'skripsi', 'terima', 'kasih', 'media', 'serta', 'media', 'serta']",1
+"['media', 'serta', 'media', 'serta']",1
+"['terima kasih', 'tangan']",1
+"['selamat', 'siang', 'maaf', 'ganggu', 'kait', 'dokumen', 'skripsi', 'artefak', 'serah', 'terima kasih']",1
+"['unggah', 'filkom', 'apps']",1
+"['unggah', 'filkom', 'apps', 'kait', 'dokumen', 'skripsi', 'kait', 'daftar', 'yudisium', 'form', 'sc', 'nomor', '3a', '4a', 'terima kasih', 'media', 'serta']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'form', 'sc2', 'nomor', '3a', '4a', 'perlu', 'daftar', 'yudisium', 'terima kasih', 'media', 'serta']",1
+"['media', 'serta']",1
+"['terima kasih', 'tandatangannya']",1
+[],1
+"['selamat', 'sore', 'maaf', 'ganggu', 'mahasiswa', 'informatika', 'angkat', 'unggah', 'proposal', 'skripsi', 'filkom', 'apps', 'masuk', 'judul', 'skripsi', 'judul', 'ikut', 'judul', 'pakai', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'judul']",1
+['terima kasih'],1
+"['assalamuailaikum', 'selamat', 'sore', 'maaf', 'menganggu', 'mahasiswa', 'informatika', 'angkat', 'analisis', 'domain', 'terap', 'analisis', 'pakai', 'feature', 'diagram', 'ikut', 'jurnal', 'iya', 'media', 'serta']",1
+"['waalaikumussalam', 'wrwb', 'iya']",1
+['terima kasih'],1
+"['media', 'serta', 'selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'informatika', 'angkat', 'analisis', 'domain', 'lampir', 'dokumen', 'pdf', 'koreksi', 'tambah', 'grammar', 'dsl', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'bimbing', 'via', 'email', 'serta', 'dokumen', 'format', 'docx']",1
+"['mohon', 'maaf', 'kirim', 'email', 'terima kasih']",1
+"['selamat', 'sore', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'skripsi', 'bimbing', 'ancang', 'dsl', 'tulis', 'skripsi', 'bagi', 'fitur', 'halaman', 'halaman', 'daftar', 'halaman', 'iya']",1
+"['waalaikumussalam', 'wrwb', 'perfitur', 'halaman', 'rancang', 'grammar', 'grammar', 'cakup', 'atribut', 'deklaratif', 'generate', 'aplikasi', 'butuh', 'judul', 'halaman', 'grammar', 'atribut', 'judul', 'ancang', 'code', 'generator', 'pisah', 'perfitur', 'halaman']",1
+"['terima kasih', 'informasi']",1
+"['selamat', 'sore', 'maaf', 'ganggu', 'telepon', 'kait', 'sks', 'skripsi', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'via', 'message', 'sksnya']",1
+"['aju', 'minta', 'transkrip', 'akademik', 'hitung', 'sks', 'wajib', 'minat', 'total', 'sks', 'sks', 'semester', 'kemarin', 'ulang', 'kuliah', 'kenal', 'pola', 'sks', 'semester', 'kemarin', 'hilang', 'sks', 'selesai', 'skripsi', 'iya']",1
+"['sks', 'skripsi']",1
+"['skripsi', 'sks', 'total']",1
+"['lebih', 's1', '144sks']",1
+"['syarat', 'lulus', 'sks', 'skripsi', 'sks', 'iya']",1
+"['iya', 'sks', 'sarjana']",1
+"['terima kasih', 'informasi']",1
+"['assalamualaikun', 'selamat', 'sore', 'maaf', 'ganggu', 'code', 'generator', 'dslnya', 'selesai', 'lampir', 'dokumen', 'skripsi', 'dokumen', 'kirim', 'email', 'terima kasih']",1
+"['waalaikumussalam', 'wrwb', 'cek']",1
+['terima kasih'],1
+"['selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'filkom', 'apps', 'skripsi', 'cantum', 'dosen', 'bimbing', 'kosong', 'jam', 'konsultasi', 'kait', 'skripsi', 'terima kasih']",-1
+"['selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'filkom', 'apps', 'skripsi', 'cantum', 'dosen', 'bimbing', 'kosong', 'jam', 'konsultasi', 'kait', 'skripsi', 'terima kasih']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'sedia', 'verifikasi', 'tahap', 'p2', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'filkom', 'apps', 'lampir', 'dokumen', 'skripsi', 'skripsi', 'pasuk', 'tahap', 'uji', 'terima kasih', 'media', 'serta']",-1
+"['media', 'serta', 'selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'progres', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'skripsi', 'pasuk', 'tahap', 'uji', 'whitebox', 'hasil', 'valid', 'terima kasih']",1
+"['program', 'pakai']",1
+"['pakai', 'bahasa', 'php']",1
+['dospem'],1
+"['dospem', 'dosen']",1
+[],1
+"['pakai', 'contoh', 'jurnal', 'jurnal', 'skripsi']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'sedia', 'verifikasi', 'nilai', 'tahap', 'p2', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'filkom', 'apps', 'lengkap', 'nilai', 'p2', 'dosen', 'dosen', 'bimbing', 'skripsi', 'bahas', 'kembang', 'domain', 'specific', 'language', 'ubah', 'source', 'code', 'aplikasi', 'crud', 'create', 'read', 'update', 'delete', 'bahasa', 'pemrograman', 'php', 'code', 'generator', 'bahasa', 'pemrograman', 'xtend', 'lampir', 'dokumen', 'skripsi', 'skripsi', 'pasuk', 'tahap', 'uji', 'terima kasih', 'media', 'serta']",-1
+"['selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'sedia', 'verifikasi', 'nilai', 'tahap', 'p2', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'filkom', 'apps', 'lengkap', 'nilai', 'p2', 'dosen', 'dosen', 'bimbing', 'juli', 'lampir', 'dokumen', 'skripsi', 'skripsi', 'pasuk', 'tahap', 'uji', 'terima kasih', 'media', 'serta', 'selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'konsultasi', 'verifikasi', 'p2', 'progres', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'skripsi', 'pasuk', 'tahap', 'uji', 'uji', 'whitebox', 'hasil', 'valid', 'uji', 'blackbox', 'buat', 'koreksi', 'saran', 'skripsi', 'terima kasih']",-1
+"['media', 'serta', 'selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'konsultasi', 'verifikasi', 'p2', 'progres', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'skripsi', 'pasuk', 'tahap', 'uji', 'uji', 'whitebox', 'hasil', 'valid', 'uji', 'blackbox', 'buat', 'koreksi', 'saran', 'skripsi', 'terima kasih']",-1
+"['media', 'serta', 'selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'progres', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'skripsi', 'pasuk', 'tahap', 'uji', 'whitebox', 'hasil', 'valid', 'uji', 'blackbox', 'terima kasih', 'selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'konsultasi', 'tahap', 'p2', 'kait', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'progres', 'skripsi', 'uji', 'terima kasih']",-1
+"['iya', 'baca']",1
+[],1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'verifikasi', 'tahap', 'p2', 'kait', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'progres', 'skripsi', 'uji', 'terima kasih']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'nilai', 'lengkap', 'nilai', 'tahap', 'p2', 'kait', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'progres', 'skripsi', 'uji', 'terima kasih']",-1
+"['media', 'serta', 'selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'progres', 'skripsi', 'terima kasih']",-1
+"['selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'progres', 'skripsi', 'terima kasih', 'media', 'serta', 'selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'nilai', 'lengkap', 'nilai', 'tahap', 'p2', 'kait', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'progres', 'skripsi', 'uji', 'terima kasih']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'konsultasi', 'kait', 'proposal', 'skripsi', 'selasa', 'siang', 'kemarin', 'verifikasi', 'p0', 'terima kasih']",1
+"['verifikasi', 'sila', 'cek']",1
+"['verifikasi', 'terima', 'kasih']",1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'nilai', 'lengkap', 'nilai', 'tahap', 'p2', 'kait', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'terima kasih']",-1
+"['media', 'serta', 'selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'nilai', 'lengkap', 'nilai', 'tahap', 'p2', 'kait', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'lampir', 'skripsi', 'capai', 'terima kasih']",-1
+"['media', 'serta', 'selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'lapor', 'tahap', 'skripsi', 'jurnal', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'lampir', 'jurnal', 'mohon', 'koreksi', 'saran', 'kurang', 'jurnal', 'terima', 'kasih']",1
+['iya'],1
+"['tahap', 'p2', 'lengkap', 'nilai', 'filkom', 'apps', 'terima', 'kasih']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'lapor', 'tahap', 'skripsi', 'jurnal', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'kait', 'tahap', 'p2', 'lengkap', 'verifikasi', 'nilai', 'filkom', 'apps', 'dosen', 'dosen', 'bimbing', 'nilai', 'tahap', 'p2', 'agustus', 'kemarin', 'terima', 'kasih']",-1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'informasi', 'skripsi', 'capai', 'jurnal', 'skripsi', 'tahap', 'p2', 'verifikasi', 'nilai', 'filkom', 'apps', 'dosen', 'dosen', 'bimbing', 'nilai', 'tahap', 'p2', 'agustus', 'kemarin', 'terima', 'kasih']",-1
+"['selamat', 'pagi', 'mahasiswa', 'semester', 'teknik', 'informatika', 'ub', 'bimbing', 'skripsi', 'mohon', 'bantu', 'verifikasi', 'nilai', 'p2', 'skripsi', 'mohon', 'iya', 'orangtua', 'kendala', 'sulit', 'bisnis', 'situasi', 'covid', 'lulus', 'semester', 'semester', 'berat', 'biaya', 'uang', 'kuliah', 'mohon', 'lanjut', 'tahap', 'seminar', 'hasil', 'semester', 'perhati', 'tolong', 'terima', 'kasih', 'hormat', 'halomoan', 'selamat', 'siang', 'mahasiswa', 'semester', 'teknik', 'informatika', 'ub', 'bimbing', 'skripsi', 'mohon', 'bantu', 'verifikasi', 'nilai', 'p2', 'skripsi', 'mohon', 'orangtua', 'kendala', 'sulit', 'bisnis', 'situasi', 'covid', 'lulus', 'semester', 'semester', 'berat', 'biaya', 'uang', 'kuliah', 'mohon', 'lanjut', 'tahap', 'seminar', 'hasil', 'semester', 'perhati', 'tolong', 'terima', 'kasih', 'hormat', 'halomoan']",-1
+['iya'],1
+"['terima', 'kasih']",1
+"['apps', 'informasi', 'iya', 'media', 'serta']",1
+"['media', 'serta', 'media', 'serta', 'media', 'serta', 'apps', 'muncul', 'terang']",1
+"['sila', 'cek', 'media', 'serta']",1
+['terima kasih'],1
+"['selamat', 'sore', 'maaf', 'menganggu', 'mahasiswa', 'bimbing', 'skripsi', 'tandatangan', 'logbook', 'skripsi', 'syarat', 'daftar', 'seminar', 'hasil', 'skripsi', 'terima', 'kasih', 'media', 'serta']",-1
+"['media', 'serta', 'selamat', 'pagi', 'mahasiswa', 'semester', 'teknik', 'informatika', 'ub', 'bimbing', 'skripsi', 'mohon', 'bantu', 'tandatangan', 'logbook', 'skripsi', 'logbook', 'lengkap', 'berkas', 'daftar', 'seminar', 'hasil', 'perhati', 'tolong', 'terima', 'kasih', 'hormat', 'halomoan', 'media', 'serta', 'selamat', 'sore', 'maaf', 'menganggu', 'bantu', 'tandatangan', 'dokumen', 'logbook', 'skripsi', 'lengkap', 'berkas', 'pakai', 'daftar', 'seminar', 'hasil', 'skripsi', 'perhati', 'terima', 'kasih']",-1
+"['selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'semester', 'mohon', 'bantu', 'tandatangan', 'logbook', 'skripsi', 'logbook', 'lengkap', 'berkas', 'daftar', 'seminar', 'hasil', 'perhati', 'tolong', 'terima', 'kasih', 'hormat', 'media', 'serta']",1
+"['iya', 'insyaalloh', 'jam', 'bimbing']",-1
+"['terima kasih', 'informasi', 'selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'semester', 'mohon', 'bantu', 'tandatangan', 'logbook', 'skripsi', 'logbook', 'lengkap', 'berkas', 'daftar', 'seminar', 'hasil', 'perhati', 'tolong', 'terima', 'kasih', 'tuju', 'filkom', 'apps', 'daftar', 'seminar hasil']",1
+"['logbooknya', 'media', 'serta', 'program']",1
+"['iya', 'konsultasi', 'dosen', 'terima kasih', 'menandatangani', 'logbook']",1
+"['selamat', 'pagi', 'mahasiswa', 'bimbing', 'maaf', 'menganggu', 'mohon', 'bantu', 'tuju', 'filkom', 'apps', 'daftar', 'seminar', 'hasil', 'perhati', 'tolong', 'terima', 'kasih', 'selamat', 'sore', 'mahasiswa', 'bimbing', 'maaf', 'menganggu', 'mohon', 'bantu', 'tuju', 'filkom', 'apps', 'daftar', 'seminar', 'hasil', 'perhati', 'tolong', 'terima', 'kasih']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'sedia', 'verifikasi', 'dokumen', 'proposal', 'p0', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'dal', 'filkom', 'apps', 'terima kasih']",-1
+"['selamat', 'siang', 'maaf', 'ganggu', 'teknik', 'informatika', 'filkom', 'informasi', 'jalan', 'uji', 'skripsi', 'ada', 'jumat', 'november', 'jam', 'wib', 'harap', 'hadir', 'dosen', 'bimbing', 'hadir', 'uji', 'skripsi', 'lampir', 'undang', 'filkom', 'apps', 'sekian', 'terima', 'kasih', 'media', 'serta']",1
+"['iya', 'insyaalloh']",1
+"['terima', 'kasih']",1
+"['terima', 'kasih', 'bimbing', 'tahap', 'selesai', 'uji', 'skripsi', 'mohon', 'bimbing', 'bantu', 'revisi', 'skripsi', 'terima kasih']",1
+['iya'],1
+"['media', 'serta', 'selamat', 'siang', 'maaf', 'ganggu', 'lampir', 'dokumen', 'hasil', 'revisi', 'skripsi', 'uji', 'skripsi', 'tanggal', 'november', 'mohon', 'bantu', 'masuk', 'koreksi', 'hasil', 'revisi', 'skripsi', 'terima', 'kasih']",-1
+"['media', 'serta', 'selamat', 'siang', 'maaf', 'ganggu', 'lampir', 'dokumen', 'hasil', 'revisi', 'skripsi', 'uji', 'skripsi', 'tanggal', 'november', 'mohon', 'bantu', 'masuk', 'koreksi', 'hasil', 'revisi', 'skripsi', 'terima', 'kasih']",-1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'lampir', 'dokumen', 'hasil', 'revisi', 'skripsi', 'uji', 'skripsi', 'tanggal', 'november', 'mohon', 'bantu', 'tandatangan', 'lembar', 'kesah', 'dokumen', 'skripsi', 'lanjut', 'proses', 'cetak', 'dokumen', 'terima', 'kasih', 'media', 'serta']",1
+"['kirim', 'tangan', 'lembar', 'pdf']",1
+"['kirim', 'ulang', 'media', 'serta']",1
+"['media', 'serta']",1
+"['terima', 'kasih']",1
+"['selamat', 'sore', 'maaf', 'menganggu', 'unggah', 'dokumen', 'dokumen', 'skripsi', 'filkom', 'apps', 'tuju', 'apps', 'batas', 'revisi', 'tanggal', 'desember', 'terima', 'kasih']",-1
+"['selamat', 'pagi', 'maaf', 'menganggu', 'tandatangan', 'form', 'sc', 'sc2', 'perlu', 'daftar', 'yudisium', 'tuju', 'unggah', 'skripsi', 'terima', 'kasih', 'media', 'serta', 'media', 'serta']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'tandatangan', 'form', 'sc', 'sc2', 'perlu', 'daftar', 'yudisium', 'tuju', 'unggah', 'skripsi', 'terima', 'kasih', 'media', 'serta', 'media', 'serta']",1
+"['iya', 'media', 'serta', 'media', 'serta']",1
+"['terima', 'kasih', 'tangan']",1
+['iya'],1
+"['kait', 'serah', 'artefak', 'skripsi', 'serah', 'bentuk', 'hardcopy', 'softcopy', 'iya']",1
+"['soft', 'kirim', 'whatsapp']",1
+"['media', 'serta', 'kirim', 'media', 'serta', 'kait', 'daftar', 'yudisium', 'tandatangan', 'form', 'nomor', '3b', '4b', 'syarat', 'daftar', 'yudisium', 'terima', 'kasih']",-1
+"['selamat', 'siang', 'maaf', 'ganggu', 'kait', 'daftar', 'yudisium', 'jingin', 'tandatangan', 'form', 'nomor', '3b', '4b', 'syarat', 'daftar', 'yudisium', 'terima', 'kasih', 'media', 'serta', 'selamat', 'siang', 'maaf', 'ganggu', 'kait', 'daftar', 'yudisium', 'tandatangan', 'form', 'nomor', '3b', '4b', 'syarat', 'daftar', 'yudisium', 'terima', 'kasih', 'media', 'serta']",-1
+"['selamat', 'pagi', 'maaf', 'ganggu', 'kait', 'daftar', 'yudisium', 'tandatangan', 'form', 'nomor', '3b', '4b', 'syarat', 'daftar', 'yudisium', 'terima', 'kasih', 'media', 'serta', 'selamat', 'siang', 'maaf', 'ganggu', 'bantu', 'kait', 'daftar', 'yudisium', 'tandatangan', 'form', 'nomor', '3b', '4b', 'lengkap', 'form', 'daftar', 'yudisium', 'softcopy', 'skripsi', 'serta', 'whatsapp', 'terima', 'kasih', 'media', 'serta', 'media', 'serta']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'sedia', 'verifikasi', 'dokumen', 'proposal', 'p0', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'dal', 'filkom', 'apps', 'terima kasih']",-1
+"['selamat', 'siang', 'maaf', 'ganggu', 'bantu', 'kait', 'daftar', 'yudisium', 'tandatangan', 'form', 'nomor', '3b', '4b', 'lengkap', 'form', 'daftar', 'yudisium', 'softcopy', 'skripsi', 'serta', 'whatsapp', 'terima', 'kasih', 'media', 'serta']",1
+"['iya', 'media', 'serta']",1
+"['terima kasih', 'lampir', 'softcopy', 'skripsi', 'terima', 'kasih', 'media', 'serta']",1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'sedia', 'verifikasi', 'logbook', 'bimbing', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'filkom', 'apps', 'terima kasih']",-1
+"['selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'konsultasi', 'kait', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'siap', 'p2', 'terima', 'kasih']",-1
+"['media', 'serta', 'selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'kosong', 'konsultasi', 'kait', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'siap', 'p2', 'lampir', 'dokumen', 'skripsi', 'terima', 'kasih']",-1
+['minat'],-1
+"['minat', 'rekayasa', 'perangkat', 'lunak']",1
+"['literaturnya', 'terindex', 'scopus']",1
+"['kosar', 'toma', 'bohra', 'sudev', 'mernik', 'marjan', 'domain', 'specific', 'languages', 'systematic', 'mapping', 'study', 'information', 'software', 'technology', 'referensi', 'scopus', 'computer', 'science', 'information', 'systems', 'kosar', 'oliveira', 'mernik', 'pereira', 'v', 'repin', 'comparing', 'general', 'purpose', 'domain', 'specific', 'languages', 'empirical', 'study', 'computer', 'science', 'information', 'systems']",-1
+"['selamat', 'siang', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'sedia', 'verifikasi', 'tahap', 'p2', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'filkom', 'apps', 'terima kasih']",-1
+"['selamat', 'pagi', 'maaf', 'menganggu', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'sedia', 'verifikasi', 'nilai', 'tahap', 'p2', 'skripsi', 'judul', 'kembang', 'domain', 'specific', 'language', 'aplikasi', 'crud', 'bas', 'web', 'filkom', 'apps', 'lampir', 'dokumen', 'skripsi', 'skripsi', 'pasuk', 'tahap', 'uji', 'terima kasih', 'media', 'serta']",-1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswi', 'bimbing', 'prodi', 'teknik informatika', 'pra', 'proposal', 'metode', 'ancang', 'ux', 'design', 'sprint', 'ajar', 'design', 'sprint', 'terap', 'studi', 'sdn', 'wates', 'ganti', 'metode', 'design', 'thinking', 'proposal', 'mohon', 'maaf', 'hubung', 'calon', 'dosen', 'bimbing', 'informasi', 'dosen', 'bimbing', 'proposal', 'aju', 'mohon', 'bantu', 'terima kasih']",1
+"['baik', 'diskusi', 'calon', 'bimbing', 'proposal']",-1
+"['diskusi', 'dosen', 'terima kasih']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswi', 'bimbing', 'skripsi', 'maaf', 'dosen', 'sedia', 'bimbing', 'proposal', 'koreksi', 'dosen', 'proposal', 'kirim', 'aju', 'filkom', 'apps', 'terima kasih']",1
+"['aju', 'mbak']",1
+['terima kasih'],1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'teknik informatika', 'kait', 'poin', 'poin', 'latar', 'baik', 'konsultasi', 'dosen', 'terima kasih', 'mohon', 'bimbing']",1
+"['konsultasi', 'dosen', 'hasil', 'revisi']",1
+"['p0', 'tunggu', 'hasil', 'revisi', 'latar', 'aju']",1
+"['hasil', 'revisi', 'p0', 'minggu', 'iya', 'p0']",1
+"['p0nya', 'sama', 'dosen', 'bimbing']",1
+[],1
+"['dosen', 'terima kasih']",1
+"['kamis', 'minggu', 'jam', 'wib', 'iya', 'p0', 'siap']",1
+[],1
+"['mbak', 'kamis', 'agenda', 'dadak', 'pagi', 'p0', 'reschedule', 'jumat', 'iya']",1
+"['jam', 'jam', 'kelas', 'siang', 'kelas', 'induksi', 'riset', 'jam']",1
+"['induksi', 'riset', 'tidak apa']",1
+"['terima kasih', 'informasi']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswi', 'bimbing', 'teknik informatika', 'siang', 'laksana', 'p0', 'lampir', 'proposal', 'baik', 'perlu', 'p0', 'siang', 'terima', 'kasih', 'selamat', 'pagi', 'media', 'serta', 'selamat', 'siang', 'link', 'meet', 'p0']",1
+"['iya', 'rapat', 'ketua jurus', 'dosen', 'direminder', 'iya']",1
+[],1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswi', 'bimbing', 'teknik informatika', 'aju', 'p1', 'laksana', 'kelas', 'induksi', 'riset', 'revisi', 'dosen', 'dosen', 'bimbing', 'jadwal', 'p1', 'filkom', 'apps', 'sesuai', 'jadwal', 'induksi', 'riset', 'terima kasih', 'mohon', 'maaf', 'ganggu']",1
+"['pisah', 'mbak', 'p1', 'induksi', 'riset']",1
+"['proposal', 'kirim']",1
+"['jumat', 'mbak']",1
+['terima kasih'],1
+"['selamat', 'siang', 'mahasiswi', 'bimbing', 'skripsi', 'skripsi', 'tahap', 'p1', 'tahap', 'buat', 'prototype', 'rencana', 'p2', 'minggu', 'dokumen', 'skripsi', 'selesai', 'dapat', 'lanjut', 'skripsi', 'semester', 'genap', 'dosen', 'bimbing', 'mohon', 'bantu', 'terima kasih', 'mohon', 'maaf', 'ganggu', 'selamat', 'siang']",1
+"['walaikumsallam', 'progres', 'real', 'administrasi', 'sistem', 'atur', 'kerja', 'skripsi', 'jauh', 'timeline', 'target', 'kemarin', 'semester', 'silah']",1
+"['terima kasih', 'selesai']",1
+"['selamat', 'siang', 'dosen', 'mohon', 'maaf', 'ganggu', 'nama', 'mahasiswa', 'prodi', 'teknik', 'informatika', 'sedia', 'dosen', 'bimbing', 'skripsi', 'topik', 'angkat', 'sistem', 'temu', 'informasi', 'artikel', 'kait', 'covid', 'metode', 'bobot', 'tf', 'idf', 'model', 'vector', 'space', 'topik', 'angkat', 'teliti', 'skripsi', 'sedia', 'bimbing', 'skripsi', 'terima', 'kasih', 'perhati']",1
+"['mahasiswa', 'sedia', 'kait', 'judul', 'tolong', 'cari', 'paper', 'internasional', 'kait', 'word', 'embedding', 'ulas', 'singkat', 'daftar', 'referensi', 'muncul', 'judul']",1
+"['kamis', 'jadwal', 'kelas', 'jam', 'jadwal', 'jam', 'iya', 'kamis']",-1
+"['selamat', 'siang', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'teknik informatika', 'mahasiswa', 'bimbing', 'skripsi', 'topik', 'sistem', 'temu', 'informasi', 'artikel', 'kait', 'covid', 'metode', 'bobot', 'tf', 'idf', 'model', 'vector', 'space', 'ikut', 'saran', 'cari', 'jurnal', 'bahas', 'vector', 'space', 'word', 'embedding', 'guna', 'word', 'embeddingnya', 'metode', 'teliti', 'jadi', 'banding', 'hasil', 'word', 'embedding', 'iya', 'terima', 'kasih', 'perhati']",1
+"['mahasiswa', 'saran', 'word', 'embeddingnya', 'uji', 'banding', 'versus', 'word', 'embedding']",1
+"['terima', 'kasih', 'pra', 'proposal', 'selesai', 'susun', 'kumpul', 'filkom', 'apps', 'whatsapp', 'iya']",1
+"['mahasiswa', 'silah', 'diupload', 'filkom', 'app', 'mohon', 'implementasi', 'add', 'node', 'js', 'visual', 'studio', 'microsoft', 'word']",1
+"['terima', 'kasih', 'saran']",1
+"['selamat', 'sore', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'kabar', 'progres', 'p1', 'skripsi', 'putra', 'poin2', 'revisi', 'word2vec', 'filtering', 'stemming', 'ubah', 'konteks', 'revisi', 'kode', 'program', 'tulis', 'diagram alir', 'baik', 'tulis', 'kode', 'diagram alir', 'ulang', 'looping', 'hapus', 'tulis', 'sebut', 'tabel', 'serta', 'tabel', 'angka', 'ancang', 'uji', 'uji', 'uji', 'metode', 'word2vec', 'parameter', 'hidden', 'neuron', 'uji', 'parameter', 'window', 'size', 'learning', 'rate', 'epoch', 'dan lain', 'saran', 'alam', 'bimbing', 'makan', 'variabel', 'word2vec', 'dioptimasi', 'bicara', 'bimbing', 'lanjut', 'diskusi', 'poin', 'nomor', 'boleh', 'skripsi', 'uji', 'optimasi', 'word2vec', 'rumus', 'cari', 'precision', 'recall', 'program', 'besar', 'beda', 'word2vec', 'nilai', 'tentu', 'tahap', 'implementasi', 'dataset', 'dummy', 'nilai', 'precision', 'recall', 'tinggi', 'tahap', 'implementasi', 'tahap', 'uji', 'nilai', 'hitung', 'precision', 'recall', 'program', 'dataset', 'asli', 'nilai', 'variabel', 'uji', 'ada', 'dasar', 'kalibrasi', 'dataset', 'dummy', 'boleh', 'skripsi', 'poin', 'boleh', 'rumus', 'cari', 'nilai', 'hidden', 'neuron', 'hapus', 'sisa', 'rumus', 'cari', 'nilai', 'precision', 'recall', 'program', 'banding', 'precision', 'recall', 'implementasi', 'word2vec', 'ubah', 'skenario', 'uji', 'uji', 'skenario', 'hasil', 'recall', 'program', 'dataset', 'artikel', 'covid', 'oktober', 'cari', 'besar', 'beda', 'precision', 'recall', 'program', 'word2vec', 'boleh', 'jalan', 'terima', 'kode', 'bentuk', 'microsoft', 'add-ins', 'sekian', 'mohon', 'maaf', 'mahasiswa']",-1
+"['selamat', 'sore', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'kabar', 'kemarin', 'progres', 'p1', 'skripsi', 'putra', 'poin2', 'revisi', 'word2vec', 'filtering', 'stemming', 'ubah', 'konteks', 'revisi', 'kode', 'program', 'tulis', 'diagram alir', 'baik', 'tulis', 'kode', 'diagram alir', 'ulang', 'looping', 'hapus', 'tulis', 'sebut', 'tabel', 'serta', 'tabel', 'angka', 'ancang', 'uji', 'uji', 'uji', 'metode', 'word2vec', 'parameter', 'hidden', 'neuron', 'uji', 'parameter', 'window', 'size', 'learning', 'rate', 'epoch', 'dan lain', 'saran', 'alam', 'bimbing', 'makan', 'variabel', 'word2vec', 'dioptimasi', 'bicara', 'bimbing', 'lanjut', 'diskusi', 'poin', 'nomor', 'boleh', 'skripsi', 'uji', 'optimasi', 'word2vec', 'rumus', 'cari', 'precision', 'recall', 'program', 'besar', 'beda', 'word2vec', 'nilai', 'tentu', 'tahap', 'implementasi', 'dataset', 'dummy', 'nilai', 'precision', 'recall', 'tinggi', 'tahap', 'implementasi', 'tahap', 'uji', 'nilai', 'hitung', 'precision', 'recall', 'program', 'dataset', 'asli', 'nilai', 'variabel', 'uji', 'ada', 'dasar', 'kalibrasi', 'dataset', 'dummy', 'boleh', 'skripsi', 'poin', 'boleh', 'rumus', 'cari', 'nilai', 'hidden', 'neuron', 'hapus', 'sisa', 'rumus', 'cari', 'nilai', 'precision', 'recall', 'program', 'banding', 'precision', 'recall', 'implementasi', 'word2vec', 'ubah', 'skenario', 'uji', 'uji', 'skenario', 'hasil', 'recall', 'program', 'dataset', 'artikel', 'covid', 'oktober', 'cari', 'besar', 'beda', 'precision', 'recall', 'program', 'word2vec', 'boleh', 'jalan', 'terima', 'kode', 'bentuk', 'microsoft', 'add-ins', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'ulas', 'kabar', 'kemarin', 'progres', 'p1', 'skripsi', 'putra', 'poin2', 'revisi', 'word2vec', 'filtering', 'stemming', 'ubah', 'konteks', 'revisi', 'kode', 'program', 'ijinkan', 'revisi', 'tulis', 'diagram alir', 'baik', 'tulis', 'kode', 'diagram alir', 'ulang', 'looping', 'hapus', 'ijinkan', 'revisi', 'tulis', 'sebut', 'tabel', 'serta', 'tabel', 'angka', 'ijinkan', 'revisi', 'ancang', 'uji', 'uji', 'uji', 'metode', 'word2vec', 'parameter', 'hidden', 'neuron', 'uji', 'parameter', 'window', 'size', 'learning', 'rate', 'epoch', 'dan lain', 'saran', 'alam', 'bimbing', 'makan', 'variabel', 'word2vec', 'dioptimasi', 'bicara', 'bimbing', 'lanjut', 'uji', 'ijinkan', 'uji', 'timbang', 'tuju', 'batas', 'nilaik', 'word2vec', 'rekomendasi', 'uji', 'hidden', 'neuron', 'kait', 'parameter', 'uji', 'batas', 'uji', 'parameter', 'teknik', 'optimasi', 'kecuali', 'uji', 'bawa', 'ranah', 'teknik', 'optimasi', 'pso', 'etc', 'harus', 'nilai', 'parameter', 'libat', 'diskusi', 'poin', 'nomor', 'boleh', 'skripsi', 'uji', 'optimasi', 'word2vec', 'rumus', 'cari', 'precision', 'recall', 'program', 'besar', 'beda', 'word2vec', 'mahasiswa', 'poin', 'no', 'nilai', 'tentu', 'tahap', 'implementasi', 'dataset', 'dummy', 'nilai', 'precision', 'recall', 'tinggi', 'tahap', 'implementasi', 'tahap', 'uji', 'nilai', 'hitung', 'precision', 'recall', 'program', 'dataset', 'asli', 'nilai', 'variabel', 'uji', 'ada', 'dasar', 'kalibrasi', 'dataset', 'dummy', 'boleh', 'skripsi', 'ijinkan', 'inti', 'uji', 'parameter', 'cari', 'nilai', 'baik', 'timbang', 'gali', 'kait', 'makna', 'parameter', 'uji', 'ideal', 'variasi', 'poin', 'boleh', 'rumus', 'cari', 'nilai', 'hidden', 'neuron', 'hapus', 'sisa', 'rumus', 'cari', 'nilai', 'precision', 'recall', 'program', 'banding', 'precision', 'recall', 'implementasi', 'word2vec', 'ubah', 'skenario', 'uji', 'uji', 'skenario', 'hasil', 'recall', 'program', 'dataset', 'artikel', 'covid', 'oktober', 'cari', 'besar', 'beda', 'precision', 'recall', 'program', 'word2vec', 'boleh', 'jalan', 'terima', 'ijinkan', 'uji', 'hidden', 'rekomendasi', 'uji', 'timbang', 'poin', 'no', 'kode', 'bentuk', 'microsoft', 'add-ins', 'mahasiswa', 'terima kasih']",1
+"['terima', 'kasih', 'reviewnya', 'mohon', 'maaf', 'program', 'add-ins', 'input', 'kueri', 'tampil', 'daftar', 'dokumen', 'boleh', 'tampil', 'precision', 'recall', 'tampil', 'precision', 'recall', 'uji', 'program', 'console', 'kode', 'add-ins', 'iya']",-1
+"['selamat', 'siang', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'teknik informatika', 'mahasiswa', 'bimbing', 'skripsi', 'sesuai', 'prosedur', 'unggah', 'pra', 'proposal', 'filkom', 'apps', 'terima', 'kasih', 'perhati']",-1
+"['mahasiswa', 'program', 'add-ins', 'input', 'kueri', 'tampil', 'daftar', 'dokumen', 'boleh', 'tampil', 'precision', 'recall', 'mahasiswa', 'ijinkan', 'tampil', 'precision', 'recall', 'uji', 'program', 'console', 'kode', 'add-ins', 'iya', 'mahasiswa', 'hasil', 'keluar', 'kode', 'sesuai', 'sintaksis', 'mohon', 'maaf', 'balas', 'windows', 'masalah']",1
+"['terima', 'kasih', 'tulis', 'kode', 'tulis', 'kode', 'add', 'html', 'css', 'js', 'add', 'routes', 'main', 'py', 'flask', 'rest', 'kode', 'python', 'boleh', 'kumpul', 'draft', 'hubung', 'partisipan', 'proses', 'anotasi', 'ground', 'truth', 'uji', 'tulis']",-1
+"['mahasiswa', 'tulis', 'kode', 'tulis', 'kode', 'add', 'html', 'css', 'js', 'add', 'routes', 'main', 'py', 'flask', 'rest', 'kode', 'python', 'kode', 'python', 'boleh', 'kumpul', 'draft', 'hubung', 'partisipan', 'proses', 'anotasi', 'ground', 'truth', 'uji', 'tulis', 'ijinkan']",1
+"['terima', 'kasih', 'buat', 'model', 'word2vec', 'kirim']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasisea', 'bimbing', 'kait', 'skripsi', 'coba', 'run', 'program', 'latih', 'model', 'word2vec', 'hidden', 'neuron', '1epoch', 'habis', '30jam', 'batas', 'minimal', 'epoch', 'uji', 'kait', 'progres', 'p2', 'boleh', 'model', 'poin1', 'uji', 'epoch', 'demo', 'program', 'power point', 'p2', 'program', 'pyhton', 'tulis', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'ulas', 'kait', 'skripsi', 'coba', 'run', 'program', 'latih', 'model', 'word2vec', 'hidden', 'neuron', '1epoch', 'habis', '30jam', 'batas', 'minimal', 'epoch', 'uji', 'ijinkan', 'epoch', 'timbang', 'komputasi', 'bahan', 'saran', 'word2vec', 'cloud', 'spek', 'kait', 'progres', 'p2', 'boleh', 'model', 'poin1', 'uji', 'epoch', 'ijinkan', 'demo', 'program', 'power point', 'p2', 'program', 'pyhton', 'tulis', 'mahasiswa']",1
+"['mohon', 'maaf', 'poin', 'poin', 'aju', 'ulas', 'kode', 'program', 'riset', 'kait', 'efisiensi', 'kode', 'dokumentasi', 'internet', 'kode', 'efisien', 'baik', 'kapabilitas', 'program', 'latih', 'model', 'word2vec', 'window', 'size', 'hidden', 'neuron', 'learning', 'rate', 'laptop', 'kisar', '5jam', 'epoch', 'masuk', 'putra', 'parameter', 'uji', 'parameter', 'default', 'library', 'gensim', 'rincian', 'window', 'size', 'hidden', 'neuron', 'learning', 'rate', 'saran', 'kapabilitas', 'kode', 'program', 'epoch', 'timbang', 'hidden', 'neuron', 'uji', 'mohon', 'maaf', 'terima', 'kasih', 'perhati']",-1
+"['mohon', 'maaf', 'poin', 'poin', 'aju', 'ulas', 'kode', 'program', 'riset', 'kait', 'efisiensi', 'kode', 'dokumentasi', 'internet', 'kode', 'efisien', 'baik', 'kapabilitas', 'program', 'latih', 'model', 'word2vec', 'window', 'size', 'hidden', 'neuron', 'learning', 'rate', 'laptop', 'kisar', '5jam', 'epoch', 'mahasiswa', 'lanjut', 'masuk', 'putra', 'parameter', 'uji', 'parameter', 'default', 'library', 'gensim', 'rincian', 'window', 'size', 'hidden', 'neuron', 'learning', 'rate', 'catat', 'sudut', 'saran', 'kapabilitas', 'kode', 'program', 'epoch', 'timbang', 'hidden', 'neuron', 'uji', 'saran', 'epoh', 'ambil', 'kisar', '5jam', 'epoch', 'milik', 'nilai', 'evaluasi', 'baik', 'timbang', 'intercept', 'konvergensi', 'epoch']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'balas', 'ulas', 'terima', 'kasih', 'ulas', 'progres', 'jalan', 'latih', 'model', 'tunggu', 'model', 'selesai', 'hidden', 'neuron', 'skenario', 'uji', 'parameter', 'latih', 'window', 'size', 'learning', 'rate', 'epochs', 'coba', 'nilai', 'epoch', 'epoch', 'fokus', 'pengaruh', 'hidden', 'neuron', 'latih', 'model', 'neuron', 'epoch', 'butuh', '12jam', 'sekian', 'kata', 'buat', 'kenan', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'ulas', 'progres', 'jalan', 'latih', 'model', 'tunggu', 'model', 'selesai', 'catat', 'hidden', 'neuron', 'skenario', 'uji', 'parameter', 'latih', 'window', 'size', 'learning', 'rate', 'epochs', 'catat', 'coba', 'nilai', 'epoch', 'epoch', 'fokus', 'pengaruh', 'hidden', 'neuron', 'latih', 'model', 'neuron', 'epoch', 'butuh', '12jam', 'mahasiswa', 'ijinkan', 'epoch', 'fokus', 'pengaruh', 'hidden', 'neuron', 'timbang']",1
+"['you', 'deleted', 'this', 'message', 'selamat', 'pagi', 'terima', 'kasih', 'ulas', 'mohon', 'maaf', 'poin', 'poin', 'pesan', 'hubung', 'bimbing', 'dosen', 'bimbing', 'poin', 'bahas', 'bimbing', 'dosen', 'bimbing', 'revisi', 'tulis', 'tipo', 'screenshot', 'program', 'poin', 'revisi', 'uji', 'kueri', 'expansion', 'banding', 'word2vecnya', 'judul', 'skripsi', 'kueri', 'expansion', 'uji', 'pengaruh', 'expansion', 'kueri', 'kerja', 'sistem', 'iya', 'rumus', 'ancang', 'skenario', 'uji', 'uji', 'hasil', 'uji', 'sepakat', 'partisipan', 'hitung', 'kappa', 'hitung', 'kappa', 'masuk', 'subbab', 'iya', 'lampir', 'hasil', 'anotasi', 'lampir', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'ulas', 'reply', 'email', 'strategi', 'selesai', 'skripsi', 'akademik', 'ubah', 'daftar', 'seminar hasil', 'sidang', 'timbang', 'progres', 'bagus', 'saran', 'coba', 'upaya', 'daftar', 'seminar hasil', 'sidang', 'semester', 'poin', 'bahas', 'bimbing', 'dosen', 'bimbing', 'catat', 'revisi', 'tulis', 'tipo', 'screenshot', 'program', 'uji', 'kueri', 'expansion', 'banding', 'word2vecnya', 'judul', 'skripsi', 'kueri', 'expansion', 'uji', 'pengaruh', 'expansion', 'kueri', 'kerja', 'sistem', 'iya', 'rumus', 'ancang', 'skenario', 'uji', 'uji', 'saran', 'flexible', 'optional', 'luang', 'kerja', 'batas', 'daftar', 'seminar hasil', 'desember', 'ijinkan', 'hasil', 'uji', 'sepakat', 'partisipan', 'hitung', 'kappa', 'hitung', 'kappa', 'masuk', 'subbab', 'iya', 'lampir', 'hasil', 'anotasi', 'lampir', 'saran', 'lampir']",1
+"['terima', 'kasih', 'reviewnya', 'upaya', 'maksimal', 'mohon', 'maaf', 'kemarin', 'lambat', 'kumpul', 'uji akhir semester', 'google', 'form', 'proses', 'uploading', 'akibat', 'jaring', 'internet', 'lambat']",1
+"['mahasiswa', 'ijinkan']",1
+"['terima', 'kasih', 'selamat', 'pagi', 'dosen', 'mahasiswa', 'mahasiswa', 'bimbing', 'kait', 'ground', 'truth', 'label', 'partisipan', 'hitung', 'nilai', 'fleiss', 'kappa', 'dapat', 'hasil', 'query1', 'query2', 'query3', 'query4', 'query5', 'dasar', 'patok', 'nilai', 'kappa', 'atas', 'iya', 'ground', 'truth', 'label', 'ulang', 'hubung', 'kendala', 'ground', 'truth', 'jadwal', 'dosen', 'bimbing', 'penuh', 'progres', 'p2', 'dosen', 'bimbing', 'laksana', 'p2', 'bimbing', 'batas', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'ulas', 'hitung', 'nilai', 'fleiss', 'kappa', 'dapat', 'hasil', 'query1', 'query2', 'query3', 'query4', 'query5', 'dasar', 'patok', 'nilai', 'kappa', 'atas', 'iya', 'ground', 'truth', 'label', 'ulang', 'saran', 'kurang', 'querynya', 'hapus', 'kueri', 'hapus', 'kueri', 'nilai', 'kappnya', 'atas', 'kurang', 'beda', 'keputasan', 'annotator', 'hubung', 'kendala', 'ground', 'truth', 'jadwal', 'dosen', 'bimbing', 'penuh', 'progres', 'p2', 'dosen', 'bimbing', 'laksana', 'p2', 'bimbing', 'batas', 'kunci', 'p2', 'dosen bimbing', 'dosen bimbing', 'batas']",1
+"['terima', 'kasih', 'reviewnya']",1
+"['you', 'deleted', 'this', 'message', 'selamat', 'siang', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'kabar', 'kirim', 'dokumen', 'skripsi', 'jurnal', 'serta', 'cek', 'plagiasi', 'dokumen', 'email', 'bimbing', 'putra', 'temu', 'salah', 'tulis', 'ganti', 'daftar', 'seminar hasil', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'silah', 'baik', 'masuk', 'putra', 'ulas', 'jurnal', 'kalimat', 'jelas', 'minimal', 'space', 'kosong', 'media', 'omitted', 'chart', 'line', 'warna', 'pattern', 'beda', 'line', 'line', 'media', 'omitted', 'media', 'omitted', 'media', 'omitted', 'media', 'omitted', 'media', 'omitted', 'daftar', 'seminar hasil', 'revisi', 'putra', 'ijinkan', 'lewat', 'minor', 'saran', 'lalu', 'daftar', 'jam', 'syarat', 'cek', 'progres', 'email', 'hasil', 'cek', 'plagiasi', 'penuh']",1
+"['mohon', 'maaf', 'daftar', 'kirim', 'email', 'masuk', 'logbook', 'daftar', 'dokumen', 'logbook', 'logbook', 'tuju', 'masuk', 'logbook', 'cetak', 'mohon', 'maaf', 'kenan']",1
+"['jaga', 'dadak', 'worse', 'case', 'jam', 'tuju', 'silah', 'cetak', 'kartu', 'kendali', 'logbook', 'minimal', 'penuh', 'logbook', 'dosen bimbing']",1
+"['yusron', 'lembar', 'tuju', 'dokumen', 'wajib', 'bimbing', 'lembar', 'lembar', 'maju', 'tahap', 'seminar hasil', 'media', 'omitted']",1
+"['mahasiswa', 'ikut', 'tunjuk', 'yusron', 'mahasiswa', 'tanda tangan', 'ikut', 'tunjuk', 'yusron']",1
+"['dokumen', 'ubah', 'judul', 'media', 'omitted']",1
+"['media', 'omitted', 'mahasiswa', 'dokumen', 'tanda tangan', 'digital']",1
+"['terima', 'kasih', 'permisi', 'dokumen', 'disubmit', 'ubah', 'minor', 'milik', 'salah', 'tulis', 'ubah']",1
+"['disubmit', 'mana', 'turnitin', 'filkomapp']",1
+['filkomapps'],1
+"['daftar', 'seminar hasil', 'tolak', 'unggah', 'dokumen', 'revisi', 'tuju', 'saran', 'minor', 'lewat', 'diupload', 'tuju']",1
+['unggah'],1
+['mahasiswa'],1
+"['permisi', 'mohon', 'maaf', 'menggunggu', 'kabar', 'aju', 'daftar', 'seminar hasil', 'filkomapps', 'revisi', 'baik', 'sama', 'revisi', 'seminar hasil', 'sidang', 'iya', 'terima', 'kasih', 'perhati', 'mahasiswa']",1
+"['mahasiswa', 'tuju', 'ijinkan', 'revisi', 'baik', 'seminar hasil', 'sidang', 'revisi', 'sidang']",1
+"['terima', 'kasih']",1
+['mahasiswa'],1
+"['selamat', 'sore', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'kabar', 'bimbing', 'revisi', 'bimbing', 'temu', 'putra', 'masuk', 'noise', 'dataset', 'sistem', 'noise', 'tampil', 'annotator', 'ground', 'truth', 'label', 'relevansi', 'kueri', 'uji', 'artikel', 'putra', 'sar', 'uji', 'layak', 'pakar', 'kappa', 'measure', 'rencana', 'ubah', 'draft', 'poin', 'laksana', 'batas', 'nomor', 'hapus', 'artikel', 'indexing', 'kait', 'covid', 'ikut', 'poin', 'rumus', 'jelas', 'kappa', 'measure', 'rencana', 'revisi', 'kirim', 'filkomapps', 'kirim', 'draftnya', 'email', 'draft', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'ijinkan', 'silah', 'kirim', 'draft']",1
+"['terima', 'kasih', 'perhati', 'kirim']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'kabar', 'seminar', 'hasil', 'skripsi', 'ada', 'wib', 'sekian', 'lebih', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'moga', 'mudah', 'lancar', 'aamiin', 'poin', 'kait', 'alas', 'pilih', 'case', 'study', 'alas', 'pilih', 'algoritma', 'unggul', 'algoritma', 'lancar', 'detail', 'manual', 'telaah', 'hasil', 'analisa', 'skenario', 'uji', 'kodingnya', 'sidang', 'kodingnya', 'mandiri', 'buat', 'jawab', 'mandiri', 'latih', 'live', 'koding', 'sederhana', 'latih', 'modifikasi', 'kode', 'program', 'skripsi', 'inti', 'tulis', 'batas', 'menit', 'tolong', 'usaha', 'nilai', 'presentasi', 'power point', 'menit', 'demo', 'program', 'menit']",1
+"['terima', 'kasih', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'kabar', 'laksana', 'seminar', 'hasil', 'skripsi', 'selesai', 'saran', 'dosen', 'fasilitator', 'baca', 'slide', 'presentasi', 'saran', 'meringkat', 'power point', 'poin2', 'kait', 'kaji', 'pustaka', 'skripsi', 'besar', 'gambar', 'implementasi', 'saran', 'masuk', 'saran', 'bagus', 'hasil', 'spekulasi', 'dasar', 'baik', 'dokumen', 'power point', 'saran', 'sidang', 'revisi', 'sidang', 'iya', 'sekian', 'mohon', 'maaf']",1
+"['mahasiswa', 'selamat', 'tinggal', 'selang', 'sidang', 'ulas', 'kabar', 'laksana', 'seminar', 'hasil', 'skripsi', 'selesai', 'saran', 'dosen', 'fasilitator', 'catat', 'baca', 'slide', 'presentasi', 'saran', 'meringkat', 'power point', 'poin2', 'baik', 'kait', 'kaji', 'pustaka', 'skripsi', 'coba', 'sudut', 'pandang', 'case', 'algoritma', 'analog', 'satu', 'besar', 'gambar', 'implementasi', 'baik', 'saran', 'masuk', 'saran', 'bagus', 'hasil', 'spekulasi', 'dasar', 'inti', 'saran', 'baik', 'hasil', 'hasil', 'uji', 'optimal', 'baik', 'dokumen', 'power point', 'saran', 'sidang', 'revisi', 'sidang', 'iya', 'versi', 'mahasiswa', 'seminar hasil', 'dokumen', 'power point', 'seminar hasil', 'baik']",1
+"['terima', 'kasih', 'reviewnya', 'jadwal', 'sidang', 'kendala', 'transkrip', 'nilai', 'nilai', 'jadwal', 'sidang', 'penuh', 'transkrip', 'urus', 'panjang', 'kerja', 'skripsi', 'sidang', 'iya']",1
+"['mahasiswa', 'cek', 'jadwal', 'uji', 'skripsi', 'filkomapp', 'media', 'omitted', 'disiado', 'unggah', 'nilai', 'mata kuliah', 'januari', 'media', 'omitted', 'coba', 'akademik', 'jadwal', 'tanggal', 'januari', 'tanggal', 'atas', 'sidang', 'sesuai', 'jadwal', 'filkomapp']",1
+"['staf', 'akademik', 'kait', 'sempat', 'jadwal', 'tanggal', 'transkrip', 'nilai', 'tanda', 'kaprodi', 'syarat', 'jadwal', 'sidang', 'terima', 'kasih', 'perhati']",1
+['mahasiswa'],1
+"['mahasiswa', 'nilai', 'mata kuliah', 'muncul', 'siam']",1
+"['ubah', 'hubung', 'kemarin', 'staf', 'akademik', 'kait', 'bahas', 'respons', 'lengkap', 'kirim', 'transkrip', 'kemarin', 'coba', 'hubung', 'dosen', 'ampu', 'kuliah', 'cepat', 'proses', 'nilai', 'batas', 'sidang', 'respon', 'kuliah', 'tugas', 'ganti', 'projek', 'kumpul', 'tanggal', 'wib']",1
+"['mahasiswa', 'ubah', 'hubung', 'kemarin', 'staf', 'akademik', 'kait', 'bahas', 'respons', 'lengkap', 'kirim', 'transkrip', 'catat', 'kemarin', 'coba', 'hubung', 'dosen', 'ampu', 'kuliah', 'cepat', 'proses', 'nilai', 'batas', 'sidang', 'respon', 'kuliah', 'tugas', 'ganti', 'projek', 'kumpul', 'tanggal', 'wib', 'tunggu', 'tanggal', 'coba', 'ikut', 'tunjuk', 'tugas', 'ganti', 'mudah', 'mudah', 'tanggal', 'pagi', 'nilai']",1
+"['tanggal', 'pagi', 'kabar', 'kembang', 'situasi', 'terima', 'kasih', 'perhati']",1
+['mahasiswa'],1
+"['selamat', 'sore', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'kabar', 'nilai', 'diinputkan', 'kemarin', 'minggu', 'pagi', 'aju', 'transkrip', 'nilai', 'kaprodi', 'ditandatangan', 'sore', 'kirim', 'transkrip', 'akademik', 'prodi', 'jadwal', 'uji', 'skripsi', 'pasti', 'jadwal', 'uji', 'semester', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'mudah', 'mudah', 'akademik', 'jadwal', 'tanggal', 'januari', 'sesuai', 'tera', 'filkom', 'app', 'aamiin', 'media', 'omitted', 'usaha', 'besok', 'siang', 'coba', 'akademik', 'kait', 'hasil', 'kendala', 'coba', 'bantu', 'hubung', 'akademik']",1
+"['kabar', 'kembang', 'besok', 'terima', 'kasih', 'perhati']",1
+"['mahasiswa', 'tuju', 'tolong', 'lanjut', 'kirim', 'email', 'contoh', 'contoh', 'dokumen', 'skripsi', 'p0', 'sidang', 'kelas', 'induksi', 'riset']",1
+"['terima', 'kasih', 'lanjut', 'kait', 'kelas', 'induksi', 'riset', 'buka', 'kelas', 'induksi', 'riset', 'semester', 'perihal', 'add', 'cari', 'pakai', 'add', 'front', 'input', 'kueri', 'add', 'pass', 'proses', 'dasar', 'cari', 'proses', 'microsoft', 'word', 'batas', 'andai', 'proses', 'retrieval', 'letak', 'add', 'microsoft', 'word', 'not', 'responding']",1
+"['mahasiswa', 'kelas', 'induksi', 'riset', 'timbang', 'silah', 'add', 'front', 'skenario', 'proses', 'halaman', 'wyswyg', 'user', 'halaman', 'nampak', 'user']",1
+"['ajar', 'terima', 'kasih', 'perhati']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'mahasiswa', 'bimbing', 'kabar', 'uji', 'skripsi', 'jadwal', 'proses', 'buat', 'surat', 'undang', 'uji', 'skripsi', 'ada', 'rabu', 'tanggal', 'januari', 'wib', 'surat', 'undang', 'undang', 'terbit', 'sekian', 'terima', 'kasih', 'perhati', 'mohon', 'maaf', 'mahasiswa']",1
+"['bagus', 'mahasiswa', 'catat', 'moga', 'lancar', 'sukses', 'aamiin']",1
+"['amin', 'terima', 'kasih', 'selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'undang', 'hadir', 'uji', 'skripsi', 'ada', 'rabu', 'tanggal', 'januari', 'bimbing', 'lampir', 'dokumen', 'undang', 'uji', 'skripsi', 'sekian', 'mohon', 'maaf', 'mahasiswa', 'media', 'omitted']",1
+"['mahasiswa', 'terima kasih', 'usaha', 'besok', 'jam', 'izin', 'request', 'link', 'meet', 'zoom', 'uji', 'tunggu', 'balas', 'beliau', 'link', 'silah', 'dishare', 'dosen bimbing', 'uji']",1
+['besok'],1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'teknik', 'informatika', 'mahasiswa', 'bimbing', 'terus', 'link', 'zoom', 'meeting', 'uji', 'skripsi', 'fitra', 'link', 'fitra', 'bachtiar', 'inviting', 'you', 'scheduled', 'zoom', 'meeting', 'topik', 'uji', 'skripsi', 'mahasiswa', 'time', 'januari', 'jakarta', 'join', 'zoom', 'meeting', 'meeting', 'passcode', 'nu0fw1', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'catat', 'terima kasih']",1
+[],1
+['fitra'],1
+"['terima', 'kasih', 'terima', 'kasih', 'mohon', 'maaf', 'kurang', 'revisi', 'kirim']",1
+['mahasiswa'],1
+"['you', 'deleted', 'this', 'message', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'kabar', 'form', 'revisi', 'akademik', 'poin', 'poin', 'revisi', 'fitra', 'baik', 'latar', 'masalah', 'tipo', 'cek', 'rumus', 'tuju', 'batas', 'dasar', 'teori', 'baik', 'arsitektur', 'neural', 'network', 'analisa', 'hasil', 'randy', 'perihal', 'kumpul', 'detail', 'tambah', 'uji', 'hidden', 'neuron', 'hapus', 'batas', 'relevan', 'baik', 'tulis', 'lapor', 'sitasi', 'arsitektur', 'jst', 'poin', 'poin', 'baik', 'saran', 'randy', 'poin', 'hubung', 'uji', 'nilai', 'hidden', 'neuron', 'anggap', 'penuh', 'kriteria', 'tarik', 'simpul', 'saran', 'minimal', 'nilai', 'hidden', 'neuron', 'uji', 'tarik', 'simpul', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'catat', 'kait', 'dasar', 'media', 'omitted', 'saran', 'variasi', 'nilai', 'hidden', 'kelipat']",1
+"['terima', 'kasih', 'saran']",1
+"['selamat', 'sore', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'teknik informatika', 'mahasiswa', 'bimbing', 'skripsi', 'sesuai', 'susun', 'kirim', 'email', 'terima', 'kasih', 'perhati']",1
+"['mahasiswa', 'catat', 'mohon', 'tunggu', 'ulas', 'ulas']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'kabar', 'submit', 'progres', 'revisi', 'email', 'terima', 'kasih', 'perhati']",1
+"['mahasiswa', 'catat', 'mohon', 'tunggu', 'ulas', 'ulas']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'dosen', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'mahasiswa', 'bimbing', 'kabar', 'submit', 'progres', 'power point', 'p0', 'email', 'kait', 'log', 'book', 'filkomapps', 'ruang', 'pilih', 'kolom', 'isi', 'iya', 'kait', 'progres', 'p0', 'dosen bimbing', 'putra', 'temu', 'dosen', 'bimbing', 'mahasiswa', 'sama', 'persepsi', 'metode', 'p0', 'ubah', 'live', 'sama', 'video', 'iya', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'catat', 'mohon', 'tunggu', 'p0', 'discreenshot', 'pilih', 'ruang', 'kirim', 'whatsapp', 'usul', 'putra', 'timbang']",1
+"['screenshot', 'pilih', 'ruang', 'logbook', 'media', 'omitted']",1
+"['mahasiswa', 'saran', 'lokasi', 'ruang', 'isi', 'daring', 'tinggal', 'sesuai', 'ijinkan', 'default']",1
+"['logbook', 'sesuai', 'tentu']",1
+"['mahasiswa', 'catat', 'p0', 'tuju', 'daring', 'live', 'tolong', 'link', 'meet', 'jadwal', 'putra', 'terima kasih']",1
+"['selamat', 'siang', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'bimbing', 'skripsi', 'kabar', 'unggah', 'proposal', 'skripsi', 'revisi', 'filkomapps', 'kirim', 'progres', 'draft', 'serta', 'manual', 'dokumen', 'xlsx', 'email', 'berita', 'acara', 'p0', 'p1', 'power point', 'video', 'buat', 'power point', 'video', 'tunggu', 'ulas', 'draft', 'kirim', 'iya', 'kait', 'demo', 'program', 'manual', 'implementasi', 'metode', 'manual', 'kait', 'demo', 'program', 'program', 'selesai', 'tahap', 'add', 'boleh', 'batas', 'program', 'console', 'python', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'catat', 'no', 'tunggu', 'ulas', 'ijinkan', 'draft', 'power point', 'p1', 'video', 'no', 'koding', 'evaluasi', 'hitung', 'manual', 'koding', 'no', 'ijinkan', 'console', 'python']",1
+"['masuk', 'dataset', 'kode', 'dataset', 'asli', 'iya']",1
+"['data', 'ambil', 'sampel', 'skala']",1
+"['terima', 'kasih']",1
+"['jadwal', 'putra', 'youcanbook', 'jadwal', 'sedia', 'kamis', 'jadwal', 'media', 'omitted', 'kamis', 'jadwal', 'kelas', 'jam', 'jadwal', 'jam', 'iya', 'kamis', 'daring', 'kumpul', 'video']",1
+"['senin', 'senin', 'luang', 'kumpul', 'email']",1
+"['diskusi', 'putra', 'senin', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu', 'abar', 'bicara', 'putra', 'konsultasi', 'p0', 'live', 'ada', 'senin', 'wib', 'google', 'meet', 'sedia']",1
+"['mahasiswa', 'terima kasih']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'menggangu', 'link', 'temu', 'p0', 'wib']",1
+"['mahasiswa', 'catat', 'terima kasih']",1
+"['terima', 'kasih']",1
+"['mahasiswa', 'tolong', 'screen', 'power point', 'klik', 'present', 'now']",1
+"['permisi', 'hubung', 'coba', 'hubung', 'putra', 'balas', 'beliau', 'temu', 'iya']",1
+['opsi'],1
+"['terima', 'kasih', 'saran', 'poin', 'poin']",1
+"['mahasiswa', 'coba', 'ngebut', 'kerja', 'ukur', 'mudah', 'mudah', 'lulus', 'semester', 'hasil', 'optimal', 'aamiin']",1
+[],1
+"['selamat', 'sore', 'dosen', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'kabar', 'kirim', 'revisi', 'proposal', 'post', 'p0', 'serta', 'dokumen', 'email', 'kumpul', 'proposal', 'p0', 'filkomapps', 'tunggu', 'tuju', 'revisi', 'direview', 'iya', 'logbook', 'masuk', 'isi', 'sesuai', 'iya', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'catat', 'silah', 'diupload', 'filkom', 'app', 'silah', 'sesuai', 'terima kasih']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'ganggu', 'kabar', 'bimbing', 'putra', 'poin', 'baik', 'format', 'tulis', 'posisi', 'bullet', 'numbering', 'tulis', 'miring', 'baik', 'tulis', 'diagram alir', 'uji', 'precision', 'recall', 'uji', 'nilai', 'beda', 'baca', 'putra', 'word', 'embedding', 'kueri', 'expansion', 'beliau', 'jelas', 'teliti', 'kueri', 'expansion', 'judul', 'hapus', 'tulis', 'tf', 'idf', 'judul', 'saran', 'diskusi', 'ubah', 'judul', 'skripsi', 'oleh', 'informasi', 'artikel', 'kait', 'covid', 'metode', 'vector', 'space', 'model', 'word2vec', 'kueri', 'expansion', 'cocok', 'ganti', 'judul', 'uji', 'hapus', 'guna', 'precision', 'recall', 'variabel', 'beda', 'variabel', 'beda', 'menambahakan', 'rumus', 'kait', 'pengaruh', 'variabel', 'hasil', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'timbang']",1
+"['terima', 'kasih']",1
+"['mahasiswa', 'hasil', 'ulas', 'judul', 'skripsi', 'oleh', 'informasi', 'artikel', 'kait', 'covid', 'metode', 'vector', 'space', 'model', 'word2vec', 'kueri', 'expansion', 'cocok', 'ganti', 'judul', 'ijinkan', 'uji', 'hapus', 'guna', 'precision', 'recall', 'variabel', 'beda', 'ijinkan', 'variabel', 'beda', 'menambahakan', 'rumus', 'kait', 'pengaruh', 'variabel', 'hasil', 'masuk', 'uji', 'kelompok', 'parameter', 'saran', 'rumus', 'nilai', 'parameter', 'evaluasi', 'vektor', 'baik', 'word2vector', 'baik', 'silah', 'ubah', 'ubah', 'sesuai', 'rumus', 'akurasi', 'ganti', 'rumus', 'akurasi', 'ganti', 'nilai', 'parameter', 'evaluasi', 'vektor', 'word2vector', 'baik']",1
+"['permisi', 'izin', 'kait', 'vektor', 'word2vec', 'hidden', 'neuron']",1
+"['mahasiswa', 'pilih', 'uji', 'v', 'vocabulary', 'dokumen', 'unik', 'kamus', 'unik', 'hidden', 'neuron', 'saran', 'minimal', 'uji', 'analisis', 'skema', 'word', 'embedding', 'word2vec', 'hubung', 'algoritma', 'neural', 'network', 'deep', 'learning', 'general', 'purpose', 'kueri', 'expansion', 'metode']",1
+"['uji', 'variabel', 'rumus', 'tulis', 'nilai', 'parameter', 'evaluasi', 'hidden', 'neuron', 'baik', 'word2vec', 'oleh', 'informasi']",1
+['mahasiswa'],1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'skripsi', 'terima', 'kasih', 'ulas', 'dasar', 'ulas', 'bimbing', 'putra', 'beliau', 'noise', '2kali', 'berita', 'random', 'berita', 'artikel', 'kueri', 'uji', 'kueri', 'partisipan', 'sebab', 'putra', 'uji', 'derajat', 'sepakat', 'masuk', 'ancang', 'uji', 'fleiss', 'kappa', 'measure', 'anotasi', 'artikel', 'partisipan', 'uji', 'skenario', 'ubah', 'nilai', 'ubah', 'nilai', 'hidden', 'neuron', 'dokumen', 'kueri', 'evaluasi', 'banding', 'nilai', 'hidden', 'neuron', 'masuk', 'hitung', 'manual', 'hitung', 'hitung', 'manual', 'mohon', 'maaf', 'erti', 'skenario', 'uji', 'uji', 'rumus', 'skenario', 'uji', 'nilai', 'hidden', 'neuron', 'skenario', 'kueri', 'expansion', 'sekanrio', 'uji', 'niali', 'beda', 'erti', 'istilah', 'skenario', 'uji', 'rumus', 'iya', 'lampir', 'hasil', 'running', 'program', 'letak', 'lampir', 'daftar', 'referensi', 'iya', 'letak', 'hasil', 'hitung', 'manual', 'gambar', 'letak', 'lampir', 'perhtiungan', 'manual', 'sekian', 'mohon', 'maaf', 'mahasiswa']",-1
+"['mahasiswa', 'timbang']",1
+"['terima', 'kasih', 'kabar', 'dokumen', 'proposal', 'pasca', 'p0', 'accord', 'putra']",1
+"['bimbing', 'putra', 'beliau', 'noise', '2kali', 'berita', 'random', 'bertia', 'artikel', 'kueri', 'uji', 'kueri', 'partisipan', 'sebab', 'putra', 'uji', 'derajat', 'sepakat', 'masuk', 'ancang', 'uji', 'fleiss', 'kappa', 'measure', 'noise', 'coba', 'hitung', 'estimasi', 'noise', 'bijak', 'sesuai', 'mampu', 'kapasitas', 'sistem', 'local', 'whatsapp', 'timbang', 'anotasi', 'artikel', 'partisipan', 'uji', 'skenario', 'ubah', 'nilai', 'ubah', 'nilai', 'hidden', 'neuron', 'dokumen', 'kueri', 'uji', 'sekuensial', 'hasil', 'uji', 'evaluasi', 'banding', 'nilai', 'hidden', 'neuron', 'masuk', 'hitung', 'manual', 'hitung', 'hitung', 'manual', 'mohon', 'maaf', 'erti', 'skenario', 'uji', 'uji', 'rumus', 'skenario', 'uji', 'nilai', 'hidden', 'neuron', 'skenario', 'kueri', 'expansion', 'sekanrio', 'uji', 'niali', 'beda', 'erti', 'istilah', 'skenario', 'uji', 'rumus', 'iya', 'inti', 'uji', 'minimal', 'skenario', 'uji', 'tahap', 'skuensial', 'hasil', 'parameter', 'baik', 'teknik', 'baik', 'uji', 'lampir', 'hasil', 'running', 'program', 'letak', 'lampir', 'daftar', 'referensi', 'iya', 'lampir', 'email', 'kirim', 'letak', 'hasil', 'hitung', 'manual', 'gambar', 'bab', 'ketik', 'gambar', 'letak', 'lampir', 'perhtiungan', 'manual', 'masuk', 'lampir', 'catat', 'tolong', 'poin', 'email']",1
+"['terima', 'kasih', 'timbang', 'poin', 'poin', 'email', 'mohon', 'maaf', 'poin', 'poin', 'uji', 'sekuensial', 'partisipan', 'label', 'sesuai', 'kueri', 'iya', 'kueri', 'partisipan', 'nilai', 'artikel', 'relevan', 'kueri', 'kueri', 'uji', 'poin', 'ambil', 'contoh', 'skripsi', 'hasil', 'uji', 'nilai', 'uji', 'hidden', 'neuron', 'hasil', 'uji', 'hidden', 'uji', 'banding', 'implementasi', 'word2vec', 'word2vec']",-1
+"['poin', 'uji', 'sekuensial', 'partisipan', 'label', 'sesuai', 'kueri', 'iya', 'kueri', 'partisipan', 'nilai', 'artikel', 'relevan', 'kueri', 'kueri', 'uji', 'mahasiswa', 'poin', 'ambil', 'contoh', 'skripsi', 'hasil', 'uji', 'nilai', 'uji', 'hidden', 'neuronn', 'hasil', 'uji', 'hidden', 'uji', 'banding', 'implementasi', 'word2vec', 'word2vec', 'mahasiswa']",1
+"['terima', 'kasih', 'selamat', 'pagi', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'timbang', 'kait', 'noise', 'hitung', 'tepat', 'artikel', 'berita', 'covid', 'timbang', 'noise', 'kisar', 'artikel', 'berita', 'label', 'artikel', 'rencana', 'uji', 'kueri', 'beda', 'artikel', 'cari', 'partisipan', 'mohon', 'maaf', 'partisipan', 'rang', 'derajat', 'sepakat', 'anotatornya', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['timbang', 'kait', 'noise', 'hitung', 'tepat', 'artikel', 'berita', 'covid', 'timbang', 'noise', 'kisar', 'artikel', 'berita', 'mahasiswa', 'ijinkan', 'label', 'artikel', 'rencana', 'uji', 'kueri', 'beda', 'artikel', 'cari', 'partisipan', 'mohon', 'maaf', 'partisipan', 'rang', 'derajat', 'sepakat', 'anotatornya', 'mahasiswa', 'ijinkan']",1
+"['terima', 'kasih', 'partisipan', 'boleh', 'uji', 'derajat', 'sepakat', 'annotator', 'fleiss', 'kappa', 'measure']",1
+"['mahasiswa', 'pakar', 'ahli', 'bahasa', 'paham', 'kait', 'dokumen', 'sosmed', 'mahasiswa', 'background', 'ilmu', 'alam', 'kait', 'dokumen', 'sosmed']",1
+"['partisipan', 'bantu', 'nilai', 'relevansi', 'dokumen', 'kueri', 'kerabat', 'baca', 'berita']",1
+"['mahasiswa', 'pakar', 'warga', 'masyarakat', 'gemar', 'baca', 'berita', 'sosmed', 'ijinkan']",1
+"['terima', 'kasih', 'selesai', 'kirim', 'poin2', 'email']",1
+"['selamat', 'sore', 'mohon', 'maaf', 'menggangu', 'mahasiswa', 'mahasiswa', 'bimbing', 'kabar', 'kirim', 'dokumen', 'skripsi', 'manual', 'power point', 'video', 'p1', 'skripsi', 'email', 'sekian', 'mohon', 'maaf', 'mahasiswa']",1
+"['mahasiswa', 'catat', 'masuk', 'nilai', 'p1', 'tinggal', 'tunggu', 'nilai', 'dosen bimbing', 'media', 'omitted', 'tunggu', 'ulas', 'tolong', 'lanjut', 'siap', 'p2', 'kirim', 'email']",1
+"['terima', 'kasih']",1
+"['kenal', 'informatika', 'mahasiswa', 'bimbing', 'skripsi', 'aju', 'topik', 'omzet', 'rumah', 'memberitahukan', 'mengupload', 'praproposal', 'filkom', 'apps', 'mohon', 'maaf', 'ganggu', 'terima', 'kasih']",-1
+"['mohon', 'maaf', 'ganggu', 'mahasiswa', 'bimbing', 'bimbing', 'filkom', 'apps', 'bug', 'mohon', 'maaf', 'ganggu', 'terima', 'kasih']",1
+"['whatsapp', 'alaykumsalam', 'selasa', 'siang', 'iya', 'masalah', 'appsnya']",1
+"['image', 'omitted', 'image', 'omitted', 'tampil', 'sedia', 'mohon', 'maaf', 'terima', 'kasih']",1
+"['plot', 'dosen bimbing', 'kps']",1
+"['iya', 'terima', 'kasih', 'info', 'mohon', 'maaf', 'ganggu']",1
+"['lampir', 'dokumen', 'terima', 'kasih']",1
+"['oke', 'cek']",1
+['terima kasih'],1
+"['revisi', 'saran', 'dokumen', 'kemarin', 'terima', 'kasih']",1
+"['document', 'omitted', 'whatsapp', 'alaykumsalam', 'revisi', 'perhati', 'tulis']",1
+['terima kasih'],1
+"['lampir', 'dokumen', 'baru', 'p0', 'dosen', 'bimbing', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']",-1
+"['whatsapp', 'alaykumsalam', 'bimbing']",1
+"['dosen', 'adinugroho']",1
+"['oke', 'sendiri2', 'iya', 'p0']",1
+"['pakk', 'iya', 'p0']",-1
+"['mekanisme', 'p0', 'iya', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']",1
+"['whatsapp', 'alaykumsalam', 'oya', 'isi', 'p0', 'iya', 'inputkan']",1
+"['oke', 'terima', 'kasih']",1
+"['bimbing', 'dosen']",1
+"['mohon', 'maaf', 'dosen', 'bimbing', 'balas', 'email', 'minggu']",1
+"['dosen', 'iya', 'oke', 'coba', 'cek', 'proposal', 'p0']",1
+['oke'],1
+"['lampir', 'dokumen', 'konsultasi', 'dosen', 'kerja', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']",-1
+"['document', 'omitted']",-1
+"['kirim', 'dokumen', 'manual', 'lampir', 'dokumen', 'manual', 'metode', 'terima', 'kasih', 'document', 'omitted']",-1
+"['periksa', 'dokumen', 'kemarin', 'kirim', 'dokumen', 'baru', 'bimbing', 'dosen', 'revisi', 'saran', 'terima', 'kasihh', 'mohon', 'maaf', 'ganggu']",1
+"['whatsapp', 'alaykumsalam', 'oke', 'silah', 'kirim']",1
+"['document', 'omitted', 'lampir', 'dokumen', 'p1', 'baru', 'terima', 'kasih']",1
+"['mahasiswa', 'bimbing', 'skripsi', 'bimbing', 'mohon', 'maaf', 'ganggu', 'terima', 'kasih']",-1
+"['syarat', 'p1', 'iya', 'terima', 'kasih', 'terima', 'kasih']",1
+"['syarat', 'bimbing', 'penuh', 'isi', 'logbooknya', 'aju', 'bimbing']",1
+"['bimbing', 'dosen', 'penuh']",1
+"['oke', 'silah', 'aju', 'p1']",1
+[],1
+"['implementasi', 'hasil', 'mapenya', 'saran', 'kodingan', 'terima', 'kasih']",1
+[],1
+"['sesuai', 'fitur', 'fitur', 'kurang', 'hindar', 'kosong']",-1
+"['lampir', 'dokumen', 'skripsi', 'revisi', 'kerja', 'document', 'omitted', 'uji', 'banding', 'metode', 'relm', 'metode', 'elm', 'diagram alir', 'implementasi', 'tampil', 'metode', 'elm', 'terima', 'kasih']",-1
+"['revisi', 'saran', 'terima', 'kasih']",-1
+"['bimbing', 'dosen', 'minimal', 'p1', 'penuh', 'syarat', 'p1', 'iya', 'makasihh']",-1
+"['whatsapp', 'alaykumsalam', 'aju', 'buka', 'akses', 'batas', 'ketua jurus']",1
+"['terima', 'kasih', 'implementasi', 'bingung', 'invers', 'matriks', 'library', 'gabisa']",1
+"['oke', 'silah']",1
+"['terima', 'kasih']",1
+"['lampir', 'dokumen', 'skripsi', 'baru', 'terima', 'kasih', 'document', 'omitted']",1
+"['whatsapp', 'alaykumsalam', 'oke', 'bimbing', 'silah', 'isi', 'logbooknya', 'iya', 'ngejar', 'p2']",1
+"['terima', 'kasih']",1
+"['document', 'omitted', 'feedback']",1
+"['terima', 'kasih', 'balas']",1
+"['p1', 'dosen', 'suruh', 'kejar', 'daftar', 'seminar hasil', 'seminar hasil', 'semester', 'terima', 'kasih']",1
+['periksa'],1
+"['besok', 'kirim', 'revisi', 'gabung', 'revisi', 'dosen']",1
+['oke'],1
+"['terima', 'kasih']",1
+"['dokumen', 'skripsi', 'baru', 'terima', 'kasih']",-1
+"['document', 'omitted']",-1
+"['mohon', 'maaf', 'ganggu', 'bimbing', 'onlinenya', 'prosedur', 'iya', 'terima', 'kasih']",1
+"['whatsapp', 'alaykumsalam', 'bimbing', 'via', 'whatsapp']",1
+"['kumpul', 'progres', 'kumpul', 'whatsapp']",1
+"['iya', 'lapor']",1
+"['terima', 'kasih', 'informasi']",1
+"['cukup', 'p2', 'dosen', 'tolong', 'p2', 'terima', 'kasih']",-1
+"['lampir', 'dokumen', 'skripsi', 'jurnal', 'laksana', 'p2', 'syarat', 'iya', 'terima', 'kasih', 'document', 'omitted']",1
+"['aju', 'buka', 'akses', 'batas', 'ketua jurus']",-1
+"['terima', 'kasih']",1
+"['buka', 'akses', 'batas', 'buka', 'p2', 'iya', 'terima', 'kasih', 'terima', 'kasih', 'p2kan', 'lapor', 'dosen', 'nilai', 'p2', 'beliau', 'laku', 'butuh', 'verifikasi', 'mohon', 'maaf', 'ganggu']",1
+['oke'],1
+"['terima kasih', 'ohiya', 'tolong', 'mohon', 'tanda tangan', 'logbook', 'lembar', 'kesah', 'terima', 'kasih']",-1
+"['document', 'omitted']",-1
+"['tolong', 'verifikasi', 'seminar hasil', 'tanda tangan', 'administrasi', 'daftar', 'seminar hasil', 'terima', 'kasih']",1
+"['document', 'omitted']",1
+"['terima', 'kasih', 'balas']",1
+"['selamat', 'siang', 'informasi', 'uji', 'skripsi', 'ada', 'tanggal', 'januari', 'wib', 'kait', 'hadir', 'sekian', 'mohon', 'maaf', 'ganggu', 'perhati', 'terima', 'kasih', 'wassalamu']",1
+"['whatsapp', 'alaykumsalam']",1
+"['terima', 'kasih', 'balas']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'pagi', 'uji', 'skripsi', 'jadwal', 'jam', 'dosen', 'bimbing', 'sekian', 'mohon', 'maaf', 'perhati', 'terima', 'kasih', 'wassalamu', 'link', 'gmeetnya']",1
+['oke'],1
+"['teirma', 'kasih']",1
+['silah'],1
+[],1
+"['informatika', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'besar', 'kabar', 'sebab', 'laptop', 'kena', 'ransomeware', 'lezp', 'laptop', 'enkripsi', 'buka', 'skripsi', 'hasil', 'backup', 'kala', 'hilang', 'lupa', 'dibackup', 'minggu', 'kemarin', 'izin', 'orangtua', 'malang', 'ambil', 'tuju', 'lanjut', 'judul', 'semester', 'aju', 'bimbing', 'sedia', 'dosen', 'bimbing', 'semester', 'maaf', 'terima', 'kasih', 'wassalamu']",1
+"['whatsapp', 'alaykumsalam', 'kabar', 'kabar', 'komunikasi', 'dosen', 'bimbing', 'kendala', 'mmg', 'sbg', 'bimbing', 'skripsi', 'rutin', 'konsultasi', 'progres', 'kendala']",-1
+"['mohon', 'maaf', 'pikir', 'malang', 'april', 'konsultasi', 'progres']",1
+"['oke', 'komitmen', 'catat', 'iya']",1
+"['terima', 'kasih']",1
+"['bimbing', 'skripsi', 'jadwal', 'terima', 'kasih']",1
+"['whatsapp', 'alaykumsalam', 'sila', 'waktu']",1
+"['besok', 'buka', 'bimbing', 'manual', 'hasil', 'errornya']",1
+['oke'],1
+"['jam', 'iya']",1
+"['silah', 'kirim', 'dokumen']",-1
+"['rapihkan', 'besok', 'kirim', 'excel', 'fitur', 'beda']",1
+"['document', 'omitted', 'lampir', 'dokumen', 'manual', 'terima', 'kasih']",1
+"['whatsapp', 'alaykumsalam', 'oke', 'cek']",1
+"['terima', 'kasih']",1
+"['submit', 'praproposal', 'filkom', 'apps', 'nama', 'progres', 'besok', 'lampir', 'dokumen', 'terima', 'kasih', 'perihal', 'diagram alir', 'apkah', 'detail', 'gambar', 'terima', 'kasih']",1
+"['diagram alir', 'gambar', 'alur', 'program', 'detail']",1
+['terimakasish'],1
+"['bimbing', 'skripsi', 'bahas', 'p0', 'bimbing', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']",1
+['silah'],1
+"['document', 'omitted']",1
+"['mahasiswi', 'informatika', 'konsultasi', 'kait', 'tulis', 'skripsi', 'temu', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['besok', 'siang', 'sholat', 'dzuhur', 'iya']",1
+"['terima', 'kasih']",1
+"['tunda', 'jam', 'iya']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'menggangu', 'kait', 'skripsi', 'konsultasi', 'tulis', 'dokumen', 'skripsi', 'konsultasi', 'terima', 'kasih']",1
+"['besok', 'iya']",1
+"['terima', 'kasih', 'konsultasi', 'via', 'iya']",1
+"['besok', 'tentu', 'dokumen', 'skripsi', 'besok', 'siang', 'sore', 'sholat', 'ashar', 'iya']",1
+"['terima', 'kasih']",1
+"['maaf', 'libur', 'konsultasi', 'tunda', 'senin', 'jam', 'iya', 'terima kasih']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'bimbing', 'online', 'dokumen', 'skripsi', 'terima', 'kasih']",1
+"['join', 'the', 'video', 'meeting', 'click', 'this', 'link', 'otherwise', 'join', 'phone', 'enter', 'this', 'pin']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'dokumen', 'kemarin', 'info', 'kerja', 'konsultasi', 'kait', 'tulis', 'dokumen', 'skripsi', 'lampir', 'dokumen', 'skripsi', 'terima', 'kasih']",-1
+"['document', 'omitted']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'dokumen', 'kemarin', 'info', 'kerja', 'konsultasi', 'terima', 'kasih']",1
+"['lusa', 'iya', 'siap', 'kuliah', 'daring']",1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'konsultasi', 'dokumen', 'skripsi', 'iya', 'terima', 'kasih']",1
+"['sholat', 'jumat', 'baik']",1
+"['iya', 'terima', 'kasih', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'konsultasi', 'dokumen', 'skripsi', 'bimbing', 'terima', 'kasih']",1
+"['join', 'the', 'video', 'meeting', 'click', 'this', 'link', 'otherwise', 'join', 'phone', 'enter', 'this', 'pin']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'dokumen', 'skripsi', 'konsultasi', 'tulis', 'dokumen', 'skripsi', 'terima', 'kasih']",1
+"['sdr', 'kirim', 'ubah']",-1
+"['lampir', 'dokumen', 'document', 'omitted']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'kirakira', 'konsultasi', 'terima', 'kasih']",1
+"['besok', 'siang', 'iya', 'materi', 'kuliah', 'besok', 'pagi']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'konsultasi', 'dokumen', 'skripsi', 'bimbing', 'terima', 'kasih', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'konsultasi', 'dokumen', 'skripsi', 'konsultasi', 'terima', 'kasih']",-1
+"['sholat', 'ashar', 'iya', 'jam', 'iya']",1
+"['terima', 'kasih']",1
+"['pakai', 'google', 'meet', 'iya']",1
+['iya'],1
+"['join', 'the', 'video', 'meeting', 'click', 'this', 'link', 'otherwise', 'join', 'phone', 'enter', 'this', 'pin']",1
+"['perihal', 'dokumen', 'skripsi', 'mana', 'temu', 'konsultasi', 'skripsi', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['siang', 'jam']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'dokumen', 'kemarin', 'lampir', 'baik', 'dokumen', 'skripsi', 'terima', 'kasih']",-1
+"['document', 'omitted']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'konsultasi', 'terima', 'kasih']",-1
+"['hasil', 'revisi', 'baik', 'tulis', 'algoritmanya', 'baca', 'sesuai', 'kaidah', 'tulis', 'algoritma', 'diagram alir']",-1
+"['mohon', 'maaf', 'diagram alir']",1
+"['tulis', 'algoritma', 'dar', 'layak', 'alur', 'proses', 'tahap', 'tahap', 'detil', 'tulis', 'skripsi', 'proses', 'detilnya']",-1
+"['baik', 'terima', 'kasih', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'dokumen', 'skripsi', 'baik', 'terima', 'kasih', 'document', 'omitted']",-1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'dokumen', 'skripsi', 'baik', 'terima', 'kasih']",1
+"['jam', 'daring', 'iya']",-1
+"['terima', 'kasih']",1
+"['link', 'google', 'meet', 'iya', 'join', 'the', 'video', 'meeting', 'click', 'this', 'link', 'otherwise', 'join', 'phone', 'enter', 'this', 'pin']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'dokumen', 'lampir', 'dokumen', 'baik', 'terima', 'kasih', 'document', 'omitted']",-1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'dokumen', 'skripsi', 'baik', 'terima', 'kasih']",1
+['ubah'],1
+"['you', 'deleted', 'this', 'message', 'document', 'omitted']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'baik', 'dokumen', 'terima', 'kasih']",1
+"['jam', 'daring', 'iya']",-1
+"['terima', 'kasih']",1
+"['gabung', 'rapat', 'video', 'klik', 'link']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'lampir', 'dokumen', 'skripsi', 'baik', 'terima', 'kasih', 'document', 'omitted']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'dokumen', 'baik', 'iya', 'terima', 'kasih']",-1
+"['konsultasi', 'kait', 'revisi', 'tulis', 'skripsi', 'minggu', 'temu', 'iya', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['besok', 'jam', 'iya']",1
+"['terima', 'kasih']",1
+"['walaikumsalam', 'jam', 'daring', 'sebentar', 'iya']",1
+"['terima', 'kasih']",1
+"['link', 'google', 'meet', 'gabung', 'rapat', 'video', 'klik', 'link']",1
+"['assalamualikum', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'info', 'aju', 'daftar', 'seminar hasil', 'filkomapps', 'mohon', 'tuju', 'bimbing', 'verifikasi', 'filkomapps', 'terima', 'kasih']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'informasi', 'pelakasanaan', 'uji', 'skripsi', 'laksana', 'jumat', 'juni', 'wib', 'harap', 'konfirmasi', 'dosen', 'bimbing', 'laksana', 'sidang', 'skripsi', 'terima', 'kasih', 'wassalamualaikum']",1
+[],1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'laksana', 'sidang', 'skripsi', 'jumat', 'tanggal', 'juni', 'info', 'link', 'laksana', 'sidang', 'besok', 'ketua', 'majelis', 'uji', 'kasih', 'wassalamualaikum']",1
+"['jam', 'iya']",1
+"['iya', 'jam', 'wib']",1
+[],1
+"['terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'sidang', 'lampir', 'hasil', 'revisi', 'lampir', 'revisi', 'dosen', 'uji', 'terima', 'kasih', 'wassalamualaikum', 'document', 'omitted', 'sedia', 'periksa', 'lanjut', 'proses', 'terima', 'kasih']",1
+"['iya', 'rabu', 'sore', 'jam', 'iya']",1
+"['terima', 'kasih']",1
+"['selamat', 'sore', 'mohon', 'maaf', 'menggangu', 'kait', 'dokumen', 'revisi', 'skripsi', 'sidang', 'baik', 'terima', 'kasih', 'wassalamualaikum']",1
+"['flowchartnya', 'didetilkan', 'iya', 'sbgmn', 'minta', 'uji', 'baca', 'sdri', 'teman', 'faham', 'diagram alir', 'buat']",1
+"['mohon', 'maaf', 'diagram alir', 'kemarin', 'bantu', 'teman', 'baik', 'baik']",1
+"['bantu', 'teman', 'faham', 'diagram alir']",1
+"['terima', 'kasih', 'lampir', 'hasil', 'revisi', 'periksa', 'mohon', 'maaf', 'ganggu', 'terima', 'kasih']",-1
+"['document', 'omitted']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'lampir', 'revisi', 'skripsi', 'terima', 'kasih', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'iya', 'baik', 'terima', 'kasih', 'wassalamualaikum']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'revisi', 'iya', 'baik', 'jumat', 'batas', 'kumpul', 'skripsi', 'terima', 'kasih', 'wassalamualaikum']",1
+"['anggap', 'silah', 'proses']",1
+"['terima', 'kasih', 'selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'kait', 'proses', 'skripsi', 'butuh', 'tuju', 'mohon', 'sedia', 'digital', 'lembar', 'kesah', 'dokumen', 'skripsi', 'dosen', 'bimbing', 'lampir', 'dokumen', 'skripsi', 'terima', 'kasih', 'wassalamualaikum', 'document', 'omitted', 'terima', 'kasih']",1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'mengupload', 'dokumen', 'skripsi', 'filkom', 'apps', 'mohon', 'verifikasi', 'dosen', 'bimbing', 'lanjut', 'proses', 'terima', 'kasih', 'wassalamualaikum']",-1
+"['perihal', 'dokumen', 'skripsi', 'mana', 'temu', 'konsultasi', 'skripsi', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['senin', 'siang', 'iya', 'jam']",1
+"['terima', 'kasih']",1
+"['selamat', 'siang', 'mohon', 'maaf', 'ganggu', 'hubung', 'proses', 'unggah', 'makalah', 'skripsi', 'daftar', 'yudisium', 'mohon', 'tuju', 'dosen', 'bimbing', 'menandatangani', 'form', 'sc2', 'form', 'tuju', 'revisi', 'sc2', 'form', 'tuju', 'unggah', 'makalah', 'skripsi', 'sc2', 'poin', '3a', '4a', 'form', 'syarat', 'yudisium', 'lampir', 'form', 'terima', 'kasih', 'wassalamualaikum', 'mohon', 'maaf', 'form', 'sc2', 'poin', '3b', '4b']",1
+"['document', 'omitted']",1
+"['terima', 'kasih']",1
+"['konsultasi', 'perihal', 'dokumentasi', 'skripsi', 'temu', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['kamis', 'jumat']",1
+"['jumat', 'jam', 'iya']",1
+"['mohon', 'maaf', 'bimbing']",-1
+"['konsultasi', 'kait', 'skripsi', 'p2', 'batas', 'p2', 'temu', 'terima', 'kasih', 'maaf', 'menggangu']",1
+"['bimbing', 'p2', 'kampus', 'tamu', 'ketemu', 'besok', 'siang', 'jam']",1
+"['bimbing', 'p2', 'minggu', 'terima', 'kasih', 'mohon', 'maaf', 'p2', 'logbook', 'bimbing', 'penuh', 'logbook', 'penuh', 'proses', 'p2', 'pda', 'filkom', 'apps', 'iya', 'batas', 'p2', 'terima', 'kasih', 'maaf', 'ganggu']",1
+"['isi', 'tuju']",1
+"['terima', 'kasih']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'bimbing', 'online', 'kait', 'dokumentasi', 'skripsi', 'mekanisme', 'iya', 'terima', 'kasih']",-1
+"['selamat', 'pagi', 'mohon', 'maaf', 'ganggu', 'kait', 'skripsi', 'konsultasi', 'tulis', 'dokumen', 'skripsi', 'lampir', 'dokumen', 'skripsi', 'terima', 'kasih', 'document', 'omitted']",-1
