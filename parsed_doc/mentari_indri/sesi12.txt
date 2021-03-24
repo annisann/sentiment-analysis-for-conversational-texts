@@ -1,0 +1,3 @@
+mahasiswa|Assalamualaikum Wr. Wb Selamat siang bu [DOSEN], mohon maaf mengganggu waktunya. Saya bermaksud ingin memberikan progress skripsi saya, PPT P2, serta video presentasi P2 saya bu. Untuk video presentasinya sudah saya upload di GDrive bersama dengan dokumen P2 saya, berikut link-nya bu https://drive.google.com/drive/folders/1JQgBo8cTaWrSu0IviQ2fVxVWrlVfVXEl?usp=sharing Pada dokumen skripsi terbaru saya juga sudah ditambahkan pengujian K-Fold untuk data time series yg bernama Nested Cross Validation bu, berikut saya lampirkan dokumen saya untuk dapat ibu lihat. Terimakasih bu untuk sebelum dan sesudahnya Wassalamualaikum Wr. Wb   <DOC> |1
+dosen|Ok saya cek dulu|1
+mahasiswa|baik bu terima kasihh|1
