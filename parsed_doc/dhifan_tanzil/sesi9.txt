@@ -1,0 +1,4 @@
+dosen|Sy bisa dikirimi lg dokumen skripsinya?|-1
+mahasiswa|Baik Pak, berikut dokumen skripsi saya lampirkan. <DOC> |1
+dosen|<DOC>|1
+mahasiswa|Mungkin saya coba kirimkan dengan format pdf-nya Pak, berikut saya lampirkan kembali dengan format pdf. <DOC> |-1
