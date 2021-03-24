@@ -1,0 +1,16 @@
+dosen|Assalamualaikum wr wb. Maaf mengganggu di akhir pekan. Kemarin saya sudah coba utak atik. Namun memang aneh, dan ternyata anehnya file  itu ada page break dan section breaknya. Saya sudah coba utak atik mentok terdeteksi 3 halaman, jadi masih kurang. Alternatifnya begini saja. Coba  copy paste satu per satu ke template lagi ya. Jangan ctrl+A copy paste, tapi per section mungkin ya. Coba dibetulkan dulu ya . |1
+mahasiswa|Oh iya baik Bu. Segera saya betulkan dulu Bu.|1
+dosen|Iya [MHS], nanti kalau sudah coba diunggah, bagaimana kita lihat hasilnya ya.|1
+mahasiswa|Saya sudah coba untuk memperbaiki dengan copy paste per section pada template Bu, namun setelah saya coba upload lagi, errornya masih sama jadi hanya terbaca 3 halaman.|1
+dosen|kok aneh ya 😂 ini saya unggah paper saya pakai word juga aman. Coba nanti saya lihat lagi ya . Untuk pengujiannya sudah dimasukkan semua dari buku ya . ? |1
+mahasiswa|Sudah Bu, sudah saya masukkan semua. Apa karena halaman terakhir itu hanya terisi sebagian ya Bu? Jadi hanya terbaca 3 halaman saja😅|1
+dosen|tidak juga seharunsya..😀|1
+mahasiswa|waduh lalu bagaimana ya Bu? Saya coba untuk memperbaiki ulang jg tetap masih error jg🤦‍♀️|1
+dosen|Kita coba solusi menambah halaman. Coba yang bagian referensi terkait preprocessing agak ditata lagi misalnya contoh-contohnya dimasukkan ke dalam tabel, .|1
+mahasiswa|Oh iya baik Bu. saya perbaiki dulu|1
+dosen|Iya, [MHS]. 😀|1
+mahasiswa|Bu, sudah saya tambahkan tabel, yg halaman terakhir jg sudah agak kebawah tulisannya. Tapi masih saja error saat unggah dokumennya. Masih terbaca 3halaman Bu😢|1
+dosen|sungguh aneh. Coba kirimkan yan terbaru ya [MHS] filenya |1
+mahasiswa|Baik Bu, sebentar. |1
+dosen|Baik,  besok saya intip ya InsyAllah|1
+mahasiswa|Iya Bu, terima kasih🙏|1
