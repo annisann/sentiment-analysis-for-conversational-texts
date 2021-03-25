@@ -1,0 +1,8 @@
+mahasiswa|Berikut Bu yg sudah saya tanda tangan.|1
+dosen|Baik, sebentar ya mbak |1
+mahasiswa|Baik Bu.|1
+dosen|[MHS] mohon maaf, itu harus ada materainya dahulu baru ditandatangani  di atas materai kemudian discan kemudian ditempelkan kembali |1
+mahasiswa|Baik Bu. Saya perbaiki dahulu. Berikut sudah saya berikan materai dan tanda tangan saya Bu.  |1
+dosen|<DOC> baik,  ini sudah saya ttd ya |1
+mahasiswa|Baik Bu. Terima kasih🙏|1
+dosen|Sama-sama |1

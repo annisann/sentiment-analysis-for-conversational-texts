@@ -1,0 +1,3 @@
+mahasiswa|<DOC> Assalamualaikum pak, Selamat Pagi, maaf menganggu waktunya, saya [MHS], mahasiswa Informatika angkatan 2016, ingin menyampaikan, bahwa saya sudah membuat analisis domain pada bab 4, berikut ini saya lampirkan file pdf, agar bisa bapak koreksi, dan bisa memberi tambahan, untuk grammar DSL, masih saya kerjakan saat ini, terimakasih |1
+dosen|Waalaikumussalam wrwb, utk bimbingan via email email@ub.ac.id dg menyertakan dokumen format docx|1
+mahasiswa|baik pak, mohon maaf, akan saya kirimkan melalui email, terimakasih|1

@@ -1,0 +1,5 @@
+mahasiswa|Assalamu’alaikum pak [DOSEN] saya sudah di P1 kan oleh pak dosen, dan disuruh mengejar pendaftaran semhas. Apakah saya boleh semhas semester ini pak? Terima kasih|1
+dosen|Bisa.. Terakhir yg sdh sy periksa smp bab brp?|1
+mahasiswa|Sampai bab 7 pak, saya besok akan mengirim revisi gabungan dr bapak dengan revisi pak dosen|1
+dosen|Ok|1
+mahasiswa|Baik terima kasih banyak pak|1

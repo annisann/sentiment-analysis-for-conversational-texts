@@ -1,0 +1,5 @@
+mahasiswa|Assalamualaikum Wr. Wb. Selamat sore bu [DOSEN], mohon maaf mengganggu waktunya. Ada yg ingin saya tanyakan buu mengenai skripsi saya, apakah ibu ada waktuu? Terima kasih bu untuk sebelum dan sesudahnyaa |1
+dosen|Iya knapa?|1
+mahasiswa|Pada skripsi saya Bab Kajian Pustaka, ada jurnal dari (Huang, et al) dengan judul Trends in Extreme Learning Machines A Review (terlampir), yang mana jurnal tersebut berisi ulasan dari penelitian-penelitian sebelumnya. Pada jurnal tersebut tidak dicantumkan data penelitiannya bu. Sehingga saya bingung untuk memasukkan objek pada kolom “Objek” di Tabel Kajian Pustaka saya (terlampir) bu. Apakah kira-kira ibu ada masukan?.. Terima kasih buu <DOC> <DOC> |1
+dosen|Dikosongi saja gpp|1
+mahasiswa|baik buu terima kasihh|1

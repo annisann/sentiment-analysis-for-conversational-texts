@@ -1,9 +1,5 @@
 timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
-25/6/20,mahasiswa,"Selamat siang Pak [DOSEN]. Mohon maaf mengganggu waktunya, nama saya [MHS] dari Prodi Teknik Informatika 2017.
-
-Saya ingin bertanya tentang ketersediaan Bapak untuk menjadi dosen pembimbing skripsi 1 saya. Topik yang ingin saya angkat adalah ""Sistem Temu Kembali Informasi Artikel terkait COVID-19 dengan Metode Pembobotan TF-IDF dan Model Vector Space"". Apakah sekiranya topik saya dapat diangkat untuk penelitian skripsi? Dan apakah Bapak bersedia untuk menjadi pembimbing skripsi saya?
-
-Terima kasih atas perhatian dan waktunya.",1,1
+25/6/20,mahasiswa,"Selamat siang Pak [DOSEN]. Mohon maaf mengganggu waktunya, nama saya [MHS] dari Prodi Teknik Informatika 2017. Saya ingin bertanya tentang ketersediaan Bapak untuk menjadi dosen pembimbing skripsi 1 saya. Topik yang ingin saya angkat adalah ""Sistem Temu Kembali Informasi Artikel terkait COVID-19 dengan Metode Pembobotan TF-IDF dan Model Vector Space"". Apakah sekiranya topik saya dapat diangkat untuk penelitian skripsi? Dan apakah Bapak bersedia untuk menjadi pembimbing skripsi saya? Terima kasih atas perhatian dan waktunya.",1,1
 25/6/20,dosen,"Baik [MHS], saya bersedia.  Terkait judul, tolong mencari dulu -+ 2 - 3 paper Internasiona terkait ""word embedding"" lalu review secara singkat untuk ditambahkan pada daftar referensi dan dimunculkan pada judul Anda. ",1,1
 25/6/20,mahasiswa,Baik pak. Akan saya cari dan tambahkan. Terima kasih atas perhatiannya.,1,1
 13/8/20,mahasiswa,"Selamat siang Pak [DOSEN]. Mohon mqqf menggangu waktunya. Saya [MHS] dari TIF 2017 yang waktu itu meminta untuk menjadi mahasiswa bimbingan skripsi bapak.  Topik yang saya ambil waktu itu ""Sistem Temu Kembali Informasi Artikel terkait COVID-19 dengan Metode Pembobotan TF-IDF dan Model Vector Space"". Setelah mengikuti saran bapak, saya sudah mencari beberapa jurnal yang membahas tentang vector space dengan word embedding. Apakah untuk penggunaan Word Embeddingnya pada metode penelitian secara keseluruhan atau akan dijadikan pembading hasil antara menggunakan word embedding atau tidak ya pak?  Terima kasih atas perhatian dan waktunya. ",1,-1
@@ -26,12 +22,12 @@ Terima kasih atas perhatian dan waktunya.",1,1
 20/10/20,mahasiswa,"Selamat pagi Pak [DOSEN]. Mohon maaf mengganggu waktunya. Saya [MHS] salah satu mahasiswa bimbingan bapak.  Saya ingin memberi kabar bahwa saya sudah submit progress ppt p0 saya dan beberapa pertanyaan ke email bapak.  Dan juga saya ingin bertanya terkait log book pak, di FilkomApps untuk ruangan dan waktu tidak ada pilihan lainnya. Jadi kedua kolom itu diisi dengan apa ya pak?  Dan terkait progress p0, dosbing 2 (Pak [DOSEN]) menginginkan pertemuan langsung dengan kedua dosen pembimbing bersma dengan mahasiswa untuk menyamakan persepsi, apakah metode p0 nya akan diubah menjadi live dan bersamaan atau tetap menggunakan video ya pak?  Sekian yang ingin saya sampaikan. Jika ada salah kata, saya mohon maaf.  Salam, [MHS] ",1,1
 20/10/20,dosen,"Baik [MHS], noted. Mohon ditunggu P0 dari saya.  Apakah bisa discreenshot pilihan ruangan dan waktunya, lalu kirim ke WA saya?  Baik, usulan dari Pak [DOSEN], saya pertimbangkan dulu. ",1,1
 20/10/20,mahasiswa,Baik pak. Berikut untuk screenshot pilihan ruangan dan waktu logbook.,1,1
-20/10/20,mahasiswa,<Media omitted>,1,1
+20/10/20,mahasiswa,<DOC>,1,1
 20/10/20,dosen,"Baik [MHS], saran saya untuk Lokasi/Ruang isikan dengan ""Daring"", waktu tinggal disesuaikan saja. Jika masih belum bisa, saya ijinkan untuk di isi by default. ",1,1
 20/10/20,mahasiswa,Baik pak. Saya sudah membuat 3 logbook sesuai dengan ketentuan yang bapak berikan.,1,1
 20/10/20,dosen,"Baik [MHS], noted. Utk P0-nya, saya setujui dilakukan daring (live), tlg siapkan link G-Meet dan buat jadwal saya dan P. [DOSEN] bisanya kapan. Terimakasih. ",1,1
 20/10/20,mahasiswa,"Baik pak. Jika dilihat dari jadwal Pak [DOSEN] di youcanbook.me, ada beberapa jadwal yang tersedia hari Kamis pak. Berikut jadwalnya. ",1,1
-20/10/20,mahasiswa,<Media omitted>,1,1
+20/10/20,mahasiswa,<DOC>,1,1
 20/10/20,mahasiswa,"Untuk Kamis sendiri, saya ada jadwal kelas hingga jam 10.20. Kira-kira, jadwal jam mana yang bisa digunakan ya pak untuk hari Kamis? ",1,1
 20/10/20,mahasiswa,"Dan karena dilakukan secara daring, apakah saya masih perlu mengumpulkan video pak? ",1,1
 20/10/20,dosen,Bgmn jika senin Mas?,1,1
@@ -92,7 +88,7 @@ Terima kasih atas perhatian dan waktunya.",1,1
 27/11/20,mahasiswa,"Baik pak, terima kasih banyak. Akan segera saya selesaikan dan kirimkan poin2 yang ada di email bapak sebelumnya. ",1,1
 1/12/20,mahasiswa,"Selamat sore pak. Mohon maaf menggangu. saya [MHS], salah satu mahasiswa bimbingan bapak.  Saya ingin memberi kabar bahwa saya baru saja mengirimkan dokumen skripsi, manualisasi, ppt dan video untuk P1 skripsi saya ke email bapak.  Sekian yang ingin saya sampaikan. Jika ada salah kata, saya mohon maaf.  Salam, [MHS] ",1,-1
 2/12/20,dosen,"Baik [MHS], noted, berikut sudah saya masukkan nilai P1-nya, tinggal menunggu penilaian dari dosbing ke-2. ",1,1
-2/12/20,dosen,<Media omitted>,1,1
+2/12/20,dosen,<DOC>,1,1
 2/12/20,dosen,"Sambil menunggu review dari saya, tlg lanjutkan mengerjakan bab 5 dan 6 utk persiapan P2, lalu kirimkan ke email saya. ",1,1
 2/12/20,mahasiswa,"Baik pak, terima kasih banyak. ",1,1
 3/12/20,mahasiswa,"Selamat sore Pak [DOSEN]. Mohon maaf menggangu. Saya [MHS], salah satu mahasiswa bimbingan skripsi bapak.  Saya ingin memberi kabar bahwa saya baru saja melakukan progress P1 skripsi kepada Pak [DOSEN]. Berikut poin2 revisi yang diberikan: 1. word2vec tidak dilakukan filtering dan stemming karena akan mengubah konteks kata. --> Jadi akan saya revisi sedikit kode programnya. 2. Penulisan flowchart yang masih salah diperbaiki, sperti penulisan kode di dalam flowchart, kata loop dalam looping dihapus saja. 3. Penulisan penyebutan tabel harus selalu disertakan ""Tabel"" sebelum angkanya. 4. Perancangan pengujian seharusnya k itu tidak diuji dan jika ingin menguji metode word2vec tidak hanya parameter hidden neuron saja, tetapi harus juga menguji semua parameter seperti window size, learning rate, epoch, dll. Namun tidak disarankan karena dengan pengalaman saya membimbing itu akan memakan waktu karena variabel word2vec tidak sedikit jika ingin dioptimasi. Bicarakan lagi dengan pembimbing 1 kelanjutannya bagaimana.  Ada beberapa hal yang ingin saya diskusikan: 1. Dari poin nomor 4, apakah diperbolehkan jika skripsi saya tidak menguji optimasi word2vec pak? Jadi pada rumusan masalah saya hanya akan mencari precision recall @k dari program yang dibuat dan besaran perbedaan jika tidak menggunakan word2vec. Nilai k akan saya tentukan pada tahap implementasi yang menggunakan dataset dummy. Lalu, nilai k dengan precision recall tertinggi pada tahap implementasi akan saya bawa ke tahap pengujian di mana nilai k akan digunakan untuk perhitungan precision recall @k program yang menggunakan dataset asli. Hal ini dilakukan agar nilai variabel k yang saya bawa ke pengujian tidak mengada-ada tetapi berdasarkan kalibrasi yang dilakukan terhadap dataset dummy. Apakah hal tersebut diperbolehkan dalam skripsi ini pak?  2. Jika poin 1 diperbolehkan, rumusan masalah yang mencari nilai k dan hidden neuron saya hapus dan menyisakan rumusan masalah mencari tahu nilai precision recall @K dari program dan perbandingan precision recall @k dengan implementasi tanpa word2vec. Di mana, hal tersebut akan mengubah skenario pengujian saya hanya menguji 2 skenario, yaitu (1) hasil precision@k dan recall @k pada program dengan dataset artikel covid-19 bulan oktober 2020 dan (2) Mencari tahu besaran perbedaan precision recall @k dari program yang tidak menggunakan word2vec. Apakah hal tersebut diperbolehkan atau bagaimana sekiranya jalan tengah agar hal tersebut bisa diterima?  3. Apakah kode bab 5 sudah harus dalam bentuk microsoft addins pak?  Sekian yang ingin saya sampaikan. Jika ada salah kata, saya mohon maaf.  Salam, [MHS] ",1,-1
@@ -123,15 +119,15 @@ Terima kasih atas perhatian dan waktunya.",1,1
 23/12/20,mahasiswa,You deleted this message,1,1
 23/12/20,mahasiswa,"Selamat siang pak. Mohon maaf menggangu sebelumnya. Saya [MHS], salah satu mahasiswa bimbingan bapak.  Saya ingin memberi kabar bahwa saya sudah mengirimkan file skripsi dan jurnal beserta cek plagiasi dari kedua file tersebut ke email bapak.  Saya juga baru saja melakukan bimbingan kepada Pak [DOSEN] dan ditemukan beberapa kesalahan penulisan yang akan ingin saya ganti sekarang.  Jika saya ingin melakukan pendaftaran semhas hari ini, apakah masih sempat pak?  Sekian yang ingin saya sampaikan. Jika ada salah kata, mohon maaf.  Salam, [MHS] ",1,1
 23/12/20,dosen,"Baik [MHS], silahkan diperbaiki dari masukan Pak [DOSEN]. Berikut review dari saya >> Pada Jurnal + tambahkan kalimat penjelasan untuk meminimalkan space kosong ",1,1
-23/12/20,dosen,<Media omitted>,1,1
+23/12/20,dosen,<DOC>,1,1
 23/12/20,dosen,"+ pada chart line, selain warna, juga gunakan pattern yg berbeda, misal dgn ""line ...""atau ""line --"" ",1,1
-23/12/20,dosen,<Media omitted>,1,1
-23/12/20,dosen,<Media omitted>,1,1
-23/12/20,dosen,<Media omitted>,1,1
+23/12/20,dosen,<DOC>,1,1
+23/12/20,dosen,<DOC>,1,1
+23/12/20,dosen,<DOC>,1,1
 23/12/20,dosen,+ Pada daftar Pustaka set Justify,1,1
-23/12/20,dosen,<Media omitted>,1,1
+23/12/20,dosen,<DOC>,1,1
 23/12/20,dosen,menjadi,1,1
-23/12/20,dosen,<Media omitted>,1,1
+23/12/20,dosen,<DOC>,1,1
 23/12/20,dosen,"Jika saya ingin melakukan pendaftaran semhas hari ini, apakah masih sempat pak? --> In Syaa Allah masih bisa, jika revisi dari saya dan Pak [DOSEN] terlalu banyak, saya ijinkan  di-skip dulu tidak apa"", karena minor, saran saya, lalukan pendaftaran sebelum jam 15.30, dan siapkan segera syarat""nya. ",1,1
 23/12/20,dosen,Karena saya cek dari progress Anda di email dan hasil cek plagiasi sudah memnuhi semuanya.,1,1
 23/12/20,mahasiswa,Mohon maaf ingin bertanya. Apakah memang pendaftarannya terakhir 15.30 pak?,1,1
@@ -140,12 +136,12 @@ Terima kasih atas perhatian dan waktunya.",1,1
 23/12/20,dosen,"Baik, sudah saya approve ",1,1
 23/12/20,dosen,"Silahkan segera dicetak kartu kendali Anda dari logbook, minimal sdh memenuhi 8 logbook utk msg"" dosbing. ",1,1
 23/12/20,mahasiswa,"Sebelumnya saya sempat menanyakan kepada Pak Yusron, untuk lembar persetujuan dan dokumen lainnya tidak wajib ada tanda tangan pembimbing. Jika begitu apakah saya perlu meminta tanda tangan bapak untuk lembar-lembar tersebut untuk maju ke tahap semhas? ",1,1
-23/12/20,mahasiswa,<Media omitted>,1,1
+23/12/20,mahasiswa,<DOC>,1,1
 23/12/20,dosen,"Baik [MHS], ikuti petunjuk dari Mas Yusron. ",1,1
 23/12/20,dosen,"Baik [MHS], tidak perlu ada ttd dulu. Ikuti petunjuk dari Mas Yusron. ",1,1
 23/12/20,mahasiswa,"Baik pak, kalau begitu saya ingin meminta tanda tangan bapak untuk dokumen perubahan judul saja pak. ",1,1
-23/12/20,mahasiswa,<Media omitted>,1,1
-23/12/20,dosen,<Media omitted>,1,1
+23/12/20,mahasiswa,<DOC>,1,1
+23/12/20,dosen,<DOC>,1,1
 23/12/20,dosen,"Baik [MHS], di atas file yg sdh saya ttd digital. ",1,1
 23/12/20,mahasiswa,"Baik pak, terima kasih banyak pak. ",1,1
 23/12/20,mahasiswa,"Permisi pak. Saya ingin bertanya. Apakah dokumen yang sudah disubmit tidak bisa diubah (minor), seperti miliki saya yang kesalahan penulisan, bukan mengubah isi? ",1,1
@@ -166,9 +162,9 @@ Terima kasih atas perhatian dan waktunya.",1,1
 30/12/20,dosen,"Baik [MHS], selamat. Tinggal selangkah lagi menuju sidang. Berikut review dari saya Saya ingin memberi kabar bahwa pelaksanaan seminar hasil skripsi saya sudah selesai. Berikut beberapa saran dari dosen fasilitator: -> Noted. - masih banyak membaca slide saat presentasi -> disarankan untuk lebih meringkat ppt menjadi poin2 lagi. -> baik, segera lakukan perbaikannya - menyebutkan keterkaitan kajian pustaka dengan skripsi yang dibuat -> coba melihat dari sudut pandang case atau algoritma yg sama atau analog dengan salah satunya - memperbesar gambar implementasi -> baik, segera lakukan perbaikannya - bagian saran lebih baik memasukkan saran yang sudah jelas akan memperbagus hasil bukan hanya spekulasi (harus ada dasarnya) -> intinya saran ini adalah cara seperti apa untuk memperbaiki hasil-hasil pengujian yg belum optimal.  Saya ingin menanyakan perbaikan dokumen dan ppt dari saran berikut dilakukan sebelum sidang (sekarang) atau bersama revisi setelah sidang ya pak? -> buat dua versi [MHS], sebelum semhas dan dok.+ppt yg setelah semhas adalah yg sudah dilakukan perbaikan. ",1,1
 30/12/20,mahasiswa,"Baik pak, terima kasih atas reviewnya.   Saya juga ingin bertanya. Untuk penjadwalan sidang saya masih terkendala pada transkrip nilai karena belum keluar semua nilai saya pak. Apakah jika sampaik jadwal terakhir sidang saya masih belum bisa memenuhi transkrip tersebut saya harus mengurus perpanjangan pengerjaan skripsi agar bisa sidang atau bagaimana ya pak? ",1,1
 30/12/20,dosen,"Baik [MHS], saya cek di jadwal ujian skripsi FIlkomApp adalah berikut ",1,1
-30/12/20,dosen,<Media omitted>,1,1
+30/12/20,dosen,<DOC>,1,1
 30/12/20,dosen,dan disiado terakhir upload nilai MK 8 Jan. 2021,1,1
-30/12/20,dosen,<Media omitted>,1,1
+30/12/20,dosen,<DOC>,1,1
 30/12/20,dosen,Coba ditanyakan ke akademik apakah nanti ada memungkinkan untuk dijadwalkan antara tgl 9 sampai 13 Jan. 2021,1,1
 30/12/20,dosen,"Dari tanggal"" diatas, sepertinya masih cukup waktunya utk sidang sesuai jadwal di FIlkomApp. ",1,1
 30/12/20,mahasiswa,"Baik pak, akan saya tanyakan lebih lanjut kepada staf akademik terkait kemungkinan kesempatan penjadwalan tanggal berikut dan masalah transkrip nilai akhir tertanda tangan kaprodi sebagai syarat penjadwalan sidang. Terima kasih banyak atas perhatiannya. ",1,1
@@ -180,14 +176,14 @@ Terima kasih atas perhatian dan waktunya.",1,1
 5/1/21,dosen,"Sama"" [MHS]. ",1,1
 11/1/21,mahasiswa,"Selamat sore pak. Mohon maaf mengganggu. Saya [MHS] salah satu mahasiswa bimbingan skripsi Bapak.  Saya ingin memberi kabar bahwa nilai saya sudah diinputkan semua kemarin hari Minggu dan tadi pagi saya sudah mengajukan transkrip nilai saya ke kaprodi dan sudah ditandatangan sore ini. Sekarang saya sudah mengirimkan transkrip tersebut ke akademik prodi untuk penjadwalan ujian skripsi. Namun saya masih belum tahu kepastian apakah memang sempat terjadwalkan ujian semester ini.  Sekian yang ingin saya sampaikan. Jika ada salah kata, saya mohon maaf.  Salam. [MHS] ",1,1
 11/1/21,dosen,"Baik [MHS], mudah-mudahan akademik segera bisa menjadwalkan antara tgl 12/13 Januari 2021, sesuai dengan yang tertera di FIlkom App. Aamiin. ",1,1
-11/1/21,dosen,<Media omitted>,1,1
+11/1/21,dosen,<DOC>,1,1
 11/1/21,dosen,"Usahakan besok siang coba ditanyakan ke akademik terkait hal tersebut, lalu sampaikan hasilnya ke saya, jika ada kendala, saya akan coba bantu menghubungi akademik. ",1,1
 11/1/21,mahasiswa,"Baik pak, akan saya kabarkan lagi perkembangannya besok. Terima kasih banyak atas perhatiannya. ",1,1
 12/1/21,mahasiswa,"Selamat pagi pak. Mohon maaf mengganggu. Saya [MHS] salah satu mahasiswa bimbingan Bapak.  Saya ingin memberi kabar bahwa ujian skripsi saya sudah terjadwal dan sedang pada proses pembuatan surat undangan. Ujian skripsi saya akan diadakan pada hari Rabu tanggal 13 Januari 2021 pukul 10.30 WIB. Untuk surat undangan akan saya berikan kepada Bapak setelah undangan diterbitkan.  Sekian yang ingin saya sampaikan. Terima kasih atas perhatian Bapak. Jika ada salah kata, saya mohon maaf.  Salam, [MHS] ",1,1
 12/1/21,dosen,"Great, Baik [MHS], noted. Semoga lancar & sukses. Aamiin. ",1,1
 12/1/21,mahasiswa,"Amin. Baik pak, terima kasih banyak. ",1,1
 12/1/21,mahasiswa,"Selamat pagi. Mohon maaf mengganggu waktunya. Saya [MHS] selaku mahasiswa bimbingan skripsi Bapak.  Disini saya ingin mengundang bapak untuk dapat hadir pada ujian skripsi saya yang akan diadakan pada: Hari: Rabu Tanggal: 13 Januari 2021 Pukul: 10.30  Dengan bapak sebagai pembimbing I. Berikut juga saya lampirkan dokumen undangan ujian skripsi saya.  Sekian yang ingin saya sampaikan. Jika ada salah kata, saya mohon maaf.  Salam, [MHS] ",1,1
-12/1/21,mahasiswa,<Media omitted>,1,1
+12/1/21,mahasiswa,<DOC>,1,1
 12/1/21,dosen,"Baik [MHS]. Terimakasih.  Usahakan besok jam 07.00 ijin request link g-meet/zoom ke penguji ke-1. Tunggu sampai dibalas oleh beliau.  Jika sdh dapat link tersebut, silahkan dishare ke dosbing dan penguji ke-2. ",1,1
 12/1/21,mahasiswa,"Baik pak, akan saya lakukan besok. ",1,1
 13/1/21,mahasiswa,"Selamat pagi pak. Mohon maaf mengganggu waktunya. Saya [MHS] dari Teknik Informatika 2017 salah satu mahasiswa bimbingan Bapak.  Saya ingin meneruskan link zoom meeting untuk ujian skripsi hari ini yang diberikan oleh Pak [DOSEN]. Berikut link-nya  [DOSEN] A. Bachtiar is inviting you to a scheduled Zoom meeting.  Topic Ujian Skripsi [MHS] Time Jan 13, 2021 10 30 AM Jakarta  Join Zoom Meeting us02web.zoom.us/j/82824776061?pwd=dGVJb1FrVWkzSm9PSjdycnJCdzdLZz09  Meeting ID: 828 2477 6061 Passcode: Nu0Fw1  Sekian yang ingin saya sampaikan. Mohon maaf jika ada salah kata.  Salam, [MHS] ",1,1
@@ -200,6 +196,6 @@ Terima kasih atas perhatian dan waktunya.",1,1
 14/1/21,mahasiswa,You deleted this message,-1,1
 14/1/21,mahasiswa,"Selamat siang pak. Mohon maaf mengganggu. Saya [MHS] salah satu mahasiswa bimbingan skripsi Bapak.  Saya ingin memberi kabar bahwa form revisi saya sudah diberikan oleh akademik dan berikut poin-poin revisi yang diberikan 1. Pak [DOSEN]    a. Perbaiki latar belakang, permasalahan, typos    b. Cek kembali rumusan masalah, tujuan dan Batasan Masalah    c. Tambahkan dasar teori yang masih kurang    d. Perbaiki bab 3; arsitektur neural network    e. Tambahkan analisa hasil 2. Pak Randy    a. Jelaskan perihal pengumpulan data sedetail mungkin    b. Lakukan penambahan pengujian 1 (jumlah hidden neuron)    c. Hapus batasan masalah yang tidak relevan    d. Perbaikan penulisan laporan: sitasi    e. Jelaskan arsitektur JST yang digunakan  Dari poin-poin tersebut, saya ingin menanyakan untuk perbaikan pada saran Pak Randy poin b. Berhubung sebelumnya saya hanya menggunakan 3 pengujian nilai hidden neuron dan dianggap belum bisa memenuhi kriteria untuk menarik kesimpulan. Saya ingin meminta saran Bapak, sekiranya berapa minimal nilai hidden neuron yang diuji agar bisa ditarik kesimpulannya.  Sekian yang ingin saya sampaikan. Jika ada salah kata, saya mohon maaf.  Salam, [MHS] ",1,1
 14/1/21,dosen,"Baik [MHS], noted. Terkait 2.b, berdasarkan dari yg sudah ada berikut ",1,1
-14/1/21,dosen,<Media omitted>,1,1
+14/1/21,dosen,<DOC>,1,1
 14/1/21,dosen,"Saran saya, sebaiknya ditambahkan variasi misal menjadi 8-10 macam nilai hidden dgn kelipatan 50, misal 100, 150, 200, 250,, .. 500. ",1,1
 14/1/21,mahasiswa,"Baik pak, terima kasih atas sarannya. Akan segera saya kerjakan. ",1,1

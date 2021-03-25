@@ -1,0 +1,3 @@
+mahasiswa|Assalamualaikum pak, selamat siang, maaf menganggu, saya ingin bertanya, untuk pengujian Blackbox nya, memakai kasus uji yang bapak email waktu itu ya pak?|1
+dosen|Waalaikumussalam wrwb, tolong diperiksa kembali, jika kasus uji sudah tercover pada whitebox, maka sudah tidak perlu. Mungkin untuk pengujian blackbox bisa diisi untuk menguji aplikasi yg di-generate |1
+mahasiswa|Baik pak, terima kasih|1

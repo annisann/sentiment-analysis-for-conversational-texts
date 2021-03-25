@@ -1,0 +1,3 @@
+mahasiswa|Assalamuailaikum pak, Selamat sore, maaf menganggu waktunya, saya [MHS], mahasiswa Informatika angkatan 2016, ingin bertanya, pada bab 4 mengenai Analisis Domain, apakah bisa saya menerapkan isi analisisnya yang memakai Feature Diagram, dengan mengikuti dari jurnal seperti ini ya pak? <DOC> |1
+dosen|Waalaikumussalam wrwb, iya boleh|1
+mahasiswa|baik pak, terimakasih|1

@@ -1,0 +1,7 @@
+mahasiswa|Assalamualaikum Bu [DOSEN], selamat siang.. Saya ingin memberikan undangan kepada ibu untuk menjadi fasilitator seminar hasil skripsi saya yang akan dilaksanakan pada Rabu, 15 Juli 2020 pukul 09.00-10.00 bu. Apakah ibu bersedia? Terima kasih buu sebelumnya.. Wassalamualaikum Wr. Wb |1
+dosen|ok|1
+mahasiswa|baik buuu|1
+dosen|moga lancar ya....yg pntg perhatikan 8 poin penting yg hrs ada dislide|1
+mahasiswa|iyaa aamiinn makasih banyak yaa buu oiyaa bu mohon maaf 8 poin itu kira-kira apa saja yaa buu?|1
+dosen|Latar Belakang, Tujuan, Rumusan Masalah, Tinjauan Pustaka, Landasan Teori, Metodologi Penelitian, Pembahasan Hasil, Kesimpulan dan Saran |1
+mahasiswa|Ohhh, baik buuu siappp. Terima kasih buu☺️ |1
