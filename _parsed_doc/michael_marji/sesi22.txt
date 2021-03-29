@@ -1,0 +1,3 @@
+mahasiswa|<DOC> Assalamualaikum, Selamat pagi pak, maaf menganggu, saya [MHS], mahasiswa Teknik Informatika angkatan 2016, ingin memberi laporan bahwa tahap skripsi saya sudah sampai pada membuat jurnal, pada Skripsi saya yang berjudul "Pengembangan Domain Specific Language pada Aplikasi CRUD berbasis Web", berikut ini saya lampirkan jurnal saya, yang sudah saya buat. Mohon bapak bisa memberikan koreksi dan saran apabila masih ada kekurangan pada jurnal ini, Terima kasih |1
+dosen|Ya mas Waalaikumsalam |1
+mahasiswa|Pak, saya ingin bertanya, untuk tahap P2, apakah bapak bisa kiranya melengkapi penilaian dalam filkom apps? Terima kasih|-1

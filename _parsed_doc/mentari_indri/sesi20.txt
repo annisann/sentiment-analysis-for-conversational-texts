@@ -1,0 +1,4 @@
+dosen|<DOC> sdh saya komen |1
+mahasiswa|baik buu terima kasihh Assalamualaikum Wr. Wb. Selamat siang bu [DOSEN]. Mohon maaf mengganggu waktunya. Saya ingin memberikan revisi dokumen skripsi saya lagi buu. Berikut saya lampirkan poin revisinya yaa bu. Revisi: - perubahan NIK pada bu [DOSEN]ati menjadi NIP pada lembar pengesahan - perubahan urutan penulisan pada prakata - perubahan urutan ke-3 pada proses training (hal. 16) - perubahan gambar pada pengujian Nested Cross Validation menjadi bentuk shape (hal. 20 - hal. 21) - perubahan peletakan label kode program menjadi di bawah objek (hal. 87- hal. 115) Berikut saya lampirkan juga softcopy dari dokumen skripsi saya. Terima kasih buu sebelumnya Wassalamualaikum Wr. Wb. <DOC> |1
+dosen|Ok sip Dr saya ok |1
+mahasiswa|baik buu terima kasihh|1

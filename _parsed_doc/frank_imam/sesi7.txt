@@ -1,0 +1,11 @@
+mahasiswa|Selamat pagi Pak [DOSEN]. Mohon maaf mengganggu waktunya. Saya [MHS] salah satu mahasiswa bimbingan bapak.  Saya ingin memberi kabar bahwa saya sudah submit progress ppt p0 saya dan beberapa pertanyaan ke email bapak.  Dan juga saya ingin bertanya terkait log book pak, di FilkomApps untuk ruangan dan waktu tidak ada pilihan lainnya. Jadi kedua kolom itu diisi dengan apa ya pak?  Dan terkait progress p0, dosbing 2 (Pak [DOSEN]) menginginkan pertemuan langsung dengan kedua dosen pembimbing bersma dengan mahasiswa untuk menyamakan persepsi, apakah metode p0 nya akan diubah menjadi live dan bersamaan atau tetap menggunakan video ya pak?  Sekian yang ingin saya sampaikan. Jika ada salah kata, saya mohon maaf.  Salam, [MHS] |1
+dosen|Baik [MHS], noted. Mohon ditunggu P0 dari saya.  Apakah bisa discreenshot pilihan ruangan dan waktunya, lalu kirim ke WA saya?  Baik, usulan dari Pak [DOSEN], saya pertimbangkan dulu. |1
+mahasiswa|Baik pak. Berikut untuk screenshot pilihan ruangan dan waktu logbook. <DOC> |1
+dosen|Baik [MHS], saran saya untuk Lokasi/Ruang isikan dengan "Daring", waktu tinggal disesuaikan saja. Jika masih belum bisa, saya ijinkan untuk di isi by default. |1
+mahasiswa|Baik pak. Saya sudah membuat 3 logbook sesuai dengan ketentuan yang bapak berikan.|1
+dosen|Baik [MHS], noted. Utk P0-nya, saya setujui dilakukan daring (live), tlg siapkan link G-Meet dan buat jadwal saya dan P. [DOSEN] bisanya kapan. Terimakasih. |1
+mahasiswa|Baik pak. Jika dilihat dari jadwal Pak [DOSEN] di youcanbook.me, ada beberapa jadwal yang tersedia hari Kamis pak. Berikut jadwalnya. <DOC> Untuk Kamis sendiri, saya ada jadwal kelas hingga jam 10.20. Kira-kira, jadwal jam mana yang bisa digunakan ya pak untuk hari Kamis?  Dan karena dilakukan secara daring, apakah saya masih perlu mengumpulkan video pak?  |1
+dosen|Bgmn jika senin Mas? Senin, saya free  Tetap dikumpulkan cukup ke email saya saja. Tidak apa".  |1
+mahasiswa|Baik pak. Akan saya diskusikan dengan Pak [DOSEN] untuk waktu tepat untuk hari Senin. Terima kasih. Mohon maaf mengganggu lagi. Saya ingin mengabarkan bahwa saya sudah beribicara dengan Pak [DOSEN] dan konsultasi P0 live akan diadakan hari Senin pukul 10.00 WIB melalui Google Meet. Apakah bapak bersedia? |1
+dosen|Baik [MHS]. Terimakasih banyak.|1
+mahasiswa|Baik pak. Terima kasih kembali.|1

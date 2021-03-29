@@ -1,0 +1,9 @@
+dosen|Baik [MHS], lanjutkan dulu, mudah-mudahan hari ini bisa daftar semhas/sidang. |1
+mahasiswa|Baik Bapak, terima kasih banyak |1
+dosen|[MHS], sudah sampai mana dok. -nya? |1
+mahasiswa|Masih ditahap percobaan data Bapak|1
+dosen|Baik [MHS], lanjutkan dulu.  |1
+mahasiswa|Baik Bapak, terima kasih |1
+dosen|Alhamdulillah, ada perpanjangan Pendaftaran Semhas/Ujian Aug 15, 2020 - Dec 30, 2020 |1
+mahasiswa|Baik Bapak, insyaallah saya bisa selesai sebelum 30 desember |1
+dosen|Aamiin Yaa Robbal 'Aalamiin.|1.0

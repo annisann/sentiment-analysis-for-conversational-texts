@@ -1,3 +1,0 @@
-mahasiswa|Assalamualaikum pak, selamat sore, maaf mengganggu, saya , ingin menyampaikan, bahwa pengujian whitebox untuk Code Generator sudah saya selesaikan, dan sudah saya lampirkan dalam dokumen skripsi, file nya sudah saya kirim ke email bapak, mungkin apabila masih ada kurang dan salah, bapak bisa menambahkan, terimakasih|1
-dosen|Waalaikumussalam wrwb, dokumen masih belum saya periksa|1
-mahasiswa|Baik pak|1

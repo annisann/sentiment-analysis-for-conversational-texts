@@ -1,5 +1,0 @@
-mahasiswa|Assalamualaikum Wr. Wb. Selamat pagi Bu, mohon maaf mengganggu waktunya. Saya ingin bertanya bu, kira-kira apakah ibu ada waktu untuk konsultasi progress skripsi saya untuk hari ini? Terima kasih bu untuk sebelum dan sesudahnya.. Wassalamualaikum |1
-dosen|waalaikumsalam ok |1
-mahasiswa|baik buu, berikut saya lampirkan dokumen skripsi terakhir saya beserta screenshoot programnya <DOC> <DOC> terima kasih buu.. |1
-dosen|Untuk yg bab 5 penulisan kode program labelnya seharusnya kode program saja bukan Gambar Jd mis Kode Program 5.1 Normalisasi Data Jd labelnya dipisah dr gambar sehingga nanti ada daftar kode program yg lainnya sudah sesuai |1
-mahasiswa|baik buu, segera saya perbaiki  terimakasih bu [DOSEN].. |1

@@ -1,0 +1,10 @@
+dosen|[MHS] judulmu apa ada perubahan?|1
+mahasiswa|Tidak ada bu. Jadi yg location based service Asal ada pendukungnya kata pak Komang ngga apa2. Pendukungnya sudah saya masukkan jg ke bab 2 |1
+dosen|Ok [MHS] saya blm bs masukin p2 soalnya logbookmu masih kurang |1
+mahasiswa|Yg pak komang belum masuk ya bu? Perlu saya hubungi pak Komang, bu?  |1
+dosen|Iya pak komang kurang 1|1
+mahasiswa|Belum diacc bu logbook saya dgn pak Komang|1
+dosen|Iya gpp masi sampe besok batas p2nya|1
+mahasiswa|Ooo oke bu. Saya hubungi pak Komang ya?|1
+dosen|Iya|1
+mahasiswa|Baik bu|1

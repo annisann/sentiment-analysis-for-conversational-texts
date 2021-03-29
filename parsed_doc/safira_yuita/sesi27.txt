@@ -1,7 +1,0 @@
-dosen|Baik [MHS] maaf saya baru selesai kelas 😀 |1
-mahasiswa|Iya Bu tidak apa-apa😊|1
-dosen|[MHS], tampaknya revisinya banyak di bagian latar belakang kalau dari penguji ya. Kemarin [MHS] sudah mencoba mencari metode klasifikasi-klasifikasi apa belum? misal Naive Bayes dengan KNN yang hasilnya Naive Bayes lebih tinggi? Itu bisa buat referensi |1
-mahasiswa|Belum Bu untuk perbandingan metode Naive Bayes dengan KNN. Ini saya tambahkan pada bagian latar belakang ya Bu? |1
-dosen|iya [MHS]. Dicoba dulu saja dicari referensinya ya. Nanti ditambahkan dulu.|1
-mahasiswa|Baik Bu kalau begitu. Terima kasih🙏|1
-dosen|Sama-sama [MHS]|1

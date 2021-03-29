@@ -1,7 +1,0 @@
-mahasiswa|Baik Pak [DOSEN]. Lalu untuk P0 menunggu hasil revisi latar belakang terlebih dahulu atau sudah bisa saya ajukan Pak?|1
-dosen|hasil revisi saja yang nanti di p0 kan sekalian, minggu depan ya p0 |1
-mahasiswa|Baik pak [DOSEN]. Untuk P0nya bersamaan dengan dosen pembimbing 2 atau tidak, pak?|1
-dosen|sebisa mungkin bersama|1
-mahasiswa|Baik Pak [DOSEN], akan saya sampaikan ke Bu dosen. Terimakasih banyak, Pak.|1
-dosen|Kamis minggu depan jam 9:00 WIB ya p0 disiapkan |1
-mahasiswa|Baik Pak |1

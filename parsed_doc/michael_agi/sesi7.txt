@@ -1,3 +1,0 @@
-mahasiswa|Assalamualaikum pak, selamat sore, maaf mengganggu, saya, mahasiswa bimbingan skripsi yang bapak bimbing, saya ingin bertanya, untuk perancangan DSL, dalam penulisannya di skripsi, dibagi ke dalam tiap fitur atau tiap halaman, seperti halaman daftar, halaman tambah data, seperti itu ya pak?|1
-dosen|Waalaikumussalam wrwb, tidak perfitur/perhalaman, tetapi cukup rancangan satu grammar saja. Dalam satu grammar tersebut mencakup semua atribut deklaratif untuk men-generate aplikasi. Jika butuh judul halaman, maka pada grammar bisa ditambahkan atribut "judul" misalnya. Untuk perancangan code generator-nya, bisa kalau mau dipisah perfitur/perhalaman |1
-mahasiswa|baik pak, terimakasih untuk informasinya|1

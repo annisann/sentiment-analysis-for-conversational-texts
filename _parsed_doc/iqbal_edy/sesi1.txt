@@ -1,0 +1,3 @@
+mahasiswa|Assalamualaikum Wr. Wb. Selamat siang Pak . Mohon maaf mengganggu waktu Bapak. Saya [MHS] salah satu bimbingan Bapak. Mohon maaf sebelumnya, Izin bertanya terkait proposal yang saya kirim kemarin Pak. Apakah terdapat revisi atau saran dari Bapak terkait proposal saya Pak? Kemudian izin bertanya juga terkait jadwal P0, kapan waktu Bapak bersedia untuk saya P0 Pak? Terima kasih Pak .|1
+dosen|Seluruh Gambar dan Tabel harus dirujuk di kalimat agar tidak sekedar tempel. Contoh Tabel 2.1. dst . Tahapan Tokenisasi dapat ditunjukkan pada Gambar 2.1. (bukan Table 2.1 --> ubah ke dalam bahasa indonesia). Gunakan cara yg sama untuk seluruh tabel |1
+mahasiswa|Baik Pak. Saya perbaiki kembali proposal saya Pak. Terima kasih banyak Pak .|1

@@ -1,0 +1,5 @@
+mahasiswa|Assalamualaikum, selamat pagi bu [DOSEN]. Hari ini saya mau memberikan undangan utk sidang saya hari Kamis pagi, bu. Kalau boleh tau, ibu bisa ditemui jam berapa ya bu untuk hari ini? Terima kasih bu, mohon maaf mengganggu |1
+dosen|Wass. Jam 12 sj|1
+mahasiswa|Baik bu terima kasih Selamat siang, bu [DOSEN], mohon maaf bu, ternyata dari akademik baru selesai proses undangannya jam 2 siang nanti  |1
+dosen|Ya nanti tlg ditaruh meja saya|1
+mahasiswa|Baik bu terima kasih|1

@@ -1,0 +1,6 @@
+dosen|Assalamu'alaikum Wr. Wb. [MHS], apakah sudah ada draft dok. skripsi utk diprogresskan ke saya? |1
+mahasiswa|Waalaikumsalam Pak [DOSEN], Bapak maaf tapi saya bab 6 sedang mencoba data 1 per 1. Jadi saya masih stuck di Bab 6 pak, bagaimana ya pak? |1
+dosen|Baik [MHS], sudah berapa skenario pengujian yg sudah selesai? |1
+mahasiswa|Baru 40 data pak, apakah untuk dokumen saya mengirimkan bab 5 terlebih dahulu pak atau nanti saja menunggu hingga selesai bab 7 ya Pak? |1
+dosen|nanti saya menunggu sampai bab 7. Skenario pengujian [MHS], apa saja?  |1
+mahasiswa|Baik Bapak, saya melakukan pengujian pada nilai k dengan 5-fold cross validation dan pengujian pengaruh nilai threshold seleksi fitur information gain |1.0

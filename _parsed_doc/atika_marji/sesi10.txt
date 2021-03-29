@@ -1,0 +1,3 @@
+mahasiswa|Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Saya [MHS] dari TIF 17. Pada Filkom apps untuk verifikasi proposal dan logbook bimbingan menunggu dari persetujuan Bapak, sekiranya apakah Bapak bersedia untuk validasi? Terima kasih banyak Bapak |1
+dosen|<DOC>|1
+mahasiswa|Baik Bapak terima kasih banyak|1

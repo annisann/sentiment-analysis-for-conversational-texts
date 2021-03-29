@@ -1,4 +1,0 @@
-dosen|Baik [MHS], saran saya Word Embeddingnya digunakan keseluruhan dan pada pengujian akhir nanti ada perbandingan dgn vs tanpa Word Embedding |1
-mahasiswa|Baik pak, terima kasih. Selanjutnya, untuk pra proposalnya juga sudah selesai saya susun, dikumpulkan langsung ke Filkom Apps atau melalui WA terlebih dahulu ya pak? |1
-dosen|Baik [MHS], silahkan diupload langsung ke Filkom App. *Mohon nanti implementasinya buat dengan "Add-Ins" dengan Node.js atau Visual Studio 2019 pada MS-Word, lihata dari docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/word-quickstart?tabs=yeomangenerator  *lihat |1
-mahasiswa|Baik pak. Terima kasih atas sarannya.|1

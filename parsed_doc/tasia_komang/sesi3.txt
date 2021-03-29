@@ -1,2 +1,0 @@
-mahasiswa|Selamat siang, pak [DOSEN]. Mohon maaf mengganggu waktunya. Saya [MHS] salah satu mahasiswa bimbingan bapak, TIF 2017. Saya ingin bertanya terkait point-point latar belakang yang perlu saya perbaiki. Saya konsultasikan kembali dengan Bu dosen atau bagaimana, pak? Terimakasih, mohon bimbingannya Pak.|1
-dosen|benar, dikonsultasikan dengan Bu [DOSEN] dl, nanti hasil revisinya baru ditunjukkan ke saya|1
