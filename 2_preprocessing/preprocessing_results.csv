@@ -1237,7 +1237,7 @@ messages,sentiment,session_index
 "['iya', 'pindah', 'lampir', 'draft', 'siet', 'doc', 'mohon', 'maaf', 'tunggu']",1.0,411
 "['[MHS]', 'besok', 'cek', 'ulang', 'iya', 'agustus', 'terima', 'kasih', 'iya']",1.0,411
 "['iya', 'terima', 'kasih']",1.0,411
-"['selamat', 'pagi', '[MHS]', 'mohon', 'maaf', 'butuh', 'ngecek', 'minggu', 'kemarin', 'padat', 'betul', 'iya', '[MHS]', 'komen', 'tulis', 'sitasinya', 'sesuai', 'contoh', 'tulis', 'sitasi', 'bentuk', '', '', 'dan terus', 'daftar', 'referensi', 'tulis', 'dasar', 'abjad', 'muncul', 'angka']",1.0,412
+"['selamat', 'pagi', '[MHS]', 'mohon', 'maaf', 'butuh', 'ngecek', 'minggu', 'kemarin', 'padat', 'betul', 'iya', '[MHS]', 'komen', 'tulis', 'sitasinya', 'sesuai', 'contoh', 'tulis', 'sitasi', 'bentuk', 'dan terus', 'daftar', 'referensi', 'tulis', 'dasar', 'abjad', 'muncul', 'angka']",1.0,412
 "['iya', 'baik', 'terima', 'kasih']",1.0,412
 ['sip'],1.0,412
 "['[DOSEN]', 'maaf', 'izin', 'lambat', 'bimbing', 'skripsi', 'sama', 'bimbing', 'pkl', 'terima kasih', 'maaf', 'ganggu']",-1.0,413
