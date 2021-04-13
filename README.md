@@ -8,5 +8,9 @@
 ## preprocessing
 1. output tokennya bakal kosong karena banyak hal yang diremove pas cleaning.
     - solution: link gak diapus tapi diganti jadi <link>, etc
+
+## TF-IDF
+1. not per session (trying to solve)
+
 # UPDATE
 - upload parsed_doc fix, double checked udah bener semua. karna sebelumnya masih ada '... omitted' (diganti jadi <DOC>) dan miss lainnya.
