@@ -1,4 +1,0 @@
-dosen|Saya sedang menghubungi pak [DOSEN], [MHS] Kemarin beliau sudah merespon kah? |1
-mahasiswa|Oh iya Bu. Saya juga barusan menghubungi Pak [DOSEN] lagi.|1
-dosen|Baik, kita tunggu beliau|1
-mahasiswa|Kemarin sudah saya konfirmasi, dan sudah memberi linknya Bu.|1

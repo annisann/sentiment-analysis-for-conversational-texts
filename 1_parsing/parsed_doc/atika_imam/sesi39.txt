@@ -1,7 +1,0 @@
-mahasiswa|Assalamualaikum Wr Wb, mohon maaf mengganggu waktunya Pak [DOSEN]. Ingin bertanya, untuk data saya hampir semua hasil akurasi 75% pak untuk hal tersebut apakah tidak apa-apa Pak? Terima kasih banyak Bapak atas waktunya |1
-dosen|Wa'alaikumsalam Wr. Wb. Baik [MHS], apakah bisa ditunjukkan ke saya? |1
-mahasiswa|<DOC>|1
-dosen|Baik [MHS], nanti di kesimpulan atau di abstrak sebutkan yg tertinggi saja yaitu 80,83. 2 dari berapa macam nilai threshold? Ini skenario pengujian terakhir?  Tidak apa" menggunakan  k yg sdh selesai saja, ambil hasil tertinggi untuk pengujian selanjutnya. Di mana kombinasi dari nilai akurasi tertinggi simpan pasangan fold data latih data uji, jika memang masih ada pengujian berikutnya.  Kira butuh waktu berapa lama", usahakan jgn malam", karena butuh juga approve dari dosbing ke-2 jika daftar semhas.  |1
-mahasiswa|Dari 3 threshold pak. Iya Bapak ini pengujian terakhir Baik Bapak Bapak maaf tetapi untuk SKM saya juga masih belum diverifikasi akademik pak |1
-dosen|Baik [MHS], coba fokus dulu dipendaftaran semhas/sidang di FilkomApp.  Mudah-mudahan ini bisa disusul kemudian. |1
-mahasiswa|Baik Bapak|1.0

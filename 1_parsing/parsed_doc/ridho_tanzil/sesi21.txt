@@ -1,3 +1,0 @@
-mahasiswa|Assalamu’alaikum pak [DOSEN], saya sudah melakukan implementasi. Tetapi hasil yang saya dapatkan untuk MAPEnya cukup besar. Apakah pak  mempunya saran untuk kodingan saya? Terima kasih|1
-dosen|Data yg digunakan semua?|1
-mahasiswa|Sesuai dengan fitur yg saya ambil pak. Misalkan saya menggunakan 3 fitur, maka data saya kurangi 3 agar menghindari kekosongan data|-1

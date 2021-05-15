@@ -1,3 +1,0 @@
-mahasiswa|Assalamualaikum pak, Selamat sore, maaf mengganggu waktunya, saya , mahasiswa Informatika angkatan 2016 ingin bertanya, dalam menu upload proposal Skripsi pada Filkom Apps, saya harus memasukkan judul skripsi saya, untuk judulnya apakah mengikuti judulnya yang lama, atau memakai judul yang baru, yaitu "Pengembangan Domain Specific Language untuk Aplikasi CRUD berbasis Web"? Terimakasih|1
-dosen|Waalaikumussalam wrwb, menggunakan judul baru|1
-mahasiswa|Baik pak, terimakasih|1

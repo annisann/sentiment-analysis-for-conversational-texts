@@ -1,6 +1,0 @@
-mahasiswa|Assalamualaikum Wr.Wb.Bu. Selamat Pagi dan mohon maaf mengganggu waktu Ibu. Saya mau melampirkan dokumen skripsi saya sekiranya Ibu cek terlebih dahulu. Sebelumnya, saya sudah ke dosen 2 dan beliau menyarankan untuk dicek ke Bu  dahulu sebelum diajukan ke semhas. Terima kasih Bu🙏|1
-dosen|Waalaikumsalam wr wb Baik  |1
-mahasiswa|Berikut saya lampirkan dokumen saya Bu. <DOC> |1
-dosen|<DOC> [MHS] ini beberapa revisi dari saya, dikerjakan dulu revisinya ya. Beberapa krusial termasuk rumusan masalah. Oh ya, misalnya kalau sempat nanti coba ditambahkan juga informasi apa saja term-term yang mengandung sentimen positif dan apa saja term-term yang mengandung sentimen negatif. kemudian bisa dihubungkan dengan hasil seleksi fitur, seleksi fitur yang ada itu tergolong berapa persen pengaruhnya ke sentimen positif dan berapa persen pengaruhsnya ke sentimen negatif sekalian buat mempersiapkan ujian nanti sebisanya, minggu ini diselesaikan minggu depan maksimal mendaftar. Senin kalau bisa |1
-mahasiswa|Oh iya baik Bu. Akan saya kerjakan. Terima kasih Bu🙏|1
-dosen|Sama-sama|1

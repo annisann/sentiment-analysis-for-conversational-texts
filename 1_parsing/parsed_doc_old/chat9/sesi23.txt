@@ -1,4 +1,0 @@
-dosen|Hasil revisi terakhir masih perlu diperbaiki penulisan algoritmanya, karena masih belum bisa dibaca sesuai kaidah penulisan algoritma menggunakan flowchart.|-1
-mahasiswa|Mohon maaf Pak, itu untuk semua flowchart atau tertentu saja?|1
-dosen|Klo bisa penulisan algoritma jangan hanya sekedar layaknya alur proses, dari satu tahap ke tahap lain, tapi ditunjukkan lebih detil, apalagi ditulis dalam skripsi yang tentunya perlu ditunjukkan proses detilnya.|-1
-mahasiswa|Baik Pak. Akan saya perbaiki. Terima kasih🙏. Assalamualaikum Wr.Wb. Pak. Selamat siang dan mohon maaf mengganggu waktu Bapak. Berikut dokumen skripsi saya yang sudah saya perbaiki. Terima kasih Pak🙏 ‎ <document omitted> |-1

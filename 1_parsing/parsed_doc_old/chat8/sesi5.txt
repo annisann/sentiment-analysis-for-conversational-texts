@@ -1,7 +1,0 @@
-mahasiswa|Assalamu’alaikum pak , untuk bimbingan skripsi apakah ada jadwalnya atau tidak? Terima kasih|1
-dosen|Wa'alaykumsalam.. Silakan bs sewaktu2|1
-mahasiswa|Besok apakah bapak membuka bimbingan? Saya sudah mengerjakan manualisasi tetapi hasil errornya sangat tinggi, ingin menanyakan mengenai hal tersebut|1
-dosen|Ok|1
-mahasiswa|Sekiranya jam berapa ya pak?|1
-dosen|Silahkan dikirim sj dokumennya|-1
-mahasiswa|Baik pak, saya rapihkan dulu. Besok saya kirim excel dengan berbagai fitur yang berbeda|1

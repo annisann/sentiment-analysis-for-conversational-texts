@@ -1,5 +1,0 @@
-mahasiswa|Assalamualaikum Wr. Wb. Selamat pagi pak. Maaf mengganggu waktunya. Saya ingin bertanya terkait mata kuliah induksi riset kelas bapak, apakah semester ini akan diadakan pak? Terimakasih pak untuk sebelum dan sesudahnya |1
-dosen|Wa'alaikumsalam Wr. Wb. Masih saya pertimbangkan.|1
-mahasiswa|Baik pak. Saya ingin bertanya juga pak terkait skripsi saya, setelah eksplorasi lebih lanjut sepertinya saya tidak jadi menggunakan Metode ANFIS pak. sebagai gantinya saya akan menggunakan ELM dengan optimasi Algoritma Genetika, mungkin sekiranya bapak ada masukan? Terima kasih pak |1
-dosen|Coba ELMnya gunakan yg "kernel ELM", tlg cari papernya utk direview. |1
-mahasiswa|baik terima kasih pak untuk jurnalnya akan saya baca dulu apakah bisa atau tidak..|1

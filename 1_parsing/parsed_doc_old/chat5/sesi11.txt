@@ -1,7 +1,0 @@
-mahasiswa|<Media tidak disertakan> Assalamualaikum, Selamat siang pak, maaf menganggu, saya , mahasiswa Teknik Informatika angkatan 2016, Saya ingin menyampaikan progress skripsi saya yang berjudul "Pengembangan Domain Specific Language pada Aplikasi CRUD berbasis Web" Skripsi saya saat ini sudah memasuki tahap pengujian whitebox, dan hasilnya 100% valid, Terimakasih |1
-dosen|programnya pakai apa mas ?|1
-mahasiswa|pakai bahasa PHP pak|1
-dosen|dospem 1 nya siapa ?|1
-mahasiswa|Dospem 1 nya bapak dosen, pak|1
-dosen|data yg digunakan ada berapa ?|1
-mahasiswa|untuk data nya saya memakai contoh dari jurnal, 1 data dari jurnal tersebut Sekiranya apakah ada yang perlu saya tambahkan pada Skripsi saya, pak? |-1

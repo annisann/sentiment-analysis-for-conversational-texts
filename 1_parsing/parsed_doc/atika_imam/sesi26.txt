@@ -1,3 +1,0 @@
-mahasiswa|Assalamualaikum Wr Wb, mohon maaf mengganggu waktunya Pak [DOSEN] ingin bertanya untuk P1 pada chat Bapak kemarin untuk P1 menyelesaikan bab 1-bab 4. Namun, untuk melakukan P1 kepada Bapak apakah harus menyelesaikan codingan hingga confunsion matrix Pak? Untuk dokumen bab 4 saya sudah selesai, namun untuk codingan masih jalan pada bagian klasifikasi dan evaluasi. Terima kasih banyak atas waktunya Pak [DOSEN] |1
-dosen|Wa'alaikumsalam Wr. Wb. Baik [MHS], "harus menyelesaikan codingan hingga confunsion matrix" <-- ini benar. Lanjutkan dulu. |1
-mahasiswa|Baik Bapak, terima kasih banyak informasinya |1.0

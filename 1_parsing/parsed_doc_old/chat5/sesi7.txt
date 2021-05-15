@@ -1,5 +1,0 @@
-mahasiswa|<Media tidak disertakan> Assalamualaikum, Selamat pagi pak, maaf menganggu, saya , mahasiswa Teknik Informatika angkatan 2016, apakah bapak pada hari ini ada waktu kosong? Saya ingin melakukan konsultasi terkait Skripsi saya yang berjudul "Pengembangan Domain Specific Language pada Aplikasi CRUD Berbasis Web" untuk persiapan menuju P2, berikut ini saya lampirkan dokumen skripsi saya, Terima kasih |-1
-dosen|Minat apa mas ?|-1
-mahasiswa|Keminatan saya Rekayasa Perangkat Lunak pak|1
-dosen|Literaturnya ada yg terindex scopus ?|1
-mahasiswa|Ada pak, yaitu: Kosar, Tomaž & Bohra, Sudev & Mernik, Marjan. (2015). Domain-Specific Languages: A Systematic Mapping Study. Information and Software Technology. referensi dari scopus lainnya ada dari: Computer Science and Information Systems Kosar, T., Oliveira, N., Mernik, M., Pereira, V. J., Črepinšek, M., & Da, C. D.,2015. Comparing general-purpose and domain-specific languages: An empirical study. Computer Science and Information Systems, 247-264. |-1

@@ -1,1 +1,0 @@
-dosen|https://www.researchgate.net/publication/326571864_Analisis_Sentimen_Pada_Review_Konsumen_Menggunakan_Metode_Naive_Bayes_Dengan_Seleksi_Fitur_Chi_Square_Untuk_Rekomendasi_Lokasi_Makanan_Tradisional|-1

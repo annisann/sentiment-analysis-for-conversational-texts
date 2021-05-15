@@ -1,5 +1,0 @@
-dosen|Maaf  baru merespon kembali. Berarti karakteristik datanya memengaruhi. Coba nanti dilihat lagi hasil ekstraksi fitur (term/token) yang dihasilkan baik yang menggunakan seleksi fitur maupun tidak, apakah ada potensi bahwa fitur tersebut merupakan term yang tidak penting?. Bisa juga data yang kadakteristiknya sejenis ditambah. Kemudian dicek lagi pengaruh atau tidak. kalau kondisinya demikian, data latihnya dibuat pengujian tak apa. Sebagai catatan pribadi saja dulu sementara |1
-mahasiswa|Oh iya baik Bu kalau begitu. Terima kasih🙏|1
-dosen|iya . semangat ya|1
-mahasiswa|Iya Bu😊|1
-dosen|ok|1

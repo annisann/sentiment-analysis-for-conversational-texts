@@ -1,3 +1,0 @@
-dosen|Michael, untuk fungsi search, export, list, pagination apakah juga diimplementasikan?|1
-mahasiswa|Tidak pak|1
-dosen|Oke|1
