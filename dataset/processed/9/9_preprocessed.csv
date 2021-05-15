@@ -1,0 +1,128 @@
+,timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi,session_index,file_index,preprocessed
+0,[14/02/20 13.08.01],mahasiswa,"Assalamu’alaikum Pak [DOSEN], perkenalkan saya [MHS] dari Informatika 2016. Saya mahasiswa bimbingan skripsi bapak yang mengajukan topik mengenai omzet rumah makan. Saya ingin memberitahukan bahwa saya sudah mengupload praproposal pada filkom apps. Mohon maaf jika ada salah kata dan mengganggu waktu bapak. Terima kasih",1,-1,0,9,"['assalamu', 'alaikum', 'dosen', 'kenal', 'mahasiswa', 'informatika', '2016', 'mahasiswa', 'bimbing', 'skripsi', 'aju', 'topik', 'kena', 'omzet', 'rumah', 'makan', 'memberitahukan', 'mengupload', 'praproposal', 'filkom', 'apps', 'mohon', 'maaf', 'salah', 'ganggu', 'terima', 'kasih']"
+1,[21/02/20 14.23.38],mahasiswa,"Assalamu’alaikum, mohon maaf mengganggu waktunya pak. Saya [MHS] mahasiswa bimbingan bapak. Apakah hari ini saya bisa bimbingan ke bapak? Saya ingin menanyakan juga mengenai filkom apps saya yg mungkin terjadi bug. Mohon maaf mengganggu waktunya pak, terima kasih banyak",1,1,1,9,"['assalamu', 'alaikum', 'mohon', 'maaf', 'ganggu', 'mahasiswa', 'mahasiswa', 'bimbing', 'bimbing', 'kena', 'filkom', 'apps', 'bug', 'mohon', 'maaf', 'ganggu', 'terima', 'kasih']"
+2,[21/02/20 14.39.52],dosen,Wa'alaykumsalam. InsyaAllah hari Selasa siang ya.. Permasalahan apa di appsnya?,1,1,2,9,"['wa', 'alaykumsalam', 'insyaallah', 'selasa', 'siang', 'iya', 'appsnya']"
+3,[21/02/20 14.40.56],mahasiswa,<DOC>,1,1,3,9,['doc']
+4,[21/02/20 14.41.03],mahasiswa,<DOC>,1,1,4,9,['doc']
+5,[21/02/20 14.41.22],mahasiswa,"Pada tampilan tersebut pak [DOSEN], sudah bersedia. Mohon maaf bila ada salah kata pak. Terima kasih",1,1,5,9,"['tampil', 'dosen', 'sedia', 'mohon', 'maaf', 'salah', 'terima', 'kasih']"
+6,[21/02/20 14.42.00],dosen,Mgkn belum diplot dosbing 2 nya oleh KPS,1,1,6,9,"['plot', 'dosen pembimbing', '2', 'nya', 'kps']"
+7,[21/02/20 14.44.34],mahasiswa,"Ohh begitu ya pak, terima kasih atas infonya. Mohon maaf mengganggu waktunya pak",1,1,7,9,"['oh', 'iya', 'terima', 'kasih', 'informasi', 'mohon', 'maaf', 'ganggu']"
+8,[25/02/20 15.02.47],mahasiswa,"Assalamu’alaikum Pak [DOSEN], saya  mahasiswa bimbingan skripsi bapak. Saya ingin menanyakan apakah hari ini saya bisa bimbingan ke bapak? Mohon maaf bila ada salah kata dan mengganggu waktu bapak. Terima kasih",1,-1,8,9,"['assalamu', 'alaikum', 'dosen', 'mahasiswa', 'bimbing', 'skripsi', 'bimbing', 'mohon', 'maaf', 'salah', 'ganggu', 'terima', 'kasih']"
+9,[30/03/20 10.45.30],mahasiswa,"Assalamu’alaikum pak , mohon maaf mengganggu waktunya. Untuk bimbingan onlinenya prosedurnya seperti apa ya pak? Terima kasih",1,1,9,9,"['assalamu', 'alaikum', 'mohon', 'maaf', 'ganggu', 'bimbing', 'onlinenya', 'prosedur', 'iya', 'terima', 'kasih']"
+10,[30/03/20 11.41.44],dosen,Wa'alaykumsalam. Bisa bimbingan via wa ini,1,1,10,9,"['wa', 'alaykumsalam', 'bimbing', 'via', 'wa']"
+11,[30/03/20 12.35.22],mahasiswa,Pengumpulan progresnya dikumpulkan melalui wa jg pak?,1,1,11,9,"['kumpul', 'progres', 'kumpul', 'wa']"
+12,[30/03/20 13.12.06],dosen,Iya,1,1,12,9,['iya']
+13,[30/03/20 13.12.06],dosen,Laporannya,1,1,12,9,['lapor']
+14,[30/03/20 13.46.50],mahasiswa,"Baik pak, terima kasih atas informasinya",1,1,13,9,"['terima', 'kasih', 'informasi']"
+15,[27/07/20 12.26.42],mahasiswa,"Assalamu'alaikum Pak . Saya [DOSEN] dari Informatika 2016 sebagai mahasiswa bimbingan skripsi bapak. Saya mohon maaf sebesar besarnya karena sebagai tidak ada kabar, disebabkan laptop saya terkena ransomeware (.lezp) sehingga semua data pada laptop saya terenkripsi dan saya tidak bisa membukanya, pada skripsinya sudah berhasil saya backup secara berkala, tetapi pada data yang saya gunakan hilang karena saya lupa dibackup. Baru minggu kemarin saya mendapat izin dari orangtua saya kembali ke malang agar dapat mengambil data saya kembali. Saya bertujuan untuk melanjutkan judul saya pada semester depan, dan mengajukan Bapak  menjadi pembimbing saya lagi. Apakah bapak bersedia menjadi dosen pembimbing saya pada semester depan? Sekali lagi saya minta maaf, terima kasih atas waktunya. Wassalamu'alaikum wr wb",1,1,14,9,"['assalamu', 'alaikum', 'dosen', 'informatika', '2016', 'mahasiswa', 'bimbing', 'skripsi', 'mohon', 'maaf', 'kabar', 'laptop', 'kena', 'ransomeware', 'lezp', 'data', 'laptop', 'enkripsi', 'buka', 'skripsi', 'hasil', 'backup', 'data', 'hilang', 'lupa', 'dibackup', 'minggu', 'kemarin', 'izin', 'orangtua', 'malang', 'ambil', 'data', 'tuju', 'judul', 'semester', 'aju', 'bimbing', 'sedia', 'dosen', 'bimbing', 'semester', 'maaf', 'terima', 'kasih', 'wassalamu', 'alaikum', 'wr', 'wb']"
+16,[27/07/20 19.56.16],dosen,"Wa'alaykumsalam. Knp lama sekali ga ada kabar dan baru skrg beri kabar? Sebaiknya selalu komunikasi dgn dosen pembimbing, terutama jika ada masalah atau kendala. Jika mmg ingin msh ttp sbg pembimbing skripsi anda, maka harus rutin utk konsultasi, apapun progres yg sdh anda kerjakan, baik ada kendala maupun tidak..",-1,1,15,9,"['wa', 'alaykumsalam', 'ga', 'kabar', 'kabar', 'komunikasi', 'dosen', 'bimbing', 'utama', 'kendala', 'mmg', 'sbg', 'bimbing', 'skripsi', 'rutin', 'konsultasi', 'progres', 'kerja', 'kendala']"
+17,[27/07/20 20.00.22],mahasiswa,"Mohon maaf pak, saya pikir saya boleh ke malang pada april akhir trrnyata tidak boleh. Selanjutnya saya akan selalu berkonsultasi mengenai semua progresnya pak🙏",1,1,16,9,"['mohon', 'maaf', 'pikir', 'malang', 'april', 'konsultasi', 'kena', 'progres']"
+18,[27/07/20 20.01.58],dosen,Ok,1,1,17,9,['oke']
+19,[27/07/20 20.02.10],dosen,Komitmen anda sy catat ya..,1,1,18,9,"['komitmen', 'catat', 'iya']"
+20,[27/07/20 20.02.17],mahasiswa,"Terima kasih banyak pak, baik",1,1,19,9,"['terima', 'kasih']"
+21,[04/08/20 13.41.27],mahasiswa,"Assalamu’alaikum pak [DOSEN], untuk bimbingan skripsi apakah ada jadwalnya atau tidak? Terima kasih",1,1,20,9,"['assalamu', 'alaikum', 'dosen', 'bimbing', 'skripsi', 'jadwal', 'terima', 'kasih']"
+22,[04/08/20 14.02.57],dosen,Wa'alaykumsalam.. Silakan bs sewaktu2,1,1,21,9,"['wa', 'alaykumsalam', 'sila', 'sewaktu-waktu']"
+23,[04/08/20 14.04.39],mahasiswa,"Besok apakah bapak membuka bimbingan? Saya sudah mengerjakan manualisasi tetapi hasil errornya sangat tinggi, ingin menanyakan mengenai hal tersebut",1,1,22,9,"['besok', 'buka', 'bimbing', 'kerja', 'manual', 'hasil', 'errornya', 'kena']"
+24,[04/08/20 14.07.08],dosen,Ok,1,1,23,9,['oke']
+25,[04/08/20 14.07.53],mahasiswa,Sekiranya jam berapa ya pak?,1,1,24,9,"['sekira', 'jam', 'iya']"
+26,[04/08/20 14.08.44],dosen,Silahkan dikirim sj dokumennya,-1,1,25,9,"['silah', 'kirim', 'dokumen']"
+27,[04/08/20 14.09.53],mahasiswa,"Baik pak, saya rapihkan dulu. Besok saya kirim excel dengan berbagai fitur yang berbeda",1,1,26,9,"['rapihkan', 'besok', 'kirim', 'excel', 'fitur', 'beda']"
+28,[05/08/20 09.36.55],mahasiswa,<DOC>,1,1,27,9,['doc']
+29,[05/08/20 09.37.02],mahasiswa,"Assalamu'alaikum pak [DOSEN], berikut saya lampirkan mengenai dokumen manualisasi saya, Terima kasih banyak",1,1,28,9,"['assalamu', 'alaikum', 'dosen', 'lampir', 'kena', 'dokumen', 'manual', 'terima', 'kasih']"
+30,[05/08/20 10.00.05],dosen,Wa'alaykumsalam. Ok nnt sy cek,1,1,29,9,"['wa', 'alaykumsalam', 'oke', 'cek']"
+31,[05/08/20 10.03.30],mahasiswa,"Baik pak, terima kasih",1,1,30,9,"['terima', 'kasih']"
+32,[19/08/20 09.39.53],mahasiswa,"Assalamu’alaikum pak, saya sudah submit praproposal pada filkom apps atas nama [MHS]. Saat ini progres saya sudah mengerjakan bab 4. Insyaallah besok akan saya lampirkan dokumennya. Terima kasih banyak atas waktunya Pak ",1,1,31,9,"['assalamu', 'alaikum', 'submit', 'praproposal', 'filkom', 'apps', 'nama', 'mahasiswa', 'progres', 'kerja', 'bab', '4', 'insyaallah', 'besok', 'lampir', 'dokumen', 'terima', 'kasih']"
+33,[19/08/20 12.24.51],mahasiswa,"Saya ingin menanyakan juga perihal flowchart, apkah harus detail atau gambaran umumnya saja pak? Terima kasih",1,1,32,9,"['perihal', 'diagram alir', 'apkah', 'detail', 'gambar', 'terima', 'kasih']"
+34,[19/08/20 13.58.01],dosen,Flowchart bisa digambarkan alur program scr umum lalu bisa didetailkan,1,1,33,9,"['diagram alir', 'gambar', 'alur', 'program', 'detail']"
+35,[19/08/20 14.02.48],mahasiswa,Baik pak terimakasish banyak,1,1,34,9,['terimakasish']
+36,[25/08/20 08.22.02],mahasiswa,"Assalamu'alaikum pak [DOSEN]. saya ingin menanyakan waktu bimbingan skripsi untuk membahas p0 dengan bapak. Sekiranya kapan saya bisa melakukan bimbingan? Terima kasih atas waktunya, mohon maaf mengganggu",1,1,35,9,"['assalamu', 'alaikum', 'dosen', 'bimbing', 'skripsi', 'bahas', 'p0', 'sekira', 'laku', 'bimbing', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']"
+37,[25/08/20 08.23.28],dosen,Silahkan bisa disampaikan disini,1,1,36,9,['silah']
+38,‎[25/08/20 08.23.54],mahasiswa,<DOC>,1,1,37,9,['doc']
+39,[25/08/20 08.24.06],mahasiswa,"Berikut saya lampirkan mengenai dokumennya, terima kasih banyak pak",1,1,38,9,"['lampir', 'kena', 'dokumen', 'terima', 'kasih']"
+40,[25/08/20 08.24.18],dosen,"Ok, nnt sy cek",1,1,39,9,"['oke', 'cek']"
+41,[25/08/20 08.25.52],mahasiswa,Baik terimakasih banyak pak,1,1,40,9,['terima kasih']
+42,[01/09/20 09.57.32],mahasiswa,"Assalamu’alaikum Pak [DOSEN], saya ingin menanyakan apakah ada revisi atau saran untuk dokumen saya kemarin? Terima kasih",1,1,41,9,"['assalamu', 'alaikum', 'dosen', 'revisi', 'saran', 'dokumen', 'kemarin', 'terima', 'kasih']"
+43,[04/09/20 10.40.07],dosen,<DOC>,1,1,42,9,['doc']
+44,[04/09/20 10.40.30],dosen,Wa'alaykumsalam.. Berikut revisinya.. Perhatikan penulisannya..,1,1,43,9,"['wa', 'alaykumsalam', 'revisi', 'perhati', 'tulis']"
+45,[04/09/20 12.46.30],mahasiswa,"Baik pak, terimakasih banyak",1,1,44,9,['terima kasih']
+46,[14/10/20 12.21.20],mahasiswa,"Assalamu'alaikum pak [DOSEN]. Berikut saya lampirkan dokumen terbaru saya. Saya ingin menanyakan mengenai p0 apakah dilakukan sendiri-sendiri atau dengan dosen pembimbing 2? Terima kasih atas waktunya, mohon maaf mengganggu",1,-1,45,9,"['assalamu', 'alaikum', 'dosen', 'lampir', 'dokumen', 'kena', 'p0', 'laku', 'dosen', 'bimbing', '2', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']"
+47,[16/10/20 10.35.03],dosen,Wa'alaykumsalam. Pembimbing 2 nya siapa?,1,-1,46,9,"['wa', 'alaykumsalam', 'bimbing', '2', 'nya']"
+48,[16/10/20 11.06.06],mahasiswa,Pak [DOSEN] pak,1,-1,47,9,['dosen']
+49,[16/10/20 12.21.35],dosen,"Ok, mgkn sendiri2 dl ya P0 nya..",1,-1,48,9,"['oke', 'sendiri2', 'iya', 'p0', 'nya']"
+50,[16/10/20 12.39.12],mahasiswa,"Baik pakk, untuk sm pak [DOSEN] kapan ya pak bisa p0?",1,-1,49,9,"['pakk', 'dosen', 'iya', 'p0']"
+51,[19/10/20 12.39.04],mahasiswa,"Assalamu'alaikum pak [DOSEN]. Saya ingin menanyakan mengenai mekanisme p0 bagaimana ya pak? Terima kasih atas waktunya, mohon maaf mengganggu",1,1,50,9,"['assalamu', 'alaikum', 'dosen', 'kena', 'mekanisme', 'p0', 'iya', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']"
+52,[19/10/20 13.04.45],dosen,"Wa'alaykumsalam. Oya, blm sy isikan P0 nya ya.. Nnt sy inputkan",1,1,51,9,"['wa', 'alaykumsalam', 'oya', 'isi', 'p0', 'nya', 'iya', 'inputkan']"
+53,[19/10/20 13.05.17],mahasiswa,"Okay baik pak, terima kasih banyak",1,1,52,9,"['oke', 'terima', 'kasih']"
+54,[19/10/20 13.08.09],dosen,Sudah bimbingan ke Pak [DOSEN]?,1,1,53,9,"['bimbing', 'dosen']"
+55,[19/10/20 13.33.48],mahasiswa,"Mohon maaf pak, saya dengan pak [DOSEN].",1,1,54,9,"['mohon', 'maaf', 'dosen']"
+56,[19/10/20 13.34.12],mahasiswa,Saya belum bimbingan dikarenakan belum dibalas email saya dari minggu lalu,1,1,55,9,"['bimbing', 'balas', 'email', 'minggu']"
+57,[19/10/20 14.08.28],dosen,"Oh, pak [DOSEN]ya.. Ok, nnt cb sy cek proposalnya stelah P0",1,1,56,9,"['oh', 'dosen', 'iya', 'oke', 'coba', 'cek', 'proposal', 'p0']"
+58,[19/10/20 14.09.00],mahasiswa,Okay baik pak,1,1,57,9,['oke']
+59,[17/11/20 13.08.50],mahasiswa,"Assalamu'alaikum pak [DOSEN]. Berikut saya lampirkan dokumen yang sudah saya konsultasikan dengan Pak dosen, dan pengerjaan Bab 4. Terima kasih atas waktunya, mohon maaf mengganggu. ",1,-1,58,9,"['assalamu', 'alaikum', 'dosen', 'lampir', 'dokumen', 'konsultasi', 'dosen', 'kerja', 'bab', '4', 'terima', 'kasih', 'mohon', 'maaf', 'ganggu']"
+60,‎[17/11/20 13.08.56],mahasiswa,<DOC>,1,-1,59,9,['doc']
+61,[20/11/20 10.08.59],mahasiswa,"Assalamu'alaikum Pak [DOSEN], saya belum mengirimkan dokumen manualisasi saya. Berikut saya lampirkan file manualisasi untuk metode saya. Terima kasih pak ",1,-1,60,9,"['assalamu', 'alaikum', 'dosen', 'kirim', 'dokumen', 'manual', 'lampir', 'dokumen', 'manual', 'metode', 'terima', 'kasih']"
+62,[20/11/20 10.09.21],mahasiswa,<DOC>,1,-1,61,9,['doc']
+63,[27/11/20 10.29.09],mahasiswa,"Assalamu’alaikum Pak [DOSEN], saya ingin menanyakan apakah bapak sudah memeriksa dokumen saya kemarin? Jika belum saya ingin mengirimkan dokumen terbaru setelah bimbingan dengan dosen 2. Jika sudah saya ingin menanyakan apakah ada revisi atau saran? Terima kasihh pak mohon maaf mengganggu",1,1,62,9,"['assalamu', 'alaikum', 'dosen', 'periksa', 'dokumen', 'kemarin', 'kirim', 'dokumen', 'bimbing', 'dosen', '2', 'revisi', 'saran', 'terima', 'kasihh', 'mohon', 'maaf', 'ganggu']"
+64,[27/11/20 10.31.03],dosen,Wa'alaykumsalam. Ok silahkan bs dikirim,1,1,63,9,"['wa', 'alaykumsalam', 'oke', 'silah', 'kirim']"
+65,[27/11/20 10.39.26],mahasiswa,<DOC>,1,1,64,9,['doc']
+66,[27/11/20 10.39.34],mahasiswa,Berikut saya lampirkan dokumen p1 terbaru saya pak,1,1,65,9,"['lampir', 'dokumen', 'p1']"
+67,[27/11/20 10.39.39],mahasiswa,Terima kasih banyaak,1,1,66,9,"['terima', 'kasih']"
+68,[02/12/20 09.33.12],mahasiswa,"Assalamu’alaikum pak [DOSEN], saya ingin menanyakan persyaratan untuk P1 apa ya pak? Terima kasih",1,1,67,9,"['assalamu', 'alaikum', 'dosen', 'syarat', 'p1', 'iya', 'terima', 'kasih']"
+69,[02/12/20 12.25.15],mahasiswa,Terima kasih banyak pak,1,1,68,9,"['terima', 'kasih']"
+70,[02/12/20 12.33.37],dosen,Syarat jumlah bimbingan sudah dipenuhi?,1,1,69,9,"['syarat', 'bimbing', 'penuh']"
+71,[02/12/20 12.33.57],dosen,Diisi logbooknya dan diajukan ke pembimbing masing2,1,1,70,9,"['isi', 'logbooknya', 'aju', 'bimbing']"
+72,[02/12/20 12.34.31],mahasiswa,Hari ini akan melakukan bimbingan dengan dosen 2 pak. Sehingga sudah terpenuhi,1,1,71,9,"['laku', 'bimbing', 'dosen', '2', 'penuh']"
+73,[02/12/20 12.34.36],mahasiswa,Baik pak,1,1,72,9,[]
+74,[02/12/20 12.35.33],dosen,Ok. Jk sudah silahkan diajukan utk 01,1,1,73,9,"['oke', 'silah', 'aju', '01']"
+75,[02/12/20 12.35.36],dosen,P1,1,1,74,9,['p1']
+76,[02/12/20 12.36.18],mahasiswa,Baik pak,1,1,75,9,[]
+77,[07/12/20 09.54.08],mahasiswa,"Assalamu’alaikum pak [DOSEN], saya sudah melakukan implementasi. Tetapi hasil yang saya dapatkan untuk MAPEnya cukup besar. Apakah pak  mempunya saran untuk kodingan saya? Terima kasih",1,-1,76,9,"['assalamu', 'alaikum', 'dosen', 'laku', 'implementasi', 'hasil', 'mapenya', 'saran', 'kodingan', 'terima', 'kasih']"
+78,[07/12/20 12.14.41],dosen,Data yg digunakan semua?,1,-1,77,9,['data']
+79,[07/12/20 12.15.44],mahasiswa,"Sesuai dengan fitur yg saya ambil pak. Misalkan saya menggunakan 3 fitur, maka data saya kurangi 3 agar menghindari kekosongan data",1,-1,78,9,"['sesuai', 'fitur', 'ambil', '3', 'fitur', 'data', '3', 'hindar', 'kosong', 'data']"
+80,[08/12/20 09.32.58],mahasiswa,"Assalamu’alaikum pak [DOSEN], berikut saya lampirkan dokumen skripsi saya yang sudah saya revisi dan pengerjaan bab 5",1,-1,79,9,"['assalamu', 'alaikum', 'dosen', 'lampir', 'dokumen', 'skripsi', 'revisi', 'kerja', 'bab', '5']"
+81,[08/12/20 09.33.09,mahasiswa,<DOC>,1,-1,80,9,['doc']
+82,[08/12/20 09.34.21],mahasiswa,Saya ingin menanyakan mengenai pengujian. Apakah jika saya ingin membandingkan antara metode relm dengan metode elm biasa pada bagian flowchart maupun implementasi harus menampilkan metode elm juga pak? Terima kasih,1,-1,81,9,"['kena', 'uji', 'banding', 'metode', 'relm', 'metode', 'elm', 'diagram alir', 'implementasi', 'tampil', 'metode', 'elm', 'terima', 'kasih']"
+83,[11/12/20 14.05.25],mahasiswa,"Assalamu’alaikum pak, apakah ada revisi maupun saran dari Pak ? Terima kasih",1,-1,82,9,"['assalamu', 'alaikum', 'revisi', 'saran', 'terima', 'kasih']"
+84,[14/12/20 14.25.14],mahasiswa,"Assalamu’alaikum Pak [DOSEN], saya sudah bimbingan dengan pak dosen sehingga jumlah minimal pada untuk P1 sudah terpenuhi. Syarat untuk P1 apa ya pak? Makasihh",1,-1,83,9,"['assalamu', 'alaikum', 'dosen', 'bimbing', 'dosen', 'minimal', 'p1', 'penuh', 'syarat', 'p1', 'iya', 'makasihh']"
+85,[15/12/20 08.54.21],dosen,Wa'alaykumsalam. Sy ajukan pembukaan akses terbatas dl ke kajur,1,1,84,9,"['wa', 'alaykumsalam', 'aju', 'buka', 'akses', 'batas', 'ketua jurusan']"
+86,[15/12/20 09.02.02],mahasiswa,Baik terima kasih banyak pak,1,1,85,9,"['terima', 'kasih']"
+87,[15/12/20 12.12.24],mahasiswa,"Pak [DOSEN], pada implementasi saya kebingungan pada invers matriks. Apakah saya boleh menggunakan library? Sudah 3 hari saya gabisa bisa pak",1,1,86,9,"['dosen', 'implementasi', 'bingung', 'invers', 'matriks', 'library', '3', 'gabisa']"
+88,[15/12/20 14.38.09],dosen,Ok silahkan,1,1,87,9,"['oke', 'silah']"
+89,[15/12/20 15.10.06],mahasiswa,Baik terima kasih banyaak,1,1,88,9,"['terima', 'kasih']"
+90,[16/12/20 10.06.38],mahasiswa,"Assalamu'alaikum pak [DOSEN], berikut saya lampirkan dokumen skripsi terbaru saya sudah sampai bab 7. Terima kasih banyak pak",1,1,89,9,"['assalamu', 'alaikum', 'dosen', 'lampir', 'dokumen', 'skripsi', 'bab', '7', 'terima', 'kasih']"
+91,[16/12/20 10.06.36],mahasiswa,<DOC>,1,1,90,9,['doc']
+92,[16/12/20 10.28.38],dosen,"Wa'alaykumsalam.. Ok.. Tiap bimbingan silahkan bisa diisi logbooknya ya, spy nnt bs sgera ngejar P2 nya",1,1,91,9,"['wa', 'alaykumsalam', 'oke', 'bimbing', 'silah', 'isi', 'logbooknya', 'iya', 'ngejar', 'p2', 'nya']"
+93,[16/12/20 10.29.26],mahasiswa,"Baik pak, terima kasih banyak",1,1,92,9,"['terima', 'kasih']"
+94,[16/12/20 14.00.07],dosen,<DOC>,1,1,93,9,['doc']
+95,[16/12/20 14.00.15],dosen,Feedback dr saya,1,1,94,9,['feedback']
+96,[16/12/20 14.00.56],mahasiswa,Baik terima kasih atas balasannya pak,1,1,95,9,"['terima', 'kasih', 'balas']"
+97,[17/12/20 10.51.12],mahasiswa,"Assalamu’alaikum pak [DOSEN] saya sudah di P1 kan oleh pak dosen, dan disuruh mengejar pendaftaran semhas. Apakah saya boleh semhas semester ini pak? Terima kasih",1,1,96,9,"['assalamu', 'alaikum', 'dosen', 'p1', 'dosen', 'suruh', 'kejar', 'daftar', 'seminar hasil', 'seminar hasil', 'semester', 'terima', 'kasih']"
+98,[17/12/20 11.49.45],dosen,Bisa.. Terakhir yg sdh sy periksa smp bab brp?,1,1,97,9,"['periksa', 'bab']"
+99,[17/12/20 11.50.30],mahasiswa,"Sampai bab 7 pak, saya besok akan mengirim revisi gabungan dr bapak dengan revisi pak dosen",1,1,98,9,"['bab', '7', 'besok', 'kirim', 'revisi', 'gabung', 'revisi', 'dosen']"
+100,[17/12/20 12.14.14],dosen,Ok,1,1,99,9,['oke']
+101,[17/12/20 12.58.35],mahasiswa,Baik terima kasih banyak pak,1,1,100,9,"['terima', 'kasih']"
+102,[18/12/20 08.51.50],mahasiswa,"Assalamu’alaikum pak , berikut dokumen skripsi terbaru saya terima kasih",1,-1,101,9,"['assalamu', 'alaikum', 'dokumen', 'skripsi', 'terima', 'kasih']"
+103,‎[18/12/20 08.52.08],mahasiswa,<DOC>,1,-1,102,9,['doc']
+104,[18/12/20 08.53.06],mahasiswa,"Saya sudah mencukupi jumlah untuk p2 pada kedua dosen pak. Kalau bisa tolong di p2 kan, terima kasih",1,-1,103,9,"['p2', 'dosen', 'tolong', 'p2', 'terima', 'kasih']"
+105,[21/12/20 10.19.39],mahasiswa,"Assalamu’alaikum pak [DOSEN], berikut saya lampirkan dokumen skripsi saya dan jurnal saya. Untuk pelaksanaan P2 persyaratan apa yang diperlukan ya pak? Terima kasih ",1,1,104,9,"['assalamu', 'alaikum', 'dosen', 'lampir', 'dokumen', 'skripsi', 'jurnal', 'laksana', 'p2', 'syarat', 'iya', 'terima', 'kasih']"
+106,[21/12/20 10.21.34],mahasiswa,<DOC>,1,1,105,9,['doc']
+107,[21/12/20 14.43.02],dosen,Sudah sy ajukan pembukaan akses terbatas ke kajur,-1,1,106,9,"['aju', 'buka', 'akses', 'batas', 'ketua jurusan']"
+108,[21/12/20 14.46.31],mahasiswa,Terima kasih banyak pak,1,1,107,9,"['terima', 'kasih']"
+109,[22/12/20 11.05.42],mahasiswa,"Assalamu’alaikum pak [DOSEN], pembukaan akses terbatas sudah terbuka. Mengenai P2 nya bagaimana ya pak? Terima kasih",1,-1,108,9,"['assalamu', 'alaikum', 'dosen', 'buka', 'akses', 'batas', 'buka', 'kena', 'p2', 'nya', 'iya', 'terima', 'kasih']"
+110,[22/12/20 12.56.21],mahasiswa,"Terima kasih pak sudah di P2kan, dan saya sudah melapor ke pak dosen untuk penilaian P2 dan beliau sudah melakukannya pak. Saat ini masih dibutuhkan untuk verifikasi dari bapak. Mohon maaf mengganggu waktunya pak ",1,-1,109,9,"['terima', 'kasih', 'p2kan', 'lapor', 'dosen', 'nilai', 'p2', 'beliau', 'laku', 'butuh', 'verifikasi', 'mohon', 'maaf', 'ganggu']"
+111,[22/12/20 12.59.55],dosen,Ok,1,-1,110,9,['oke']
+112,[22/12/20 13.08.57],mahasiswa,Terimakasih banyak pak,1,-1,111,9,['terima kasih']
+113,[22/12/20 13.19.20],mahasiswa,"Ohiya pak, saya minta tolong mohon untuk di ttd kan logbook dan lembar pengesahan saya. Terima kasih banyak",1,-1,112,9,"['ohiya', 'tolong', 'mohon', 'tanda tangan', 'logbook', 'lembar', 'kesah', 'terima', 'kasih']"
+114,‎[22/12/20 13.19.19],mahasiswa,<DOC>,1,-1,113,9,['doc']
+115,[23/12/20 09.32.52],mahasiswa,"Assalamu’alaikum pak [DOSEN], saya ingin meminta tolong untuk verifikasi semhas dan ttd untuk administrasi daftar semhas. Terima kasih pak",1,1,114,9,"['assalamu', 'alaikum', 'dosen', 'tolong', 'verifikasi', 'seminar hasil', 'tanda tangan', 'administrasi', 'daftar', 'seminar hasil', 'terima', 'kasih']"
+116,[23/12/20 09.40.51],dosen,<DOC>,1,1,115,9,['doc']
+117,[23/12/20 09.47.45],mahasiswa,Terima kasih atas balasannya pak,1,1,116,9,"['terima', 'kasih', 'balas']"
+118,[05/01/21 11.35.31],mahasiswa,"Assalamu'alaikum wr wb. Selamat siang Pak [DOSEN]. Saya ingin memberi info mengenai ujian skripsi saya yang akan diadakan pada hari Jum’at tanggal 08 Januari 2021 pukul 07.30 WIB. Terkait hal tersebut, apakah Bapak bisa hadir? Sekian, mohon maaf untuk salah kata dan mengganggu waktu Bapak. Untuk perhatian yang Bapak berikan, saya mengucapkan terima kasih. Wassalamu'alaikum wr wb.",1,1,117,9,"['assalamu', 'alaikum', 'wr', 'wb', 'selamat', 'siang', 'dosen', 'informasi', 'kena', 'uji', 'skripsi', 'jum', 'tanggal', '08', 'januari', '2021', '07', '30', 'wib', 'kait', 'hadir', 'sekian', 'mohon', 'maaf', 'salah', 'ganggu', 'perhati', 'ikan', 'terima', 'kasih', 'wassalamu', 'alaikum', 'wr', 'wb']"
+119,[05/01/21 12.13.54],dosen,Wa'alaykumsalam. InsyaAllah,1,1,118,9,"['wa', 'alaykumsalam', 'insyaallah']"
+120,[05/01/21 12.16.51],mahasiswa,Baik terima kasih banyak pak atas balasannya,1,1,119,9,"['terima', 'kasih', 'balas']"
+121,[08/01/21 07.09.23],mahasiswa,"Assalamu'alaikum wr wb. Selamat pagi Pak [DOSEN], saya mohon maaf mengganggu waktunya pada pagi hari ini. Saya sekadar ingin mengingatkan kembali mengenai ujian skripsi saya yang di jadwalkan pada hari ini jam 7.30 dengan bapak sebagai dosen pembimbing 1 saya. Sekian mohon maaf jika ada salah kata pak. Untuk perhatian yang Bapak berikan, saya ucapkan terima kasih. Wassalamu'alaikum wr wb",1,1,120,9,"['assalamu', 'alaikum', 'wr', 'wb', 'selamat', 'pagi', 'dosen', 'mohon', 'maaf', 'ganggu', 'pagi', 'kena', 'uji', 'skripsi', 'jadwal', 'jam', '7', '30', 'dosen', 'bimbing', '1', 'sekian', 'mohon', 'maaf', 'salah', 'perhati', 'ikan', 'terima', 'kasih', 'wassalamu', 'alaikum', 'wr', 'wb']"
+122,[08/01/21 07.10.31],mahasiswa,Berikut link untuk gmeetnya https://meet.google.com/lookup/g6bes7hvte,1,1,121,9,"['link', 'gmeetnya', 'url']"
+123,[08/01/21 07.10.54],dosen,ok,1,1,122,9,['oke']
+124,[08/01/21 07.11.05],mahasiswa,Baik teirma kasih banyak pak,1,1,123,9,"['teirma', 'kasih']"
+125,[08/01/21 09.04.19],dosen,Silahkan bisa masuk lg,1,1,124,9,"['silah', 'masuk']"
+126,[08/01/21 09.04.34],mahasiswa,Baik pak,1,1,125,9,[]
