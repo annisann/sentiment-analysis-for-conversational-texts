@@ -14,7 +14,7 @@ timestamp,sender,messages,sentiment_per_chat,sentiment_per_sesi
 8/10/20,mahasiswa,"Baik Bapak, terima kasih banyak informasinya ",1,1
 12/10/20,mahasiswa,"Assalamualaikum Wr Wb, selamat siang Pak [DOSEN]. Terkait dokumen proposal skripsi saya apakah ada saran dan masukan Pak? Terima kasih banyak Bapak atas waktunya ",1,-1
 12/10/20,dosen,Waalaikumsalam,1,-1
-12/10/20,dosen,"bgmn mbak Atika, skrg di rumah atau di malang ? ",-1,-1
+12/10/20,dosen,"bgmn mbak [MHS], skrg di rumah atau di malang ? ",-1,-1
 12/10/20,mahasiswa,Saya di rumah Bandung Pak,1,-1
 12/10/20,dosen,Bandung mana ?,1,-1
 12/10/20,mahasiswa,"Daerah Cikutra, Kota Bandung Pak ",1,-1
